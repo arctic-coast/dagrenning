@@ -1,0 +1,120 @@
+{
+  "title": "Prufuþáttur",
+  "segments": [
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Góðan daginn frá Húsavík! Í dag er sunnudagurinn áttundi nóvember.",
+      "translation": "Good morning from Húsavík! Today is Sunday the eighth of November."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Good morning from Húsavík! Today is Sunday the eighth of November.",
+      "translation": "Good morning from Húsavík! Today is Sunday the eighth of November."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Það er alskýjað og hitinn er um þrjár gráður. Vindurinn er hægur. Sólin kemur upp klukkan hálf tíu og sest fjórtán mínútur yfir fjögur.",
+      "translation": "It's overcast and about three degrees, with a light wind. Sunrise is at half past nine, and sunset at fourteen minutes past four."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "It's overcast and about three degrees, with a light wind. Sunrise is at half past nine, and sunset at fourteen minutes past four.",
+      "translation": "It's overcast and about three degrees, with a light wind. Sunrise is at half past nine, and sunset at fourteen minutes past four."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Word of the day.",
+      "translation": "Word of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "alskýjað",
+      "translation": "Overcast, when the whole sky is covered in cloud."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Overcast, when the whole sky is covered in cloud.",
+      "translation": "Overcast, when the whole sky is covered in cloud."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Í dag er alskýjað.",
+      "translation": "Today it's overcast. Sentence of the day."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Today it's overcast. Sentence of the day.",
+      "translation": "Today it's overcast. Sentence of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Ég ætla að fara í göngutúr.",
+      "translation": "I'm going to go for a walk. Listen once more, then repeat it."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "I'm going to go for a walk. Listen once more, then repeat it.",
+      "translation": "I'm going to go for a walk. Listen once more, then repeat it."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": true,
+      "text": "Ég ætla að fara í göngutúr.",
+      "translation": "Ég ætla að fara í göngutúr."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Eigðu góðan sunnudag!",
+      "translation": "Have a good Sunday!"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Have a good Sunday!",
+      "translation": "Have a good Sunday!"
+    }
+  ],
+  "words": [
+    {
+      "icelandic": "alskýjað",
+      "english": "overcast"
+    }
+  ],
+  "sentence": {
+    "icelandic": "Ég ætla að fara í göngutúr.",
+    "english": "I'm going to go for a walk."
+  },
+  "news_links": [],
+  "phrases": [
+    {
+      "icelandic": "að fara í göngutúr",
+      "english": "to go for a walk"
+    }
+  ]
+}

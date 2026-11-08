@@ -1,0 +1,403 @@
+<title>Icelandic Voice Test</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: one narrow listening column; clip tabs on top, one row per voice, ratings inline. */
+:root {
+  --bg: #f3f5f6;
+  --surface: #ffffff;
+  --fg: #1d2529;
+  --muted: #5d6a70;
+  --line: #d6dde0;
+  --accent: #1f6f8b;      /* fjord blue */
+  --accent-soft: #e1eef3;
+  --star: #c98a1b;
+  --ok: #2f7d4f;
+  --font-text: "Literata", Georgia, "Times New Roman", serif;
+  --font-ui: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #12181b; --surface: #1a2226; --fg: #e3e9eb; --muted: #93a2a8; --line: #2c373c;
+    --accent: #6fb6d0; --accent-soft: #1c3440; --star: #e2a93f; --ok: #5fbf86; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #12181b; --surface: #1a2226; --fg: #e3e9eb; --muted: #93a2a8; --line: #2c373c;
+  --accent: #6fb6d0; --accent-soft: #1c3440; --star: #e2a93f; --ok: #5fbf86; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--bg); color: var(--fg); font-family: var(--font-ui); font-size: 15px; line-height: 1.5;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 28px 64px;
+}
+.wrap { max-width: 760px; margin: 0 auto; display: grid; gap: 28px; }
+h1 { font-family: var(--font-text); font-weight: 600; font-size: 1.9rem; line-height: 1.2; margin: 0; text-wrap: balance; }
+h2 { font-size: 0.78rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); margin: 0; font-weight: 600; }
+p { margin: 0; }
+.intro { display: grid; gap: 10px; max-width: 65ch; }
+.intro .is { font-family: var(--font-text); color: var(--muted); font-style: italic; }
+.who { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+.who label { font-weight: 500; }
+input[type=text], textarea {
+  font: inherit; color: var(--fg); background: var(--surface); border: 1px solid var(--line);
+  border-radius: 6px; padding: 7px 10px; min-width: 0;
+}
+input[type=text] { width: min(260px, 100%); }
+input:focus-visible, textarea:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.tabs { display: flex; flex-wrap: wrap; gap: 6px; border-bottom: 1px solid var(--line); padding-bottom: 10px; }
+.tab {
+  font: inherit; font-weight: 500; background: transparent; color: var(--muted); border: 1px solid var(--line);
+  border-radius: 999px; padding: 5px 13px; cursor: pointer;
+}
+.tab[aria-selected=true] { background: var(--accent); border-color: var(--accent); color: var(--surface); }
+.tab .n { font-family: var(--font-mono); font-size: 0.8em; opacity: 0.8; margin-left: 4px; }
+.cliptext { display: grid; gap: 8px; }
+.cliptext .is { font-family: var(--font-text); font-size: 1.12rem; line-height: 1.6; }
+.cliptext .en { color: var(--muted); font-size: 0.92rem; }
+.cliptext .note { font-size: 0.85rem; color: var(--muted); }
+.voices { display: grid; gap: 0; border-top: 1px solid var(--line); }
+.voice { display: grid; grid-template-columns: 74px minmax(0, 1fr); gap: 6px 14px; padding: 14px 0; border-bottom: 1px solid var(--line); align-items: center; }
+.tag { font-family: var(--font-mono); font-weight: 500; font-size: 0.95rem; }
+.tag small { display: block; font-family: var(--font-ui); font-size: 0.72rem; color: var(--muted); font-weight: 400; }
+.playrow { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 16px; min-width: 0; }
+audio { height: 34px; width: min(300px, 100%); }
+.real { font-size: 0.82rem; color: var(--muted); min-width: 0; overflow-wrap: anywhere; }
+.real[hidden] { display: none !important; }
+.err { font-size: 0.85rem; color: var(--muted); font-style: italic; }
+.stars { display: inline-flex; gap: 2px; }
+.stars button {
+  font: inherit; font-size: 1.25rem; line-height: 1; background: none; border: 0; padding: 2px 3px; cursor: pointer; color: var(--line);
+}
+.stars button.on { color: var(--star); }
+.comment { grid-column: 2; }
+.comment textarea { width: 100%; min-height: 34px; resize: vertical; font-size: 0.9rem; }
+.bar { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; justify-content: space-between; }
+.btn {
+  font: inherit; font-weight: 500; background: var(--surface); color: var(--fg); border: 1px solid var(--line);
+  border-radius: 6px; padding: 7px 14px; cursor: pointer;
+}
+.btn.primary { background: var(--accent); color: var(--surface); border-color: var(--accent); }
+.status { font-size: 0.88rem; color: var(--muted); }
+.status.ok { color: var(--ok); }
+.panel { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 16px; display: grid; gap: 10px; }
+.panel textarea { width: 100%; min-height: 120px; font-family: var(--font-mono); font-size: 0.8rem; }
+.scale { font-size: 0.82rem; color: var(--muted); }
+.results { overflow-x: auto; }
+table { border-collapse: collapse; font-size: 0.88rem; width: 100%; }
+th, td { text-align: left; padding: 6px 10px 6px 0; border-bottom: 1px solid var(--line); vertical-align: top; }
+td.num { font-family: var(--font-mono); font-variant-numeric: tabular-nums; }
+.english { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; }
+@media (max-width: 520px) {
+  .voice { grid-template-columns: 1fr; }
+  .comment { grid-column: 1; }
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+
+<div class="wrap">
+  <header class="intro">
+    <h2>Icepod · voice test</h2>
+    <h1>Which Icelandic voice sounds right?</h1>
+    <p>These clips are for a daily Icelandic learning podcast. Each voice reads the same four short texts. Listen and give each one 1 to 5 stars for how natural and correct it sounds. Comments on pronunciation are very welcome.</p>
+    <p class="is">Hlustaðu á hverja rödd og gefðu henni eina til fimm stjörnur eftir því hversu eðlileg og rétt hún hljómar.</p>
+    <p class="scale">1 = hard to understand or clearly wrong · 3 = understandable but robotic or accented · 5 = sounds like a native speaker</p>
+  </header>
+
+  <div class="who">
+    <label for="rater">Your name</label>
+    <input type="text" id="rater" placeholder="e.g. Sigga" autocomplete="name">
+    <button class="btn" id="reveal" type="button" aria-pressed="false">Show voice names</button>
+  </div>
+
+  <nav class="tabs" id="tabs" role="tablist" aria-label="Clips"></nav>
+
+  <section class="cliptext" id="cliptext" aria-live="polite"></section>
+
+  <section class="voices" id="voices">
+    <p class="status">Loading samples…</p>
+  </section>
+
+  <div class="bar">
+    <span class="status" id="saveStatus">Ratings are kept in this browser until you save them.</span>
+    <div style="display:flex;gap:8px;flex-wrap:wrap">
+      <button class="btn" id="copyBtn" type="button">Copy my ratings</button>
+      <button class="btn primary" id="saveBtn" type="button" hidden>Save ratings</button>
+    </div>
+  </div>
+
+  <section class="panel" id="copyPanel" hidden>
+    <p>Send this text to Rhys if saving here doesn't work for you:</p>
+    <textarea id="copyText" readonly></textarea>
+  </section>
+
+  <section class="english">
+    <h2>English voice for the explanations</h2>
+    <div id="englishClip" class="playrow"></div>
+  </section>
+
+  <section id="resultsWrap" hidden style="display:grid;gap:10px">
+    <h2>Everyone's ratings (only you can see this)</h2>
+    <div class="results" id="results"></div>
+  </section>
+</div>
+
+<script>
+(() => {
+  const EN = {
+    passage: "Good morning from Húsavík! Today is Saturday the seventh of November, 2026. It's five to seven. The weather today: this morning it's four to six degrees and cloudy. Later it could reach nine degrees. Mostly dry, but the wind may pick up as the day goes on. The sun rises at 9:27 and sets at 16:17. In the news: Iceland's men's handball team beat Ukraine 48–26. Sentence of the day: I don't completely agree, but I understand what you mean. Have a good Saturday!",
+    numerals: "The same kind of facts written with digits and abbreviations (07.11.2026, 06:55, °C, m/s, kl.). This checks whether the voice reads them correctly in Icelandic.",
+    names: "Place names that are hard to pronounce.",
+    vocab: "Words of the day, read slowly: to increase, to criticise, to mix, to score, to agree."
+  };
+  const NOTE = {
+    numerals: "Listen for wrong numbers, English-style dates, or units read letter by letter.",
+    vocab: "This one is read at a slower speed on purpose."
+  };
+
+  const $ = (id) => document.getElementById(id);
+  const store = {
+    get(k) { try { return JSON.parse(localStorage.getItem(k)); } catch { return null; } },
+    set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} }
+  };
+
+  let manifest = null, voiceKeys = [], letters = {}, current = "passage";
+  let reveal = false;
+  let state = store.get("icepod-ratings") || { name: "", scores: {}, comments: {} };
+  let db = null, uid = null, dirty = false;
+
+  // Stable pseudo-random order so voices from one provider aren't grouped together.
+  function hash(s) { let h = 2166136261; for (const c of s) { h ^= c.codePointAt(0); h = Math.imul(h, 16777619); } return h >>> 0; }
+
+  function prettyName(key) {
+    const [prov, ...rest] = key.split("/");
+    const voice = rest.join("/");
+    const P = { edge: "Microsoft neural (free route)", azure: "Microsoft Azure", elevenlabs: "ElevenLabs", piper: "Piper (open source)", gtts: "Google Translate" };
+    return `${P[prov] || prov} · ${voice}`;
+  }
+
+  function persist() { store.set("icepod-ratings", state); dirty = true; updateSaveStatus(); }
+
+  function updateSaveStatus(msg, ok) {
+    const el = $("saveStatus");
+    if (msg) { el.textContent = msg; el.className = "status" + (ok ? " ok" : ""); return; }
+    const n = Object.values(state.scores).reduce((a, v) => a + Object.keys(v).length, 0);
+    el.className = "status";
+    el.textContent = db
+      ? (dirty ? `${n} ratings, not saved yet.` : `${n} ratings saved.`)
+      : `${n} ratings, kept in this browser. Use "Copy my ratings" to send them.`;
+  }
+
+  function renderTabs() {
+    const tabs = $("tabs");
+    tabs.textContent = "";
+    for (const [cid, clip] of Object.entries(manifest.clips)) {
+      const b = document.createElement("button");
+      b.className = "tab"; b.type = "button"; b.setAttribute("role", "tab"); b.id = "tab-" + cid;
+      b.setAttribute("aria-selected", cid === current);
+      const done = voiceKeys.filter(k => state.scores[k]?.[cid]).length;
+      const avail = voiceKeys.filter(k => entryFor(k, cid)?.file).length;
+      b.append(clip.label);
+      const n = document.createElement("span"); n.className = "n"; n.textContent = `${done}/${avail}`;
+      b.append(n);
+      b.onclick = () => { current = cid; renderAll(); };
+      tabs.append(b);
+    }
+  }
+
+  function renderClipText() {
+    const c = manifest.clips[current], box = $("cliptext");
+    box.textContent = "";
+    const is = document.createElement("p"); is.className = "is"; is.lang = "is"; is.textContent = c.text;
+    const en = document.createElement("p"); en.className = "en"; en.textContent = EN[current] || "";
+    box.append(is, en);
+    if (NOTE[current]) { const n = document.createElement("p"); n.className = "note"; n.textContent = NOTE[current]; box.append(n); }
+  }
+
+  function entryFor(key, cid) {
+    return manifest.entries.find(e => `${e.provider}/${e.voice}` === key && e.clip === cid);
+  }
+
+  function renderVoices() {
+    const box = $("voices");
+    box.textContent = "";
+    for (const key of voiceKeys) {
+      const e = entryFor(key, current);
+      if (!e) continue;
+      const row = document.createElement("div"); row.className = "voice";
+      const tag = document.createElement("div"); tag.className = "tag";
+      tag.textContent = "Voice " + letters[key];
+      const play = document.createElement("div"); play.className = "playrow";
+      if (e.file) {
+        const a = document.createElement("audio"); a.controls = true; a.preload = "none";
+        a.src = "samples/" + e.file.split("/").map(encodeURIComponent).join("/");
+        a.addEventListener("play", () => document.querySelectorAll("audio").forEach(o => { if (o !== a) o.pause(); }));
+        play.append(a, makeStars(key));
+      } else {
+        const er = document.createElement("span"); er.className = "err"; er.textContent = "This voice couldn't read this clip.";
+        play.append(er);
+      }
+      const real = document.createElement("span"); real.className = "real"; real.hidden = !reveal;
+      real.textContent = prettyName(key) + (e.note ? ` — ${e.note}` : "") + (e.error ? ` (error: ${e.error})` : "");
+      play.append(real);
+      row.append(tag, play);
+      if (e.file) {
+        const cm = document.createElement("div"); cm.className = "comment";
+        const ta = document.createElement("textarea");
+        ta.id = `c-${letters[key]}`; ta.rows = 1;
+        ta.placeholder = "Comment on Voice " + letters[key] + " (optional)";
+        ta.setAttribute("aria-label", ta.placeholder);
+        ta.value = state.comments[key] || "";
+        ta.addEventListener("input", () => { state.comments[key] = ta.value; persist(); });
+        cm.append(ta); row.append(cm);
+      }
+      box.append(row);
+    }
+  }
+
+  function makeStars(key) {
+    const wrap = document.createElement("span"); wrap.className = "stars";
+    wrap.setAttribute("role", "radiogroup"); wrap.setAttribute("aria-label", `Rating for Voice ${letters[key]}`);
+    const val = state.scores[key]?.[current] || 0;
+    for (let i = 1; i <= 5; i++) {
+      const b = document.createElement("button"); b.type = "button"; b.textContent = "★";
+      b.className = i <= val ? "on" : ""; b.setAttribute("role", "radio");
+      b.setAttribute("aria-checked", i === val); b.setAttribute("aria-label", `${i} star${i > 1 ? "s" : ""}`);
+      b.onclick = () => {
+        state.scores[key] = state.scores[key] || {};
+        if (state.scores[key][current] === i) delete state.scores[key][current]; else state.scores[key][current] = i;
+        persist(); renderTabs();
+        wrap.replaceWith(makeStars(key));
+      };
+      wrap.append(b);
+    }
+    return wrap;
+  }
+
+  function renderEnglish() {
+    const e = manifest.entries.find(x => x.clip === "english" && x.file);
+    const box = $("englishClip"); box.textContent = "";
+    if (!e) { box.textContent = "No English sample yet."; return; }
+    const a = document.createElement("audio"); a.controls = true; a.preload = "none";
+    a.src = "samples/" + e.file.split("/").map(encodeURIComponent).join("/");
+    const t = document.createElement("span"); t.className = "real"; t.textContent = `“${manifest.english_text}” — ${e.voice}`;
+    box.append(a, t);
+  }
+
+  function renderAll() { renderTabs(); renderClipText(); renderVoices(); updateSaveStatus(); }
+
+  function exportText() {
+    const lines = [`Ratings from: ${state.name || "(no name)"}`];
+    for (const key of voiceKeys) {
+      const s = state.scores[key] || {};
+      const parts = Object.keys(manifest.clips).filter(c => s[c]).map(c => `${c} ${s[c]}`);
+      const cm = (state.comments[key] || "").trim();
+      if (parts.length || cm) lines.push(`Voice ${letters[key]} [${key}]: ${parts.join(", ")}${cm ? ` — ${cm}` : ""}`);
+    }
+    return lines.join("\n");
+  }
+
+  $("rater").value = state.name || "";
+  $("rater").addEventListener("input", (ev) => { state.name = ev.target.value; persist(); });
+
+  $("reveal").onclick = () => {
+    reveal = !reveal;
+    $("reveal").setAttribute("aria-pressed", reveal);
+    $("reveal").textContent = reveal ? "Hide voice names" : "Show voice names";
+    document.querySelectorAll(".voice .real").forEach(el => el.hidden = !reveal);
+  };
+
+  $("copyBtn").onclick = () => {
+    const txt = exportText();
+    $("copyText").value = txt; $("copyPanel").hidden = false;
+    const done = () => updateSaveStatus("Copied. Paste it into a message to Rhys.", true);
+    const fallback = () => { $("copyText").focus(); $("copyText").select(); updateSaveStatus("Select the text below and copy it."); };
+    try { navigator.clipboard.writeText(txt).then(done, fallback); } catch { fallback(); }
+  };
+
+  $("saveBtn").onclick = async () => {
+    if (!db || !uid) return;
+    if (!state.name.trim()) { updateSaveStatus("Add your name first, so Rhys knows whose ratings these are."); $("rater").focus(); return; }
+    $("saveBtn").disabled = true;
+    try {
+      await db.doc("ratings/" + uid).set({ name: state.name.trim(), scores: state.scores, comments: state.comments, updatedAt: new Date().toISOString() });
+      dirty = false; updateSaveStatus("Saved. Thank you!", true);
+    } catch (e) {
+      db = null; $("saveBtn").hidden = true;
+      updateSaveStatus(`Saving didn't work here (${e?.code || "error"}). Use "Copy my ratings" instead.`);
+    } finally { $("saveBtn").disabled = false; }
+  };
+
+  function renderResults(docs) {
+    const box = $("results"); box.textContent = "";
+    if (!docs.length) { box.textContent = "No saved ratings yet."; return; }
+    const clips = Object.keys(manifest.clips);
+    const t = document.createElement("table");
+    const head = t.createTHead().insertRow();
+    ["Voice", "Real name", ...clips.map(c => manifest.clips[c].label.split(" (")[0]), "Avg", "Raters"].forEach(h => { const th = document.createElement("th"); th.textContent = h; head.append(th); });
+    const body = t.createTBody();
+    const rows = voiceKeys.map(key => {
+      const per = clips.map(c => docs.map(d => d.scores?.[key]?.[c]).filter(Boolean));
+      const all = per.flat();
+      return { key, per, avg: all.length ? all.reduce((a, b) => a + b, 0) / all.length : 0, raters: docs.filter(d => d.scores?.[key] && Object.keys(d.scores[key]).length).length };
+    }).sort((a, b) => b.avg - a.avg);
+    for (const r of rows) {
+      const tr = body.insertRow();
+      const cells = [ "Voice " + letters[r.key], prettyName(r.key),
+        ...r.per.map(v => v.length ? (v.reduce((a, b) => a + b, 0) / v.length).toFixed(1) : "–"),
+        r.avg ? r.avg.toFixed(2) : "–", String(r.raters) ];
+      cells.forEach((c, i) => { const td = tr.insertCell(); td.textContent = c; if (i >= 2) td.className = "num"; });
+    }
+    box.append(t);
+    const cm = document.createElement("div"); cm.style.cssText = "display:grid;gap:4px;margin-top:12px;font-size:.88rem";
+    for (const d of docs) for (const [k, v] of Object.entries(d.comments || {})) if (v && v.trim()) {
+      const p = document.createElement("p"); p.textContent = `${d.name || "Someone"} on Voice ${letters[k] || "?"} (${prettyName(k)}): ${v}`; cm.append(p);
+    }
+    box.append(cm);
+  }
+
+  async function connect() {
+    if (!window.claude?.use) return;
+    const [dbns, user] = await Promise.all([claude.use("db"), claude.use("user")]);
+    if (!dbns || !user) return;
+    uid = await user.id();
+    const canWrite = await user.can("data.write");
+    if (!uid || canWrite === false) return;
+    db = dbns;
+    $("saveBtn").hidden = false;
+    // Load this person's earlier saved ratings if the browser has none.
+    try {
+      const snap = await db.doc("ratings/" + uid).get();
+      if (snap.exists && !Object.keys(state.scores).length) {
+        const d = snap.data(); state = { name: d.name || "", scores: d.scores || {}, comments: d.comments || {} };
+        $("rater").value = state.name; store.set("icepod-ratings", state); renderAll();
+      }
+    } catch {}
+    dirty = Object.keys(state.scores).length > 0;
+    updateSaveStatus();
+    if (user.isOwner()) {
+      $("resultsWrap").hidden = false;
+      $("results").textContent = "Loading ratings…";
+      const timer = setTimeout(() => { $("results").textContent = "Ratings can't be reached right now."; }, 10000);
+      db.collection("ratings").onSnapshot(s => {
+        if (!s.metadata.fromCache) clearTimeout(timer);
+        renderResults(s.docs.map(d => d.data()));
+      }, () => { clearTimeout(timer); $("results").textContent = "Ratings can't be loaded."; });
+    }
+  }
+
+  fetch("samples/manifest.json").then(r => r.json()).then(m => {
+    manifest = m;
+    const keys = [...new Set(m.entries.filter(e => e.clip in m.clips).map(e => `${e.provider}/${e.voice}`))];
+    voiceKeys = keys.sort((a, b) => hash(a) - hash(b));
+    const L = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+    // Letters follow the shuffled order, so a letter doesn't give away the provider.
+    voiceKeys.forEach((k, i) => { letters[k] = i < 26 ? L[i] : "Z" + (i - 25); });
+    renderAll(); renderEnglish(); connect();
+  }).catch(() => { $("voices").textContent = "The samples couldn't be loaded."; });
+})();
+</script>
