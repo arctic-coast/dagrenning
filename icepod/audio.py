@@ -11,6 +11,11 @@ Two voice providers, chosen with ICEPOD_TTS in .env:
 
 Every clip from one provider comes back as MP3 in the same format, so clips
 are joined byte-for-byte with silence encoded in that same format (no ffmpeg).
+
+render() also returns timings: where each segment starts and ends in the final
+MP3 and, on the edge-tts route, when each word is spoken (for the read-along
+player on the episode page). The Azure REST and ElevenLabs routes give
+segment-level timings only.
 """
 
 from __future__ import annotations
@@ -77,13 +82,17 @@ def _azure(text: str, voice: str, rate: str) -> bytes:
     return r.content
 
 
-async def _edge_async(text: str, voice: str, rate: str) -> bytes:
+async def _edge_async(text: str, voice: str, rate: str) -> tuple[bytes, list[dict]]:
+    """Audio plus word timings (seconds from the start of the clip)."""
     import edge_tts
-    buf = bytearray()
-    async for chunk in edge_tts.Communicate(text, voice, rate=rate).stream():
+    buf, words = bytearray(), []
+    async for chunk in edge_tts.Communicate(text, voice, rate=rate, boundary="WordBoundary").stream():
         if chunk["type"] == "audio":
             buf.extend(chunk["data"])
-    return bytes(buf)
+        elif chunk["type"] == "WordBoundary":
+            start = chunk["offset"] / 1e7  # 100-nanosecond units
+            words.append({"text": chunk["text"], "start": start, "end": start + chunk["duration"] / 1e7})
+    return bytes(buf), words
 
 
 def _elevenlabs(text: str, lang: str, slow: bool) -> bytes:
@@ -110,40 +119,100 @@ def strip_id3(data: bytes) -> bytes:
     return data
 
 
-def speak(text: str, lang: str, slow: bool) -> bytes:
+# MPEG audio frame header tables (Layer III only, which is all we produce).
+_BITRATES = {1: [0, 32, 40, 48, 56, 64, 80, 96, 112, 128, 160, 192, 224, 256, 320],
+             2: [0, 8, 16, 24, 32, 40, 48, 56, 64, 80, 96, 112, 128, 144, 160]}
+_RATES = {3: (44100, 48000, 32000), 2: (22050, 24000, 16000), 0: (11025, 12000, 8000)}
+
+
+def mp3_seconds(data: bytes) -> float:
+    """Playing time of an MP3 clip, counted frame by frame (what a player plays when clips are joined)."""
+    pos, seconds = 0, 0.0
+    while pos + 4 <= len(data):
+        h = int.from_bytes(data[pos:pos + 4], "big")
+        version, layer = (h >> 19) & 3, (h >> 17) & 3
+        br_i, sr_i, pad = (h >> 12) & 15, (h >> 10) & 3, (h >> 9) & 1
+        if (h >> 21) != 0x7FF or version == 1 or layer != 1 or br_i in (0, 15) or sr_i == 3:
+            pos += 1  # not a frame header: resync
+            continue
+        rate = _RATES[version][sr_i]
+        kbps = _BITRATES[1 if version == 3 else 2][br_i]
+        per_frame = 1152 if version == 3 else 576
+        seconds += per_frame / rate
+        pos += per_frame // 8 * kbps * 1000 // rate + pad
+    return seconds
+
+
+def speak_timed(text: str, lang: str, slow: bool) -> tuple[bytes, list[dict]]:
+    """One clip of speech plus its word timings (empty when the route has none)."""
     p = provider()
     for attempt in range(3):
         try:
+            words = []
             if p == "elevenlabs":
                 data = _elevenlabs(text, lang, slow)
             elif os.getenv("AZURE_SPEECH_KEY") and os.getenv("AZURE_SPEECH_REGION"):
                 data = _azure(text, MS_VOICES[lang], MS_RATES[(lang, slow)])
             else:
-                data = asyncio.run(_edge_async(text, MS_VOICES[lang], MS_RATES[(lang, slow)]))
+                data, words = asyncio.run(_edge_async(text, MS_VOICES[lang], MS_RATES[(lang, slow)]))
             data = strip_id3(data)
             if data:
-                return data
+                return data, words
         except Exception:
             if attempt == 2:
                 raise
     raise RuntimeError(f"No audio returned for: {text[:60]}")
 
 
-def render(segments, progress=print) -> bytes:
-    """segments: objects with .lang, .slow, .pause_after, .text"""
+def speak(text: str, lang: str, slow: bool) -> bytes:
+    return speak_timed(text, lang, slow)[0]
+
+
+def _place_words(text: str, words: list[dict], shift: float) -> list[dict]:
+    """Shift word times into the episode and find each word in the text, so the page can highlight it.
+    "at" is the word's character position in the segment text, or None if it couldn't be matched."""
+    low, pos, out = text.lower(), 0, []
+    for w in words:
+        at = low.find(w["text"].lower(), pos) if w["text"] else -1
+        if at >= 0:
+            pos = at + len(w["text"])
+        out.append({"text": w["text"], "at": at if at >= 0 else None,
+                    "start": round(w["start"] + shift, 3), "end": round(w["end"] + shift, 3)})
+    return out
+
+
+def render(segments, progress=print) -> tuple[bytes, dict]:
+    """segments: objects with .lang, .slow, .pause_after, .text (and optionally .translation).
+
+    Returns the MP3 and its timings: {"duration": s, "segments": [{index, lang, text,
+    translation, start, end, words: [{text, at, start, end}]}]}, all in seconds.
+    """
     out = bytearray()
     gap, switch, pause = silence(GAP), silence(LANG_SWITCH_GAP), silence(PAUSE_AFTER)
+    t_gap, t_switch, t_pause = mp3_seconds(gap), mp3_seconds(switch), mp3_seconds(pause)
+    now, timed = 0.0, []
     prev_lang = None
-    for i, seg in enumerate(segments, 1):
+    for i, seg in enumerate(segments):
         text = seg.text.strip()
         if not text:
             continue
         if prev_lang is not None:
             out += switch if seg.lang != prev_lang else gap
-        progress(f"  [{i}/{len(segments)}] {seg.lang}{' slow' if seg.slow else ''}: {text[:60]}")
-        out += speak(text, seg.lang, seg.slow)
+            now += t_switch if seg.lang != prev_lang else t_gap
+        progress(f"  [{i + 1}/{len(segments)}] {seg.lang}{' slow' if seg.slow else ''}: {text[:60]}")
+        clip, words = speak_timed(text, seg.lang, seg.slow)
+        out += clip
+        length = mp3_seconds(clip)
+        timed.append({"index": i, "lang": seg.lang, "text": text,
+                      "translation": (getattr(seg, "translation", "") or "").strip(),
+                      "start": round(now, 3), "end": round(now + length, 3),
+                      "words": _place_words(text, words, now)})
+        now += length
         if seg.pause_after:
             out += pause
+            now += t_pause
         prev_lang = seg.lang
-    out += silence(1.0)
-    return bytes(out)
+    tail = silence(1.0)
+    out += tail
+    now += mp3_seconds(tail)
+    return bytes(out), {"duration": round(now, 3), "segments": timed}

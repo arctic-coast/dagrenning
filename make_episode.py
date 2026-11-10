@@ -5,7 +5,8 @@
     uv run python make_episode.py --script x.json  # skip Claude, voice an existing script
 
 Output goes to episodes/<date>/: episode.mp3, notes.md (the written version),
-script.json and facts.json. Taught words are remembered in episodes/history.json
+script.json, facts.json and timings.json (when each line and word is spoken,
+for the read-along player). Taught words are remembered in episodes/history.json
 so they aren't repeated for a while.
 """
 
@@ -96,8 +97,9 @@ def main():
     (out_dir / "notes.md").write_text(notes_markdown(ep, facts), encoding="utf-8")
 
     print(f"Recording {len(ep.segments)} segments...")
-    mp3 = audio.render(ep.segments)
+    mp3, timings = audio.render(ep.segments)
     (out_dir / "episode.mp3").write_bytes(mp3)
+    (out_dir / "timings.json").write_text(json.dumps(timings, ensure_ascii=False, indent=1), encoding="utf-8")
 
     history["days"][facts["date"]] = [w.icelandic for w in ep.words]
     HISTORY.write_text(json.dumps(history, ensure_ascii=False, indent=2), encoding="utf-8")
