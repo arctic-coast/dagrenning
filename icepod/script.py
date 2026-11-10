@@ -42,7 +42,7 @@ class Episode(BaseModel):
 
 
 SYSTEM = """\
-You write the script for "Icepod", a short daily podcast that helps one listener learn Icelandic.
+You write the script for "Dagrenning" (Icelandic for "daybreak"), a short daily podcast that helps one listener learn Icelandic.
 The listener is an English speaker at level A1 to A2 who lives in or near Húsavík in north Iceland.
 The podcast has two jobs: teach Icelandic, and give useful information to start the day.
 

@@ -21,9 +21,9 @@ from pathlib import Path
 import markdown
 from PIL import Image, ImageDraw, ImageFont
 
-TITLE = "Icepod"
+TITLE = "Dagrenning"
 SUBTITLE = "Daily Icelandic from Húsavík: weather, news, five words and a sentence of the day."
-AUTHOR = "Icepod"
+AUTHOR = "Dagrenning"
 KEEP_DAYS = 60
 BITRATE = 48  # kbps, matches icepod.audio
 
@@ -44,7 +44,7 @@ def make_cover(path: Path):
                 continue
         return ImageFont.load_default(size)
 
-    d.text((700, 420), "Icepod", font=font(230), fill=(240, 246, 248), anchor="mm")
+    d.text((700, 420), "Dagrenning", font=font(170), fill=(240, 246, 248), anchor="mm")
     d.text((700, 640), "Íslenska frá Húsavík", font=font(72), fill=(170, 205, 216), anchor="mm")
     img.save(path, "PNG", optimize=True)
 
@@ -92,7 +92,7 @@ def main():
         page_url = f"{base}episodes/{d.name}/"
         (d / "index.html").write_text(page(
             ep["title"],
-            f'<p><a href="../../">← Icepod</a></p><audio controls preload="none" src="../../audio/{d.name}.mp3"></audio>'
+            f'<p><a href="../../">← Dagrenning</a></p><audio controls preload="none" src="../../audio/{d.name}.mp3"></audio>'
             + notes_html), encoding="utf-8")
         size = mp3.stat().st_size
         episodes.append({
@@ -114,7 +114,7 @@ def main():
   <item>
     <title>{html.escape(e["date"])}: {html.escape(e["title"])}</title>
     <link>{e["page"]}</link>
-    <guid isPermaLink="false">icepod-{e["date"]}</guid>
+    <guid isPermaLink="false">dagrenning-{e["date"]}</guid>
     <pubDate>{pub}</pubDate>
     <description>{html.escape("Orð dagsins: " + e["words"] + ". Transcript: " + e["page"])}</description>
     <content:encoded><![CDATA[{e["notes_html"]}]]></content:encoded>
@@ -144,7 +144,7 @@ def main():
     rows = "".join(f'<li><a href="episodes/{e["date"]}/">{e["date"]}: {html.escape(e["title"])}</a></li>'
                    for e in episodes)
     (site / "index.html").write_text(page(TITLE, (
-        f"<h1>Icepod</h1><p>{html.escape(SUBTITLE)}</p>"
+        f"<h1>Dagrenning</h1><p>{html.escape(SUBTITLE)}</p>"
         f'<p>Subscribe in a podcast app with this address:<br><code>{base}feed.xml</code></p>'
         f'<ul class="list">{rows or "<li>No episodes yet.</li>"}</ul>')), encoding="utf-8")
     (site / ".nojekyll").write_text("", encoding="utf-8")

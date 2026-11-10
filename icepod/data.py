@@ -16,7 +16,7 @@ from datetime import date, datetime, timezone
 
 import requests
 
-USER_AGENT = "icepod/0.1 (personal Icelandic learning podcast)"
+USER_AGENT = "dagrenning/0.1 (personal Icelandic learning podcast)"
 TIMEOUT = 30
 
 # Húsavík. Iceland is on UTC all year, so local time == UTC.

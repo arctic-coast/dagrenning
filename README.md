@@ -1,6 +1,6 @@
-# Icepod
+# Dagrenning
 
-A daily 3–4 minute Icelandic learning podcast from Húsavík, for A1–A2 learners.
+A daily 3–4 minute Icelandic learning podcast from Húsavík, for A1–A2 learners. *Dagrenning* means "daybreak".
 
 Each episode: the date, weather and news in Icelandic only; five words of the day with example
 sentences; a sentence of the day; and phrases from it. The transcript shows the English next to

@@ -1,4 +1,4 @@
-"""Make today's Icepod episode.
+"""Make today's Dagrenning episode.
 
     uv run python make_episode.py                  # full run: data + Claude + audio
     uv run python make_episode.py --no-news        # weather and lessons only
@@ -104,7 +104,7 @@ def main():
 
     words = sum(len(s.text.split()) for s in ep.segments)
     print(f"\nDone: {out_dir / 'episode.mp3'} ({len(mp3) // 1024} KB, ~{words} words, "
-          f"about {len(mp3) * 8 / audio.BITRATE / 1000 / 60:.1f} min)")
+          f"about {len(mp3) * 8 / audio.bitrate() / 1000 / 60:.1f} min)")
 
 
 if __name__ == "__main__":
