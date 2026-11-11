@@ -23,7 +23,7 @@ from dotenv import load_dotenv
 ROOT = Path(__file__).resolve().parent
 load_dotenv(ROOT / ".env")
 
-from icepod import audio, data  # noqa: E402
+from icepod import audio, data, sources  # noqa: E402
 from icepod.script import Episode, write_episode  # noqa: E402
 
 import os  # noqa: E402
@@ -31,6 +31,7 @@ import os  # noqa: E402
 # The daily GitHub job points this at the published site folder, so episodes and word history persist there.
 EPISODES = Path(os.getenv("ICEPOD_EPISODES_DIR", ROOT / "episodes"))
 HISTORY = EPISODES / "history.json"
+SOURCES = EPISODES / "sources.json"   # every notice, event and story seen, and when it was mentioned
 RECENT_DAYS = 30
 
 
@@ -43,6 +44,8 @@ def load_history() -> dict:
 def recent_words(history: dict, today: str) -> list[str]:
     days = sorted(d for d in history["days"] if d < today)[-RECENT_DAYS:]
     return [w for d in days for w in history["days"][d]]
+
+
 
 
 def notes_markdown(ep: Episode, facts: dict) -> str:
@@ -66,6 +69,7 @@ def notes_markdown(ep: Episode, facts: dict) -> str:
     lines.append("")
     if ep.news_links:
         lines += ["## Sources", "", *[f"- {u}" for u in ep.news_links],
+                  "- Local notices: Norðurþing. Events: Visit North Iceland, Visit Akureyri.",
                   "- Weather: Veðurstofa Íslands. Sun times: MET Norway.", ""]
     return "\n".join(lines)
 
@@ -94,12 +98,19 @@ def main():
     (out_dir / "facts.json").write_text(json.dumps(facts, ensure_ascii=False, indent=2), encoding="utf-8")
 
     history = load_history()
+    # The running record of notices, events and news, and what's on offer today.
+    today = date.fromisoformat(facts["date"])
+    store = sources.load(SOURCES)
+    sources.update(store, facts, today)
+    offered = sources.candidates(store, today)
+    (out_dir / "candidates.json").write_text(json.dumps(offered, ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"Candidates: {len(offered['notices'])} notices, {len(offered['events'])} events, {len(offered['news'])} news")
     if args.script:
         ep = Episode.model_validate_json(Path(args.script).read_text(encoding="utf-8"))
         print(f"Using script from {args.script}")
     else:
         print("Writing the script with Claude...")
-        ep = write_episode(facts, recent_words(history, facts["date"]))
+        ep = write_episode(facts, offered, recent_words(history, facts["date"]))
     (out_dir / "script.json").write_text(ep.model_dump_json(indent=2), encoding="utf-8")
     (out_dir / "notes.md").write_text(notes_markdown(ep, facts), encoding="utf-8")
 
@@ -109,6 +120,9 @@ def main():
     (out_dir / "timings.json").write_text(json.dumps(timings, ensure_ascii=False, indent=1), encoding="utf-8")
 
     history["days"][facts["date"]] = [w.icelandic for w in ep.words]
+    history.setdefault("links", {})[facts["date"]] = list(ep.news_links)
+    sources.record_mentions(store, ep.news_links, today)
+    sources.save(store, SOURCES)
     HISTORY.write_text(json.dumps(history, ensure_ascii=False, indent=2), encoding="utf-8")
 
     words = sum(len(s.text.split()) for s in ep.segments)

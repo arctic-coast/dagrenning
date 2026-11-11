@@ -38,7 +38,7 @@ class Episode(BaseModel):
     words: list[Pair] = Field(description="The five words of the day.")
     sentence: Pair = Field(description="The sentence of the day.")
     phrases: list[Pair] = Field(description="Two or three key phrases taken from the sentence of the day.")
-    news_links: list[str] = Field(description="Links of the RÚV stories used.")
+    news_links: list[str] = Field(description="Links of every source item used: RÚV stories, Norðurþing notices and event pages.")
 
 
 SYSTEM = """\
@@ -61,11 +61,25 @@ Structure, in this order:
    a. Greeting from Húsavík, the weekday and date, and roughly what time it is.
    b. Weather for Húsavík today: the morning, then the day (temperature range, cloud, rain or snow, wind),
       and sunrise and sunset. Short, simple sentences. If the data is missing, say so briefly.
-   c. News: two or three stories from the RÚV headlines provided. Prefer stories about north Iceland,
-      Iceland generally, weather, nature, fishing and sport; skip gossip and celebrity stories. Two or three
-      very simple Icelandic sentences (A2) per story. Never invent facts beyond the headline and summary
-      provided. If no news is provided, skip this part.
-   Use short Icelandic headings to mark the parts, e.g. "Veðrið í dag." and "Fréttir dagsins."
+   c. Up to THREE items in total, chosen from "candidates", in this priority order:
+      1. notices (Norðurþing municipality news): things that matter to someone living in Húsavík, such as
+         closures (library, pool, roads, water, power), council meetings, local talks and services. Use
+         status "new" items; a "mentioned before" item only if it is about TODAY, as a short reminder
+         ("Minnum á að ..."). Skip items about other villages unless they affect Húsavík.
+      2. events: status "announce: in N days" means say it now, a week or less ahead, with the weekday and
+         date (and time if given); "starts today" or "reminder: starts today" means a one-line reminder that
+         it's on today. Include anything in Húsavík or Norðurþing; from further away (Akureyri, Mývatn,
+         Þingeyjarsveit, about an hour) only big or culturally important events, such as well-known
+         Icelandic musicians, big concerts at Hof or Græni Hatturinn, festivals, big Christmas markets.
+         Skip events far away (e.g. west Iceland), minor ones, and ongoing exhibitions.
+      3. news (today's RÚV headlines): prefer north Iceland, Iceland generally, weather, nature, fishing and
+         sport; skip gossip, celebrity stories and grim foreign news.
+      Fill the three places in that order, but use judgement: leave out anything not worth the listener's
+      time, so fewer than three is fine. Two or three very simple sentences (A2) per item. Use a short
+      Icelandic heading before each kind you include: "Frá Norðurþingi.", "Viðburðir." and "Fréttir dagsins."
+      Never invent facts beyond what the provided items say. Put the link of every item you use in
+      news_links, and nothing else there.
+   Use short Icelandic headings to mark the parts, e.g. "Veðrið í dag."
 2. Five words of the day ("Fimm orð dagsins."), taken from today's weather or news where possible.
    The headings and all comments around the words are in Icelandic, e.g. "Fyrsta orðið er kvenkynsorð."
    (use karlkynsorð, kvenkynsorð, hvorugkynsorð for nouns, and "sögn" for verbs; "annað orðið", "þriðja
@@ -99,18 +113,21 @@ Rules for the spoken text:
 """
 
 
-def build_prompt(facts: dict, recent_words: list[str]) -> str:
+def build_prompt(facts: dict, candidates: dict, recent_words: list[str]) -> str:
     weekday = WEEKDAYS_IS[facts["weekday_index"]]
+    # The raw source lists are summarised in candidates; don't send them twice.
+    day = {k: v for k, v in facts.items() if k not in ("news", "local_notices", "events")}
     return (
-        f"Today's facts as JSON. The weekday in Icelandic is {weekday}. "
-        f"Times are local time in Iceland.\n\n"
-        f"{json.dumps(facts, ensure_ascii=False, indent=1)}\n\n"
+        f"Today's facts as JSON. The weekday in Icelandic is {weekday}. Times are local time in Iceland.\n\n"
+        f"{json.dumps(day, ensure_ascii=False, indent=1)}\n\n"
+        f"Candidates for the notices, events and news part (with each item's status):\n"
+        f"{json.dumps(candidates, ensure_ascii=False, indent=1)}\n\n"
         f"Recently taught words (don't reuse): {', '.join(recent_words) if recent_words else 'none yet'}\n\n"
         "Write today's episode."
     )
 
 
-def write_episode(facts: dict, recent_words: list[str]) -> Episode:
+def write_episode(facts: dict, candidates: dict, recent_words: list[str]) -> Episode:
     client = anthropic.Anthropic()
     response = client.beta.messages.parse(
         model=MODEL,
@@ -120,7 +137,7 @@ def write_episode(facts: dict, recent_words: list[str]) -> Episode:
         betas=["server-side-fallback-2026-07-01"],
         fallbacks="default",
         system=SYSTEM,
-        messages=[{"role": "user", "content": build_prompt(facts, recent_words)}],
+        messages=[{"role": "user", "content": build_prompt(facts, candidates, recent_words)}],
         output_format=Episode,
     )
     if response.stop_reason == "refusal":
