@@ -1,11 +1,17 @@
-# Makes the day's episode every morning and publishes it to GitHub Pages.
-# Iceland is on UTC all year. GitHub often starts scheduled jobs a little late,
-# so this starts at 05:15 to have the episode ready well before 07:00.
+# Makes the day's episode and publishes it to GitHub Pages, aiming to have it
+# out by 06:30 Iceland time (UTC all year).
+#
+# GitHub starts scheduled jobs late when it's busy (once by 7.5 hours), so there
+# are three triggers: 05:50 is the main one, so a normal delay still lands
+# before 06:30; 06:30 and 08:00 are backups. Whichever runs first makes the
+# episode and the others see it exists and stop (--skip-if-exists).
 name: Daily episode
 
 on:
   schedule:
-    - cron: "15 5 * * *"
+    - cron: "50 5 * * *"
+    - cron: "30 6 * * *"
+    - cron: "0 8 * * *"
   workflow_dispatch: {}   # "Run workflow" button for a manual run
 
 permissions:
@@ -30,21 +36,30 @@ jobs:
           else
             mkdir -p site
           fi
+          if [ -f "site/episodes/$(date -u +%F)/script.json" ]; then
+            echo "Today's episode is already published."
+            echo "ALREADY_DONE=1" >> "$GITHUB_ENV"
+          fi
 
       - uses: astral-sh/setup-uv@v6
+        if: env.ALREADY_DONE != '1'
 
       - name: Make today's episode
+        if: env.ALREADY_DONE != '1'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          AZURE_SPEECH_KEY: ${{ secrets.AZURE_SPEECH_KEY }}
-          AZURE_SPEECH_REGION: ${{ secrets.AZURE_SPEECH_REGION }}
+          ICEPOD_TTS: elevenlabs
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          ELEVENLABS_MODEL: eleven_v4
           ICEPOD_EPISODES_DIR: site/episodes
-        run: uv run python make_episode.py
+        run: uv run python make_episode.py --skip-if-exists
 
       - name: Build the podcast feed
+        if: env.ALREADY_DONE != '1'
         run: uv run python build_feed.py site "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
 
       - name: Publish to the gh-pages branch
+        if: env.ALREADY_DONE != '1'
         # One fresh commit each day, so the repository doesn't grow with every MP3.
         run: |
           cd site

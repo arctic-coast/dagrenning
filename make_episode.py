@@ -15,7 +15,7 @@ from __future__ import annotations
 import argparse
 import json
 import sys
-from datetime import date
+from datetime import date, datetime, timezone
 from pathlib import Path
 
 from dotenv import load_dotenv
@@ -75,9 +75,16 @@ def main():
     ap.add_argument("--no-news", action="store_true")
     ap.add_argument("--script", help="voice an existing script.json instead of asking Claude")
     ap.add_argument("--date", help="YYYY-MM-DD (default: today)")
+    ap.add_argument("--skip-if-exists", action="store_true",
+                    help="do nothing if this date's episode is already made (for backup runs)")
     args = ap.parse_args()
 
     day = date.fromisoformat(args.date) if args.date else None
+    if args.skip_if_exists:
+        target = (day or datetime.now(timezone.utc).date()).isoformat()
+        if (EPISODES / target / "script.json").exists():
+            print(f"Episode for {target} already exists; nothing to do.")
+            return 0
     print("Fetching weather, sun times and news...")
     facts = data.gather(day, with_news=not args.no_news).to_dict()
     for p in facts["problems"]:
@@ -106,7 +113,7 @@ def main():
 
     words = sum(len(s.text.split()) for s in ep.segments)
     print(f"\nDone: {out_dir / 'episode.mp3'} ({len(mp3) // 1024} KB, ~{words} words, "
-          f"about {len(mp3) * 8 / audio.bitrate() / 1000 / 60:.1f} min)")
+          f"about {audio.mp3_seconds(mp3) / 60:.1f} min)")
 
 
 if __name__ == "__main__":

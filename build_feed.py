@@ -25,7 +25,7 @@ TITLE = "Dagrenning"
 SUBTITLE = "Daily Icelandic from Húsavík: weather, news, five words and a sentence of the day."
 AUTHOR = "Dagrenning"
 KEEP_DAYS = 60
-BITRATE = 48  # kbps, matches icepod.audio
+from icepod.audio import mp3_seconds  # noqa: E402
 
 
 def make_cover(path: Path):
@@ -224,7 +224,8 @@ def main():
         size = mp3.stat().st_size
         episodes.append({
             "date": d.name, "title": ep["title"], "audio": audio_url, "page": page_url,
-            "size": size, "seconds": int(size * 8 / (BITRATE * 1000)), "notes_html": notes_html,
+            # Count MP3 frames: episodes can differ in bitrate (Microsoft 48 kbps, ElevenLabs 64 kbps).
+            "size": size, "seconds": int(mp3_seconds(mp3.read_bytes())), "notes_html": notes_html,
             "words": ", ".join(f'{w["icelandic"]} ({w["english"]})' for w in ep.get("words", [])),
         })
     # Clean up audio files whose episode folder is gone.

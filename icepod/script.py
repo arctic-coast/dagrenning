@@ -22,7 +22,7 @@ WEEKDAYS_IS = ["mánudagur", "þriðjudagur", "miðvikudagur", "fimmtudagur",
 class Segment(BaseModel):
     lang: Literal["is", "en"] = Field(description="Language this segment is spoken in.")
     slow: bool = Field(description="True to read it slowly: vocabulary, the sentence of the day, anything new.")
-    pause_after: bool = Field(description="True to leave a few seconds of silence afterwards, e.g. for the listener to repeat or answer.")
+    pause_after: bool = Field(description="Always false. (Kept for older scripts; the audio no longer adds pauses.)")
     text: str = Field(description="Exactly what the voice says. Spell out every number, date and time as words.")
     translation: str = Field(description="English translation of the text, shown in the written transcript only (never spoken). For an English segment, repeat the text.")
 
@@ -76,8 +76,8 @@ Structure, in this order:
    - a short simple example sentence (Icelandic, slow)
    - the example sentence translated (English)
 3. Sentence of the day ("Setning dagsins."): one genuinely useful everyday sentence. The heading in
-   Icelandic, then the sentence (Icelandic, slow), then its translation (English), then the sentence again
-   (Icelandic, slow) with a pause after so the listener can repeat it.
+   Icelandic, then the sentence (Icelandic, slow), then its translation (English), then the sentence once
+   more (Icelandic, normal speed). No pauses for repeating: the listener uses these as quick references.
 4. Phrases of the day ("Orðasambönd dagsins."): two or three useful phrases taken from the sentence of the
    day. The heading in Icelandic, then for each phrase: the phrase (Icelandic, slow), then its meaning
    (English, short).

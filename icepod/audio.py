@@ -7,14 +7,14 @@ Two voice providers, chosen with ICEPOD_TTS in .env:
   AZURE_SPEECH_KEY and AZURE_SPEECH_REGION are set, otherwise the free
   edge-tts route to the same voices.
 - "elevenlabs": one ElevenLabs voice for both languages (ELEVENLABS_VOICE_ID,
-  default Sarah) on ELEVENLABS_MODEL (default eleven_v3).
+  default Sarah) on ELEVENLABS_MODEL (default eleven_v4).
 
 Every clip from one provider comes back as MP3 in the same format, so clips
 are joined byte-for-byte with silence encoded in that same format (no ffmpeg).
 
 render() also returns timings: where each segment starts and ends in the final
-MP3 and, on the edge-tts route, when each word is spoken (for the read-along
-player on the episode page). The Azure REST and ElevenLabs routes give
+MP3 and, on the edge-tts and ElevenLabs routes, when each word is spoken (for
+the read-along player on the episode page). The Azure REST route gives
 segment-level timings only.
 """
 
@@ -35,9 +35,9 @@ EL_DEFAULT_VOICE = "EXAVITQu4vr4xnSDxMaL"  # Sarah
 # MP3 format per provider: (sample rate, kbps). Silence must match the speech.
 FORMATS = {"microsoft": (24000, 48), "elevenlabs": (44100, 64)}
 
-GAP = 0.35                   # seconds between segments
-LANG_SWITCH_GAP = 0.55       # a little longer when the language changes
-PAUSE_AFTER = 3.0            # time to repeat the sentence of the day
+GAP = 0.25                   # seconds between segments
+LANG_SWITCH_GAP = 0.4        # a little longer when the language changes
+# No repeat-after-me pauses: segments flagged pause_after get the normal gap only.
 
 
 def provider() -> str:
@@ -95,20 +95,51 @@ async def _edge_async(text: str, voice: str, rate: str) -> tuple[bytes, list[dic
     return bytes(buf), words
 
 
-def _elevenlabs(text: str, lang: str, slow: bool) -> bytes:
+def _elevenlabs(text: str, lang: str, slow: bool, before: str = "", after: str = "") -> tuple[bytes, list[dict]]:
+    """Audio plus word timings, from ElevenLabs' with-timestamps endpoint.
+
+    `before`/`after` are the neighbouring lines (sent as previous_text/next_text, not spoken)
+    so each clip's intonation fits the lines around it.
+    """
+    import base64
     voice = os.getenv("ELEVENLABS_VOICE_ID") or EL_DEFAULT_VOICE
-    model = os.getenv("ELEVENLABS_MODEL") or "eleven_v3"
+    model = os.getenv("ELEVENLABS_MODEL") or "eleven_v4"
     body = {"text": text, "model_id": model, "voice_settings": {"speed": EL_SPEED[slow]}}
+    if before:
+        body["previous_text"] = before
+    if after:
+        body["next_text"] = after
     if model in ("eleven_flash_v2_5", "eleven_turbo_v2_5"):
         body["language_code"] = lang
     r = requests.post(
-        f"https://api.elevenlabs.io/v1/text-to-speech/{voice}?output_format=mp3_44100_64",
+        f"https://api.elevenlabs.io/v1/text-to-speech/{voice}/with-timestamps?output_format=mp3_44100_64",
         headers={"xi-api-key": os.environ["ELEVENLABS_API_KEY"], "Content-Type": "application/json"},
         json=body, timeout=120,
     )
     if r.status_code != 200:
         raise RuntimeError(f"ElevenLabs HTTP {r.status_code}: {r.text[:200]}")
-    return r.content
+    d = r.json()
+    a = d.get("alignment") or {}
+    chars = a.get("characters") or []
+    starts = a.get("character_start_times_seconds") or []
+    ends = a.get("character_end_times_seconds") or []
+    # Group characters into words (split on whitespace) to match the edge-tts word timings.
+    words, cur = [], None
+    for ch, s, e in zip(chars, starts, ends):
+        if ch.isspace():
+            if cur:
+                words.append(cur)
+            cur = None
+        elif cur is None:
+            cur = {"text": ch, "start": s, "end": e}
+        else:
+            cur["text"] += ch
+            cur["end"] = e
+    if cur:
+        words.append(cur)
+    for w in words:  # trim punctuation so the page can find the word in the text
+        w["text"] = w["text"].strip(".,!?;:\"'„“”«»()")
+    return base64.b64decode(d["audio_base64"]), [w for w in words if w["text"]]
 
 
 def strip_id3(data: bytes) -> bytes:
@@ -143,14 +174,14 @@ def mp3_seconds(data: bytes) -> float:
     return seconds
 
 
-def speak_timed(text: str, lang: str, slow: bool) -> tuple[bytes, list[dict]]:
+def speak_timed(text: str, lang: str, slow: bool, before: str = "", after: str = "") -> tuple[bytes, list[dict]]:
     """One clip of speech plus its word timings (empty when the route has none)."""
     p = provider()
     for attempt in range(3):
         try:
             words = []
             if p == "elevenlabs":
-                data = _elevenlabs(text, lang, slow)
+                data, words = _elevenlabs(text, lang, slow, before, after)
             elif os.getenv("AZURE_SPEECH_KEY") and os.getenv("AZURE_SPEECH_REGION"):
                 data = _azure(text, MS_VOICES[lang], MS_RATES[(lang, slow)])
             else:
@@ -188,19 +219,21 @@ def render(segments, progress=print) -> tuple[bytes, dict]:
     translation, start, end, words: [{text, at, start, end}]}]}, all in seconds.
     """
     out = bytearray()
-    gap, switch, pause = silence(GAP), silence(LANG_SWITCH_GAP), silence(PAUSE_AFTER)
-    t_gap, t_switch, t_pause = mp3_seconds(gap), mp3_seconds(switch), mp3_seconds(pause)
+    gap, switch = silence(GAP), silence(LANG_SWITCH_GAP)
+    t_gap, t_switch = mp3_seconds(gap), mp3_seconds(switch)
     now, timed = 0.0, []
     prev_lang = None
-    for i, seg in enumerate(segments):
+    segs = [s for s in segments if s.text.strip()]
+    for i, seg in enumerate(segs):
         text = seg.text.strip()
-        if not text:
-            continue
         if prev_lang is not None:
             out += switch if seg.lang != prev_lang else gap
             now += t_switch if seg.lang != prev_lang else t_gap
-        progress(f"  [{i + 1}/{len(segments)}] {seg.lang}{' slow' if seg.slow else ''}: {text[:60]}")
-        clip, words = speak_timed(text, seg.lang, seg.slow)
+        progress(f"  [{i + 1}/{len(segs)}] {seg.lang}{' slow' if seg.slow else ''}: {text[:60]}")
+        # Neighbouring lines in the same language, so ElevenLabs can make the joins sound natural.
+        before = segs[i - 1].text.strip() if i > 0 and segs[i - 1].lang == seg.lang else ""
+        after = segs[i + 1].text.strip() if i + 1 < len(segs) and segs[i + 1].lang == seg.lang else ""
+        clip, words = speak_timed(text, seg.lang, seg.slow, before, after)
         out += clip
         length = mp3_seconds(clip)
         timed.append({"index": i, "lang": seg.lang, "text": text,
@@ -208,9 +241,6 @@ def render(segments, progress=print) -> tuple[bytes, dict]:
                       "start": round(now, 3), "end": round(now + length, 3),
                       "words": _place_words(text, words, now)})
         now += length
-        if seg.pause_after:
-            out += pause
-            now += t_pause
         prev_lang = seg.lang
     tail = silence(1.0)
     out += tail

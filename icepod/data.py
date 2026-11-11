@@ -121,7 +121,8 @@ def gather(day: date | None = None, with_news: bool = True) -> DayFacts:
     now = datetime.now(timezone.utc)
     day = day or now.date()
     # Made ahead of time (e.g. the evening before): assume it's heard first thing in the morning.
-    heard_at = now.strftime("%H:%M") if day == now.date() else "06:30"
+    # Episodes go out at 06:30, so never say an earlier time than that.
+    heard_at = max(now.strftime("%H:%M"), "06:30") if day == now.date() else "06:30"
     facts = DayFacts(
         place=PLACE, date=day.isoformat(), weekday_index=day.weekday(),
         generated_at=heard_at, sunrise=None, sunset=None,
