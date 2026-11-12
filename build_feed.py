@@ -244,8 +244,8 @@ def main():
     <link>{e["page"]}</link>
     <guid isPermaLink="false">dagrenning-{e["date"]}</guid>
     <pubDate>{pub}</pubDate>
-    <description>{html.escape("Orð dagsins: " + e["words"] + ". Transcript: " + e["page"])}</description>
-    <content:encoded><![CDATA[{e["notes_html"]}]]></content:encoded>
+    <description>{html.escape("Read along with highlighted words: " + e["page"] + " . Orð dagsins: " + e["words"] + ".")}</description>
+    <content:encoded><![CDATA[<p><a href="{e["page"]}"><strong>Read along: the Icelandic text with each word highlighted as it's spoken</strong></a></p>{e["notes_html"]}]]></content:encoded>
     <enclosure url="{e["audio"]}" length="{e["size"]}" type="audio/mpeg"/>
     <itunes:duration>{e["seconds"]}</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
