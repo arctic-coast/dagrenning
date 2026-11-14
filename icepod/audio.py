@@ -59,7 +59,7 @@ def silence(seconds: float) -> bytes:
     enc.set_channels(1)
     enc.set_quality(2)
     pcm = b"\x00\x00" * int(rate * seconds)
-    return enc.encode(pcm) + enc.flush()
+    return strip_vbr_header(enc.encode(pcm) + enc.flush())
 
 
 def _azure(text: str, voice: str, rate: str) -> bytes:
@@ -156,9 +156,13 @@ _BITRATES = {1: [0, 32, 40, 48, 56, 64, 80, 96, 112, 128, 160, 192, 224, 256, 32
 _RATES = {3: (44100, 48000, 32000), 2: (22050, 24000, 16000), 0: (11025, 12000, 8000)}
 
 
-def mp3_seconds(data: bytes) -> float:
-    """Playing time of an MP3 clip, counted frame by frame (what a player plays when clips are joined)."""
-    pos, seconds = 0, 0.0
+def mp3_frames(data: bytes):
+    """Walk the MPEG frames: yields (offset, length in bytes, seconds, is_header) for each frame.
+
+    is_header marks a Xing/Info/VBRI header frame: a frame that carries no audio, only the
+    length of the file it was written for. Bytes that aren't a frame header are skipped (resync).
+    """
+    pos = 0
     while pos + 4 <= len(data):
         h = int.from_bytes(data[pos:pos + 4], "big")
         version, layer = (h >> 19) & 3, (h >> 17) & 3
@@ -169,9 +173,36 @@ def mp3_seconds(data: bytes) -> float:
         rate = _RATES[version][sr_i]
         kbps = _BITRATES[1 if version == 3 else 2][br_i]
         per_frame = 1152 if version == 3 else 576
-        seconds += per_frame / rate
-        pos += per_frame // 8 * kbps * 1000 // rate + pad
-    return seconds
+        size = per_frame // 8 * kbps * 1000 // rate + pad
+        mono = (h >> 6) & 3 == 3
+        side = (17 if mono else 32) if version == 3 else (9 if mono else 17)
+        frame = data[pos:pos + size]
+        is_header = frame[4 + side:8 + side] in (b"Xing", b"Info") or frame[36:40] == b"VBRI"
+        yield pos, size, per_frame / rate, is_header
+        pos += size
+
+
+def strip_vbr_header(data: bytes) -> bytes:
+    """Drop Xing/Info/VBRI header frames, keeping every other byte as it was.
+
+    Each clip (ElevenLabs, lameenc) can start with an Info frame giving that clip's length.
+    Joined into one file, the first one makes players think the whole episode is one clip long.
+    """
+    out, last = bytearray(), 0
+    for pos, size, _, is_header in mp3_frames(data):
+        if is_header:
+            out += data[last:pos]
+            last = pos + size
+    if last == 0:
+        return data
+    out += data[last:]
+    return bytes(out)
+
+
+def mp3_seconds(data: bytes) -> float:
+    """Playing time of an MP3 clip, counted frame by frame (what a player plays when clips are joined).
+    Xing/Info/VBRI header frames carry no audio and aren't counted."""
+    return sum(secs for _, _, secs, is_header in mp3_frames(data) if not is_header)
 
 
 def speak_timed(text: str, lang: str, slow: bool, before: str = "", after: str = "") -> tuple[bytes, list[dict]]:
@@ -186,7 +217,7 @@ def speak_timed(text: str, lang: str, slow: bool, before: str = "", after: str =
                 data = _azure(text, MS_VOICES[lang], MS_RATES[(lang, slow)])
             else:
                 data, words = asyncio.run(_edge_async(text, MS_VOICES[lang], MS_RATES[(lang, slow)]))
-            data = strip_id3(data)
+            data = strip_vbr_header(strip_id3(data))
             if data:
                 return data, words
         except Exception:

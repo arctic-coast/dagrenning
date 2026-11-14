@@ -130,11 +130,15 @@ function update(){
 function loop(){update();raf=audio.paused?0:requestAnimationFrame(loop)}
 audio.addEventListener('play',function(){if(!raf)raf=requestAnimationFrame(loop)});
 ['pause','seeked','timeupdate','ended'].forEach(function(e){audio.addEventListener(e,update)});
-audio.addEventListener('loadedmetadata',function(){if(pending!==null){audio.currentTime=pending;pending=null}});
+// iOS Safari can ignore a currentTime set before the audio has loaded or before play() starts,
+// so keep the target until playback is running and apply it again whenever it may have been lost.
+function applySeek(){if(pending!==null&&audio.readyState>=1&&Math.abs(audio.currentTime-pending)>0.25)audio.currentTime=pending}
+['loadedmetadata','canplay'].forEach(function(e){audio.addEventListener(e,applySeek)});
+audio.addEventListener('playing',function(){applySeek();pending=null});
 function seek(i){
-  var t=T[i][0]+0.01;
-  if(audio.readyState>=1)audio.currentTime=t;else pending=t;
-  var p=audio.play();if(p&&p.catch)p.catch(function(){});
+  pending=T[i][0]+0.01;applySeek();
+  var p=audio.play();
+  if(p&&p.then)p.then(function(){applySeek();pending=null},function(){pending=null});
   lastUserScroll=0;
 }
 lis.forEach(function(li,i){
