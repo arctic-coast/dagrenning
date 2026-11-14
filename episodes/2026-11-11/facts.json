@@ -1,0 +1,201 @@
+{
+  "place": "Húsavík",
+  "date": "2026-11-11",
+  "weekday_index": 2,
+  "generated_at": "12:40",
+  "sunrise": "09:41",
+  "sunset": "16:03",
+  "forecast": [
+    {
+      "time": "10:00",
+      "temp_c": 0,
+      "wind_ms": 10,
+      "wind_dir": "NNV",
+      "description": "Alskýjað"
+    },
+    {
+      "time": "11:00",
+      "temp_c": 0,
+      "wind_ms": 10,
+      "wind_dir": "NNV",
+      "description": "Alskýjað"
+    },
+    {
+      "time": "12:00",
+      "temp_c": 0,
+      "wind_ms": 9,
+      "wind_dir": "NNV",
+      "description": "Alskýjað"
+    },
+    {
+      "time": "13:00",
+      "temp_c": 0,
+      "wind_ms": 9,
+      "wind_dir": "NNV",
+      "description": "Alskýjað"
+    },
+    {
+      "time": "14:00",
+      "temp_c": 0,
+      "wind_ms": 8,
+      "wind_dir": "NNV",
+      "description": "Alskýjað"
+    },
+    {
+      "time": "15:00",
+      "temp_c": 0,
+      "wind_ms": 8,
+      "wind_dir": "NNV",
+      "description": "Alskýjað"
+    },
+    {
+      "time": "16:00",
+      "temp_c": 0,
+      "wind_ms": 7,
+      "wind_dir": "NNV",
+      "description": "Alskýjað"
+    },
+    {
+      "time": "17:00",
+      "temp_c": -1,
+      "wind_ms": 7,
+      "wind_dir": "NNV",
+      "description": "Alskýjað"
+    },
+    {
+      "time": "18:00",
+      "temp_c": 0,
+      "wind_ms": 7,
+      "wind_dir": "NNV",
+      "description": "Alskýjað"
+    },
+    {
+      "time": "19:00",
+      "temp_c": 0,
+      "wind_ms": 6,
+      "wind_dir": "NNV",
+      "description": "Alskýjað"
+    },
+    {
+      "time": "20:00",
+      "temp_c": 0,
+      "wind_ms": 6,
+      "wind_dir": "NNV",
+      "description": "Alskýjað"
+    },
+    {
+      "time": "21:00",
+      "temp_c": 0,
+      "wind_ms": 5,
+      "wind_dir": "NNV",
+      "description": "Alskýjað"
+    },
+    {
+      "time": "22:00",
+      "temp_c": 0,
+      "wind_ms": 5,
+      "wind_dir": "NNV",
+      "description": "Skýjað"
+    },
+    {
+      "time": "23:00",
+      "temp_c": 0,
+      "wind_ms": 4,
+      "wind_dir": "NNV",
+      "description": "Léttskýjað"
+    }
+  ],
+  "news": [
+    {
+      "title": "Tjaldar því sem til er eftir innbrot",
+      "summary": "Gullsmiðurinn í Mjódd hefur unnið hörðum höndum að enduropnun verslunarinnar eftir innbrot aðfaranótt mánudags. „Þetta er allt að gerast, við ætlum að reyna að opna í dag og vera með 11.11. afslátt og svona, reyna bara að tjalda því til sem er til,“ segir Jón Tryggvi Þórsson, eigandi Gullsmiðsins. Lögregla rannsakar innbrotið þar sem minnst tveir svartklæddir menn brutu rúðu og komust fram hjá öryggiskerfi verslunarinnar. Þeir tóku sér góðan tíma, eina og hálfa klukkustund, og höfðu allt gull á ",
+      "link": "https://www.ruv.is/frettir/innlent/2026-11-11-tjaldar-thvi-sem-til-er-eftir-innbrot-492385/",
+      "published": "Wed, 11 Nov 2026 12:33:31 +0000"
+    },
+    {
+      "title": "Arnaldur kynnir nýja persónu til leiks í sögu sem er ekki upp á marga fiska",
+      "summary": "Lóla er ung lögreglukona sem er send á Kópasker á sama tíma og upptökur á sjónvarpsþáttum með stórleikurum úr Hollywood standa yfir. Aðalleikonan, Evelyn Gray, finnst svo myrt og Lóla rannsakar málið með aðstoð Bensa, eldri lögregluþjóns sem býr í vídeóleigu. „Bensi er dásamleg persóna og ég hefði getað hugsað mér margar glæpasögur með Bensa í svona aðalhlutverki. Samband þeirra, því er lýst vel, en ég hefði viljað fá meira af því vegna þess að þessar tvær persónur eru þær bestu í þessari sögu,“",
+      "link": "https://www.ruv.is/frettir/menning-og-daegurmal/2026-11-11-arnaldur-kynnir-nyja-personu-til-leiks-i-sogu-sem-er-ekki-upp-a-marga-fiska-492298/",
+      "published": "Wed, 11 Nov 2026 12:30:03 +0000"
+    },
+    {
+      "title": "Börn lenda í hótunum og beitt fjárkúgun á samfélagsmiðlum",
+      "summary": "Forvarnir, ráðgjöf og stuðningur við þolendur eru mikilvæg skref í baráttunni gegn kynferðisofbeldi gegn börnum. Viðfangsefni Kveiks í gærkvöld var kynferðisbrot gegn börnum. Kynferðisofbeldi færist stöðugt í aukana, sérstaklega í gegnum netið, og aðgengi að börnum hefur aldrei verið auðveldara. Börn beitt tælingu og ofbeldi Börn eru í auknum mæli beitt tælingu, kynferðislegu ofbeldi og fjárkúgun á samfélagsmiðlum segir Indíana Rós Ægisdóttir, kynfræðingur og verkefnastýra Jafnréttisskólans hjá ",
+      "link": "https://www.ruv.is/frettir/innlent/2026-11-11-born-lenda-i-hotunum-og-beitt-fjarkugun-a-samfelagsmidlum-492374/",
+      "published": "Wed, 11 Nov 2026 12:16:35 +0000"
+    },
+    {
+      "title": "Danir færa faðirvorið í nútímalegri búning",
+      "summary": "Danska útgáfa Faðirvorsins gæti tekið breytingum á næsta ári ef prufuþýðing danska biblíufélagsins vinnur hylli. Breytingarnar yrðu smávægilegar og til þess fallnar að gera faðirvorið nútímalegra. Vonin er sú að með uppfærðu Faðirvori eigi yngra fólk auðveldara með að skilja bænina. Sem dæmi tæki fyrsta línan málfarslegum breytingum. Vor Fader, du som er i himlene! verður að: Vores far, du som er i himlen! Orðið himlen er í eintölu og mun nær eðlilegri máltilfinningu flestra Dana á meðan fleirta",
+      "link": "https://www.ruv.is/frettir/erlent/2026-11-11-danir-faera-fadirvorid-i-nutimalegri-buning-492375/",
+      "published": "Wed, 11 Nov 2026 12:08:20 +0000"
+    },
+    {
+      "title": "Telja að fjórfalda ætti sanngirnisbætur",
+      "summary": "Lögmenn þeirra sem urðu fyrir ofbeldi í vistun á vegum hins opinbera telja að fjórfalda ætti þær bætur sem lagðar eru fram í frumvarpi Kristrúnar Frostadóttur forsætisráðherra um sanngirnibætur. Nauðsynlegt sé að gera umfangsmiklar breytingar á því til að endurspegla alvarleika þeirra brota sem sanngirnisbótum er ætlað að bæta. Lögmennirnir Bjarki Heiðar Bjarnason og Snorri Steinn Vidal hjá Soldium lögmannastofu fagna því í umsögn sinni að lagafrumvarp forsætisráðherra sé komið í samráðsgátt en ",
+      "link": "https://www.ruv.is/frettir/innlent/2026-11-11-telja-ad-fjorfalda-aetti-sanngirnisbaetur-492373/",
+      "published": "Wed, 11 Nov 2026 11:38:59 +0000"
+    },
+    {
+      "title": "Ferðamaður krafðist 150 þúsund króna en gert að borga yfir 800 þúsund",
+      "summary": "Gististaðurinn Arctic Wind í Vogum þarf ekki að greiða þýskri konu 157 þúsund krónur vegna þess að hún gat ekki gist hjá þeim eftir að heitavatnslögn fór í sundur í febrúar 2024. Konan þarf hins vegar að greiða gististaðnum 834 þúsund krónur í málskostnað. Þýska konan átti bókaða gistingu í tveimur herbergjum 8.–13. febrúar 2024. Gistingin mun hafa kostað 1.092 evrur, um 150 þúsund krónur að núvirði. Vogar heitavatnslausir eftir að eldgos hófst Að morgni 8. febrúar hófst eldgos á Reykjanesskaga ",
+      "link": "https://www.ruv.is/frettir/innlent/2026-11-11-ferdamadur-krafdist-150-thusund-krona-en-gert-ad-borga-yfir-800-thusund-492367/",
+      "published": "Wed, 11 Nov 2026 11:29:54 +0000"
+    },
+    {
+      "title": "Zelensky ánægður með gang friðarviðræðna í Abú Dabí",
+      "summary": "Öðrum degi þríhliða friðarviðræðna milli Úkraínu, Rússlands og Bandaríkjanna í Abú Dabí er lokið. Viðræðurnar eru þær fyrstu milli þessara þriggja ríkja síðan í febrúar, þegar þeim lauk án niðurstöðu og ráðamenn í Bandaríkjunum beindu sjónum sínum í auknum mæli að Íran. Volodymyr Zelensky, forseti Úkraínu, er ánægður með gang viðræðna og fagnar þeirri breytingu, sem erindrekar Bandaríkjanna gerðu, að bjóða Evrópuríkjum sæti við borðið. Sendinefnd Úkraínu mun ræða um það sem fram hefur komið í vi",
+      "link": "https://www.ruv.is/frettir/erlent/2026-11-11-zelensky-anaegdur-med-gang-fridarvidraedna-i-abu-dabi-492372/",
+      "published": "Wed, 11 Nov 2026 11:19:18 +0000"
+    },
+    {
+      "title": "Litlar vonir bundnar við COP31 og fáir þekktir þjóðarleiðtogar mæta",
+      "summary": "Þónokkrir nafntogaðir þjóðarleiðtogar verða ekki viðstaddir leiðtogafund loftslagsráðstefnu Sameinuðu þjóðanna, COP31, í Antalíu í Tyrklandi í dag. Aðeins Andy Burnham, forsætisráðherra Bretlands, mætir til fundarins af þjóðarleiðtogum G7-ríkja og verður þar í hópi með Lula da Silva, nýendurkjörnum forseta Brasilíu, Recep Erdogan, forseta Tyrklands, Masoud Pezeshkian, forseta Íran, Ursulu von der Leyen, forseta framkvæmdastjórnar Evrópusambandsins, auk fleiri. Emmanuel Macron, forseti Frakklands",
+      "link": "https://www.ruv.is/frettir/erlent/2026-11-11-litlar-vonir-bundnar-vid-cop31-og-fair-thekktir-thjodarleidtogar-maeta-492363/",
+      "published": "Wed, 11 Nov 2026 10:08:00 +0000"
+    },
+    {
+      "title": "Hrekjast úr einu húsnæði í annað",
+      "summary": "Myndlistarmenn á Íslandi hafa lengi verið á hrakhólum vegna skorts á tryggu og mannsæmandi húsnæði. Listir eru grunninnviðir samfélagsins og mikilvægt að fjárfesta í listmenningu ekki síður en í skólakerfinu og heilbrigðiskerfinu, segir Anna Rún Tryggvadóttir, formaður Sambands íslenskra myndlistarmanna, í Síðdegisútvarpinu á Rás 2. Sambandið skorar á ríkið og sveitarfélög að bregðast við bráðum húsnæðisvanda listamanna og kortleggja þörf fyrir vinnustofur. Anna Rún segir að langtímastefnumótun ",
+      "link": "https://www.ruv.is/frettir/menning-og-daegurmal/2026-11-11-hrekjast-ur-einu-husnaedi-i-annad-492338/",
+      "published": "Wed, 11 Nov 2026 10:00:03 +0000"
+    },
+    {
+      "title": "66°Norður hefur sölu í Kína",
+      "summary": "Sjóklæðagerðin, sem framleiðir og selur vörur undir vörumerkinu 66°Norður, hefur samið við kínverska fatafyrirtækið HLA um stofnun samstarfsfélags. Það á að annast sölu og dreifingu á vörum 66°Norður í Kína. Þetta kemur fram í tilkynningu frá fyrirtækinu. Samkvæmt samningnum, sem var undirritaður í september, kaupir samstarfsfélagið vörubirgðir af Sjóklæðagerðinni. „Jafnframt hefur verið samið um sölu hugverkaréttinda sem tengjast sölu og dreifingu á vörum 66°Norður í Kína.“ Tap jókst milli ára ",
+      "link": "https://www.ruv.is/frettir/innlent/2026-11-11-66degnordur-hefur-solu-i-kina-492358/",
+      "published": "Wed, 11 Nov 2026 09:09:44 +0000"
+    },
+    {
+      "title": "Einfaldara og öruggara að ljósmæður geti pantað rannsóknir í eigin nafni",
+      "summary": "Ljósmæður og hjúkrunarfræðingar sem sinna meðgönguvernd geta loks pantað rannsóknir í eigin nafni í stað þess að skrá þær á lækna. Unnur Berglind Friðriksdóttir, formaður Ljósmæðrafélags Íslands, segir breytinguna löngu tímabæra. Með henni séu verkferlar einfaldaðir og gerðir öruggari. „Þetta er í raun og veru ekki mikil breyting á störfum ljósmæðra af því ljósmæður eru að panta allar þessar blóðprufur sjálfar, en hingað til þá hafa þær þurft að finna eitthvað læknanúmer til þess að setja á blóð",
+      "link": "https://www.ruv.is/frettir/innlent/2026-11-11-einfaldara-og-oruggara-ad-ljosmaedur-geti-pantad-rannsoknir-i-eigin-nafni-492360/",
+      "published": "Wed, 11 Nov 2026 08:56:51 +0000"
+    },
+    {
+      "title": "Eldur kviknaði í bíl fyrir utan leikskóla",
+      "summary": "Eldur kviknaði í bíl fyrir utan leikskólann Árbæ við Fossaveg á Selfossi í morgun. Útkall barst Brunavörnum Árnessýslu rétt upp úr klukkan átta í morgun. Þetta staðfestir Lárus Kristinn Guðmundsson slökkviliðsstjóri. Búið var að slökkva eldinn að mestu þegar slökkvilið bar að. Ekki er vitað hver eldsupptök voru. Engin slys urðu á fólki. RÚV / Ragnar Visage",
+      "link": "https://www.ruv.is/frettir/innlent/2026-11-11-eldur-kviknadi-i-bil-fyrir-utan-leikskola-492361/",
+      "published": "Wed, 11 Nov 2026 08:56:14 +0000"
+    },
+    {
+      "title": "Dagný leggur skóna á hilluna: „Úr 850 manna bæ í milljónaborgir“",
+      "summary": "Dagný Brynjarsdóttir hefur tilkynnt að hún er hætt í fótbolta. Dagný er næstmarkahæsta landsliðskona sögunnar. Alls skoraði hún 38 mörk í 122 leikjum yfir 16 ára tímabil. Hin 35 ára gamla Dagný segir í tilkynningunni að nú sé tími til að huga að fjölskyldunni. Í fámennum hópi Dagný fór á fern stórmót með íslenska landsliðinu en hún lék á EM 2013, 2017, 2021 og 2025. Hún er ein fjögurra leikmanna sem hafa tekið þátt á fjórum stórmótumn, en þann heiður á hún ásamt Söru Björk Gunnarsdóttur, Sif Atl",
+      "link": "https://www.ruv.is/frettir/ithrottir/2026-11-11-dagny-leggur-skona-a-hilluna-ur-850-manna-bae-i-milljonaborgir-492357/",
+      "published": "Wed, 11 Nov 2026 08:27:05 +0000"
+    },
+    {
+      "title": "Í dag: Ísland sækir Íra heim",
+      "summary": "Ísland sækir Íra heim í kvöld á fyrsta stigi undankeppninnar fyrir EM 2029 í körfubolta. Íslenska liðið þarf að standa sig vel í þessari forkeppni til að komast í aðal undankeppnina fyrir Evrópumótið. Íslenska liðið tekur svo á móti Sviss á laugardag í Ólafssal á Ásvöllum og á móti Aserbaídsjan á þriðjudag. En fyrst er það leikurinn við Íra ytra í kvöld. Hann hefst klukkan 19:00 og verður sýndur á RÚV 2 en bein útsending hefst klukkan 18:50. Pekka Salminen landsliðsþjálfari Íslands segir lið sit",
+      "link": "https://www.ruv.is/frettir/ithrottir/2026-11-11-i-dag-island-saekir-ira-heim-492359/",
+      "published": "Wed, 11 Nov 2026 08:17:04 +0000"
+    },
+    {
+      "title": "Ekki lausn að opinbera heimilisföng dæmdra kynferðisbrotamanna",
+      "summary": "Barnaníðsefni hefur aldrei verið jafn útbreitt og fullorðnir karlmenn hafa greiða leið að börnum í gegnum samfélagsmiðla. Afbrotafræðingur segir markvissa, einstaklingsbundna, meðferð geta dregið úr afbrotum. Í umfjöllun Kveiks í gærkvöldi var fjallað um kynferðisbrot gegn börnum. Óvíst hvort hægt sé að lækna fólk af barnagirnd Helgi Gunnlaugsson, félags- og afbrotafræðingur við Háskóla Íslands, segir erfitt að alhæfa um að ein meðferð virki fyrir alla kynferðisbrotamenn. Brotin séu margs konar ",
+      "link": "https://www.ruv.is/frettir/innlent/2026-11-11-ekki-lausn-ad-opinbera-heimilisfong-daemdra-kynferdisbrotamanna-492319/",
+      "published": "Wed, 11 Nov 2026 08:01:13 +0000"
+    }
+  ],
+  "problems": []
+}

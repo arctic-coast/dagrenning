@@ -1,0 +1,138 @@
+{
+  "place": "Húsavík",
+  "date": "2026-11-10",
+  "weekday_index": 1,
+  "generated_at": "21:12",
+  "sunrise": "09:38",
+  "sunset": "16:07",
+  "forecast": [
+    {
+      "time": "19:00",
+      "temp_c": 2,
+      "wind_ms": 7,
+      "wind_dir": "NNV",
+      "description": "Alskýjað"
+    },
+    {
+      "time": "20:00",
+      "temp_c": 1,
+      "wind_ms": 8,
+      "wind_dir": "NNV",
+      "description": "Alskýjað"
+    },
+    {
+      "time": "21:00",
+      "temp_c": 1,
+      "wind_ms": 7,
+      "wind_dir": "NNV",
+      "description": "Alskýjað"
+    },
+    {
+      "time": "22:00",
+      "temp_c": 1,
+      "wind_ms": 7,
+      "wind_dir": "NNV",
+      "description": "Alskýjað"
+    },
+    {
+      "time": "23:00",
+      "temp_c": 1,
+      "wind_ms": 8,
+      "wind_dir": "NNV",
+      "description": "Alskýjað"
+    }
+  ],
+  "news": [
+    {
+      "title": "Vilja auka hlutafé Bláa Lónsins hf. um 14 milljarða",
+      "summary": "Hlutafjárútboð Bláa Lónsins hf. hófst í morgun og stendur til föstudags. Sigríður Margrét Oddsdóttir, forstjóri félagsins, segir að til standi að sækja rúmlega 14 milljarða í nýtt hlutafé. Núverandi hluthafar eru ekki að selja sína hluti heldur er verið að sækja nýtt hlutafé. Viðskipti hefjast með félagið í Kauphöllinni 20.nóvember. Umfangsmikil uppbyggingarverkefni kalla á aukið fjármagn Sigríður Margrét segir ástæðu þess að boðað er til hlutafjáraukningarinnar nú vera að styrkja félagið í þeim",
+      "link": "https://www.ruv.is/frettir/innlent/2026-11-10-vilja-auka-hlutafe-blaa-lonsins-hf-um-14-milljarda-492320/",
+      "published": "Tue, 10 Nov 2026 20:30:03 +0000"
+    },
+    {
+      "title": "Ísland stendur sig verst Norðurlandanna í loftslagsmálum",
+      "summary": "Ísland nær ekki markmiðum um samdrátt í losun gróðurhúsalofttegunda fyrir árið 2030 en kolefnishlutleysi fyrir 2040 er ennþá raunhæft markmið. Ísland stendur sig áberandi verst Norðurlandanna við að draga úr losun og þjóðin þarf að búa sig undir vaxandi ójafnvægi í veðurfari, áhættu og óvissu og aðlagast breyttum veruleika markvisst. Þetta er meðal þess sem lesa má í fyrstu stöðumatsskýrslu Loftslagsráðs þar sem staða Íslands í loftslagsmálum er sett í samhengi á heimsvísu. Ráðinu er gert að bre",
+      "link": "https://www.ruv.is/frettir/innlent/2026-11-10-island-stendur-sig-verst-nordurlandanna-i-loftslagsmalum-492318/",
+      "published": "Tue, 10 Nov 2026 20:25:03 +0000"
+    },
+    {
+      "title": "Kannast ekki við að hafa afvegaleitt þingið",
+      "summary": "Daði Már Kristófersson, fjármála- og efnahagsráðherra, neitar því að hafa afvegaleitt þingið með því að segja að mál Harðar Arnarsonar, fyrrverandi forstjóra Landsvirkjunar, snúist aðeins um stjórnarhætti fyrirtækisins. Daði var gestur í Kastljósi í kvöld. Þá kannast hann ekki við að hafa verið ónákvæmur í svörum til Alþingis. Þó hafði hann sagt á Alþingi 4. nóvember að fyrra svar hans til þingsins varðandi stjórnarfundina væri ekki „gott og nákvæmt“. Hann ítrekar að málið snúist aðeins um stjór",
+      "link": "https://www.ruv.is/frettir/innlent/2026-11-10-kannast-ekki-vid-ad-hafa-afvegaleitt-thingid-492332/",
+      "published": "Tue, 10 Nov 2026 20:23:27 +0000"
+    },
+    {
+      "title": "Húsleit í Frakklandi vegna rannsóknar á misnotkun Mohamed Al Fayed",
+      "summary": "Franska lögreglan gerði húsleit á þremur stöðum sem tengjast egypska auðjöfrinum Mohamed Al Fayed vegna ásakana á hendur honum um ítrekuð kynferðisbrot gegn konum. Nokkrir voru handteknir. Leitað var á Ritz-hótelinu í París, Windsor-villu í vesturhluta Parísar og Sainte-Therese kastala á frönsku rivíeriunni um miðjan síðasta mánuð. Þessar byggingar voru allar í eigu Al Fayed. Í aðgerðunum voru nokkrir yfirheyrðir og hald var lagt á tölvur, síma og stafræn gögn. Leitin var gerð í samstarfi við br",
+      "link": "https://www.ruv.is/frettir/erlent/2026-11-10-husleit-i-frakklandi-vegna-rannsoknar-a-misnotkun-mohamed-al-fayed-492321/",
+      "published": "Tue, 10 Nov 2026 20:19:19 +0000"
+    },
+    {
+      "title": "Barn geti fengið upplýsingar um nafn sæðisgjafa",
+      "summary": "Takmarka á notkun sæðisfruma úr sama einstaklingi samkvæmt frumvarpsdrögum heilbrigðisráðherra. Þá verður endurskoðuð krafa um sambúð eða hjúskap þeirra sem ætla í tæknifrjóvgun. Endurskoða á rétt þeirra sem eru getin með gjafafrumum um líffræðilegan uppruna, nafn gjafans og aðrar persónugreinanlegar upplýsingar. Barn sem getið er með gjafafrumum á rétt á að fá upplýsingar um nafn gjafans við átján ára aldur samkvæmt frumvarpsdrögum heilbrigðisráðherra. Þá á að takmarka notkun sæðisfruma úr sama",
+      "link": "https://www.ruv.is/frettir/innlent/2026-11-10-barn-geti-fengid-upplysingar-um-nafn-saedisgjafa-492317/",
+      "published": "Tue, 10 Nov 2026 20:14:35 +0000"
+    },
+    {
+      "title": "Segir öllum reglum fylgt og af og frá að leikrit sé sett á svið fyrir eftirlitsaðila",
+      "summary": "Geir Gunnar Geirsson, forstjóri Stjörnugríss og einn eigenda, segir af og frá að myndefni frá innbroti úr búi fyrirtækisins gefi rétta mynd af starfseminni. Umræða um að fyrirtækið setji á svið leikrit fyrir eftirlitsheimsóknir sé ekki á rökum reist. Fréttastofa fékk að heimsækja svínabúið í Brimnesi í dag. Maðurinn, sem hefur játað að brjótast inn í búið, birti myndefni fyrir helgi þar sem ástand dýranna virðist bágborið og meðal annars mátti sjá dauða grísi. Geir segir myndirnar ljótar og ekki",
+      "link": "https://www.ruv.is/frettir/innlent/2026-11-10-segir-ollum-reglum-fylgt-og-af-og-fra-ad-leikrit-se-sett-a-svid-fyrir-eftirlitsadila-492331/",
+      "published": "Tue, 10 Nov 2026 20:13:32 +0000"
+    },
+    {
+      "title": "Handtóku bandarískan hermann grunaðan um njósnir",
+      "summary": "Breska hryðjuverkalögreglan hefur handtekið háttsettan hermann í bandaríska hernum í Gloucestershire-héraði í dag. Frá þessu greinir BBC . Hermaðurinn er 41 árs og var handtekinn nálægt borginni Gloucester grunaður um brot á lögum um þjóðaröryggi. Lögreglan í Bretlandi segist vinna náið með bandaríska hernum og bandarísku alríkislögreglunni (FBI) Lögreglan í Bretlandi sagði ásakanirnar gegn manninum tengjast Rússlandi. Bandaríska alríkislögreglan segir manninn sakaðan um njósnir. Lögreglan hefur",
+      "link": "https://www.ruv.is/frettir/erlent/2026-11-10-handtoku-bandariskan-hermann-grunadan-um-njosnir-492334/",
+      "published": "Tue, 10 Nov 2026 20:09:31 +0000"
+    },
+    {
+      "title": "Heitar ástir í ískaldri Prag",
+      "summary": "Sölvi Halldórsson skrifar: Einu sinni vann ég við að kenna útlendingum íslensku. Í annaðhvort fjórða eða fimmta tíma námskeiðsins Íslenska 1 lærðu nemendur um ópersónulegar sagnir, og þurftu að opna sig um langanir sínar. Við ræddum muninn á því að segja „Ég vil“ og „Mig langar“ og í kennslubókinni var mynd af vansælum manni og undir honum stóð setningin: „Mig langar í sígarettu en ég vil ekki reykja.“ Þetta átti að skýra það hvernig manneskjan hefði stjórn á vilja sínum, en ekki löngunum. Þetta",
+      "link": "https://www.ruv.is/frettir/menning-og-daegurmal/2026-11-10-heitar-astir-i-iskaldri-prag-492311/",
+      "published": "Tue, 10 Nov 2026 20:00:03 +0000"
+    },
+    {
+      "title": "Erfitt en mögulegt og ákaflega mikilvægt að halda hlýnun Jarðar undir tveimur gráðum",
+      "summary": "Of seint að ná 1,5 gráðu markmiðinu Í skýrslu umhverfisstofnunar Sameinuðu þjóðanna, The point of return - Vendipunkturinn - er því lýst formlega og afdráttarlaust yfir, að það sé um seinan að halda hlýnun Jarðar undir 1,5 gráðum frá meðalhitastigi fyrir iðnbyltingu. Til þess hafi ríki heims einfaldlega gert of lítið til að mögulegt sé að ná því markmiði. Jörðin mun hlýna meira en um 1,5 gráður. Nú er spurningin hvað þarf - og er hægt - að gera til að snúa þessari þróun við sem fyrst - og hversu",
+      "link": "https://www.ruv.is/frettir/innlent/2026-11-10-erfitt-en-mogulegt-og-akaflega-mikilvaegt-ad-halda-hlynun-jardar-undir-tveimur-gradum-492329/",
+      "published": "Tue, 10 Nov 2026 19:37:18 +0000"
+    },
+    {
+      "title": "Tafir eftir þriggja bíla árekstur á Vesturlandsvegi",
+      "summary": "Einn var fluttur til skoðunar á slysadeild eftir þriggja fólksbíla árekstur á Vesturlandsvegi við Grjótháls. Slökkviliði barst tilkynning um áreksturinn rétt eftir klukkan 18 í kvöld, segir Sigurjón Hendriksson, varðstjóri Slökkviliðs höfuðborgarsvæðisins. Miklar tafir eru í austur í átt að Mosfellsbæ. Sigurjón segist búast við töfum að minnsta kosti næsta hálftímann á meðan viðbragðsaðilar hreinsa vettvanginn. Þórgunnur Oddsdóttir",
+      "link": "https://www.ruv.is/frettir/innlent/2026-11-10-tafir-eftir-thriggja-bila-arekstur-a-vesturlandsvegi-492330/",
+      "published": "Tue, 10 Nov 2026 19:27:30 +0000"
+    },
+    {
+      "title": "Beint: Annað undankvöld Skrekks",
+      "summary": "Skrekkur, hæfileikakeppni grunnskólanema í Reykjavík, heldur áfram í kvöld. Annað undankvöldið af þremur fer fram í Borgarleikhúsinu. Síðasta undankvöldið fer fram annað kvöld og úrslitin verða mánudaginn 16. nóvember klukkan 20:15 í beinni útsendingu á RÚV. Í gær komust Breiðholtsskóli og Klébergsskóli áfram í úrslitin og í kvöld bætast tveir skólar við. Kynnar kvöldsins eru Anna Sigrún Davíðsdóttir og Daníel Óskar Jóhannesson. Annað undankvöld Skrekks verður sýnt í beinni útsendingu frá Borgar",
+      "link": "https://www.ruv.is/frettir/menning-og-daegurmal/2026-11-10-beint-annad-undankvold-skrekks-491715/",
+      "published": "Tue, 10 Nov 2026 19:20:03 +0000"
+    },
+    {
+      "title": "Grunur um að Íslendingar borgi fyrir beint streymi af ofbeldi gegn börnum",
+      "summary": "Vísbendingar eru um að einstaklingar hér á landi hafi greitt fyrir að sjá börn beitt kynferðislegu ofbeldi í beinu streymi. Ofbeldi á netinu verður sífellt útbreiddara. Europol hefur ítrekað fjallað um þessa tegund kynferðisofbeldis gegn börnum í skýrslum sínum, sem verði sífellt víðtækara vandamál. Þar kemur fram að fólk geti greitt fyrir að fylgjast með ofbeldinu í rauntíma og geti jafnvel gefið fyrirmæli um hvers konar ofbeldi beita eigi börnin. „Þetta er bara keypt þjónusta í raun og veru. Þ",
+      "link": "https://www.ruv.is/frettir/innlent/2026-11-10-grunur-um-ad-islendingar-borgi-fyrir-beint-streymi-af-ofbeldi-gegn-bornum-492307/",
+      "published": "Tue, 10 Nov 2026 19:00:03 +0000"
+    },
+    {
+      "title": "ÍFF kvartar yfir töfum á afgreiðslu launakrafa fyrrverandi starfsmanna Play",
+      "summary": "Íslenska flugstéttafélagið (ÍFF) hefur sent kvörtun til Ragnars Þórs Ingólfssonar, félags- og húsnæðismálaráðherra, vegna tafa sem hafi orðið á afgreiðslu launakrafa fyrrverandi starfsmanna flugfélagsins Play hjá Ábyrgðasjóði launa. Play varð gjaldþrota í september á síðasta ári. Félagið segir fyrrverandi starfsmenn því hafa beðið í rúmt ár eftir afgreiðslu. Ábyrgðasjóði launa hafi borist umsagnir tveggja skiptastjóra um allar launakröfur fyrrverandi starfsmanna Play, sem eru félagsmenn ÍFF, þan",
+      "link": "https://www.ruv.is/frettir/innlent/2026-11-10-iff-kvartar-yfir-tofum-a-afgreidslu-launakrafa-fyrrverandi-starfsmanna-play-492328/",
+      "published": "Tue, 10 Nov 2026 18:57:54 +0000"
+    },
+    {
+      "title": "Köfunarbílstjórinn flýgur í lögreglufylgd til Íslands á morgun",
+      "summary": "Sakborningum í haldi íslensku lögreglunnar í Straumsvíkurmálinu svokallaða fjölgar um einn á morgun, þegar tíundi maðurinn kemur hingað í lögreglufylgd með flugi frá Rúmeníu. Þetta herma heimildir fréttastofu. Maðurinn kom hingað með farþegaferjunni Norrænu í fyrri hluta júnímánaðar, á sendiferðabíl fullum af köfunarbúnaði. Þetta var fáeinum vikum áður en hinir sakborningarnir notuðu búnaðinn til að kafa eftir 106 kílóum af kókaíni sem falin voru í sjókistu búlgarska súrálsskipsins Koznitza, þar",
+      "link": "https://www.ruv.is/frettir/innlent/2026-11-10-kofunarbilstjorinn-flygur-i-logreglufylgd-til-islands-a-morgun-492301/",
+      "published": "Tue, 10 Nov 2026 18:12:41 +0000"
+    },
+    {
+      "title": "Kostar nærri hálfa milljón að flytja fanga frá Akureyri",
+      "summary": "Í skriflegu svari dómsmálaráðuneytisins við fyrirspurn fréttastofu segir að ekki sé hægt að opna fangelsið á Akureyri á nýjan leik án umfangsmikilla og kostnaðarsamra breytinga. Þorbjörg Sigríður Gunnlaugsdóttir dómsmálaráðherra sagði á Alþingi í síðustu viku að þau tíu rými sem voru á Akureyri myndu nýtast vel í dag þar sem þörfin fyrir pláss í fangelsum hefur aukist verulega á undanförnum árum. Þegar fangelsinu á Akureyri var lokað árið 2020 tók Lögreglan á Akureyri rýmin yfir og nýtir þau í d",
+      "link": "https://www.ruv.is/frettir/innlent/2026-11-10-kostar-naerri-halfa-milljon-ad-flytja-fanga-fra-akureyri-492316/",
+      "published": "Tue, 10 Nov 2026 18:06:07 +0000"
+    }
+  ],
+  "problems": []
+}

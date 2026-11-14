@@ -1,0 +1,379 @@
+{
+  "title": "Skýjað kvöld á Húsavík",
+  "segments": [
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Gott kvöld frá Húsavík. Þetta er Dagrenning.",
+      "translation": "Good evening from Húsavík. This is Dagrenning."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í dag er þriðjudagurinn tíundi nóvember. Klukkan er rúmlega níu að kvöldi.",
+      "translation": "Today is Tuesday the tenth of November. It is a little after nine in the evening."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Veðrið í dag.",
+      "translation": "Today's weather."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Við höfum ekki spá fyrir morguninn. Í kvöld er alskýjað. Hitinn er ein til tvær gráður. Það er norðnorðvestan átt, sjö til átta metrar á sekúndu. Það er ekki rigning.",
+      "translation": "We don't have a forecast for the morning. This evening it is overcast. The temperature is one to two degrees. There is a north-northwest wind, seven to eight metres per second. It isn't raining."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Sólin kom upp klukkan tuttugu og tvær mínútur í tíu. Hún settist klukkan sjö mínútur yfir fjögur.",
+      "translation": "The sun rose at twenty-two minutes to ten. It set at seven minutes past four."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fréttir dagsins.",
+      "translation": "Today's news."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fangelsinu á Akureyri var lokað árið tvö þúsund og tuttugu. Nú vantar meira pláss í fangelsum. Ráðuneytið segir að það sé dýrt að opna það aftur.",
+      "translation": "The prison in Akureyri was closed in twenty twenty. Now more space is needed in prisons. The ministry says it is expensive to open it again."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Ný skýrsla um loftslagsmál kom út í dag. Ísland stendur sig verst af Norðurlöndunum. Ísland nær ekki markmiðum sínum fyrir árið tvö þúsund og þrjátíu.",
+      "translation": "A new report on climate issues came out today. Iceland does worst of the Nordic countries. Iceland will not reach its goals for the year twenty thirty."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Bláa Lónið vill fá nýtt fé. Fyrirtækið vill fá rúmlega fjórtán milljarða króna.",
+      "translation": "The Blue Lagoon wants new capital. The company wants a little over fourteen billion krónur."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimm orð dagsins.",
+      "translation": "Five words of the day."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fyrsta orðið er lýsingarorð.",
+      "translation": "The first word is an adjective."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "alskýjað",
+      "translation": "overcast"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Overcast.",
+      "translation": "Overcast."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Það er alskýjað á Húsavík.",
+      "translation": "It is overcast in Húsavík."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "It is overcast in Húsavík.",
+      "translation": "It is overcast in Húsavík."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Annað orðið er karlkynsorð.",
+      "translation": "The second word is a masculine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "vindur",
+      "translation": "wind"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Wind.",
+      "translation": "Wind."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Það er mikill vindur í kvöld.",
+      "translation": "It is very windy this evening."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "It is very windy this evening.",
+      "translation": "It is very windy this evening."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Þriðja orðið er hvorugkynsorð.",
+      "translation": "The third word is a neuter noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "fangelsi",
+      "translation": "prison"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Prison.",
+      "translation": "Prison."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Fangelsið á Akureyri er lokað.",
+      "translation": "The prison in Akureyri is closed."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "The prison in Akureyri is closed.",
+      "translation": "The prison in Akureyri is closed."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fjórða orðið er kvenkynsorð.",
+      "translation": "The fourth word is a feminine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "skýrsla",
+      "translation": "report"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Report.",
+      "translation": "Report."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Ég les skýrsluna í kvöld.",
+      "translation": "I am reading the report tonight."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "I am reading the report tonight.",
+      "translation": "I am reading the report tonight."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimmta orðið er sögn.",
+      "translation": "The fifth word is a verb."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "að flytja",
+      "translation": "to move, to transport"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "To move, or to transport.",
+      "translation": "To move, or to transport."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Við ætlum að flytja til Húsavíkur.",
+      "translation": "We are going to move to Húsavík."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "We are going to move to Húsavík.",
+      "translation": "We are going to move to Húsavík."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Setning dagsins.",
+      "translation": "Sentence of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Mig langar í kaffi. Viltu koma með mér?",
+      "translation": "I'd like some coffee. Do you want to come with me?"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "I'd like some coffee. Do you want to come with me?",
+      "translation": "I'd like some coffee. Do you want to come with me?"
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": true,
+      "text": "Mig langar í kaffi. Viltu koma með mér?",
+      "translation": "I'd like some coffee. Do you want to come with me?"
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Orðasambönd dagsins.",
+      "translation": "Phrases of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "mig langar í",
+      "translation": "I'd like, I feel like"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "I'd like, or I feel like.",
+      "translation": "I'd like, or I feel like."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "viltu koma",
+      "translation": "do you want to come"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Do you want to come.",
+      "translation": "Do you want to come."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "með mér",
+      "translation": "with me"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "With me.",
+      "translation": "With me."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Eigðu gott þriðjudagskvöld! Bless bless.",
+      "translation": "Have a good Tuesday evening! Bye bye."
+    }
+  ],
+  "words": [
+    {
+      "icelandic": "alskýjað",
+      "english": "overcast"
+    },
+    {
+      "icelandic": "vindur",
+      "english": "wind"
+    },
+    {
+      "icelandic": "fangelsi",
+      "english": "prison"
+    },
+    {
+      "icelandic": "skýrsla",
+      "english": "report"
+    },
+    {
+      "icelandic": "að flytja",
+      "english": "to move, to transport"
+    }
+  ],
+  "sentence": {
+    "icelandic": "Mig langar í kaffi. Viltu koma með mér?",
+    "english": "I'd like some coffee. Do you want to come with me?"
+  },
+  "phrases": [
+    {
+      "icelandic": "mig langar í",
+      "english": "I'd like, I feel like"
+    },
+    {
+      "icelandic": "viltu koma",
+      "english": "do you want to come"
+    },
+    {
+      "icelandic": "með mér",
+      "english": "with me"
+    }
+  ],
+  "news_links": [
+    "https://www.ruv.is/frettir/innlent/2026-11-10-kostar-naerri-halfa-milljon-ad-flytja-fanga-fra-akureyri-492316/",
+    "https://www.ruv.is/frettir/innlent/2026-11-10-island-stendur-sig-verst-nordurlandanna-i-loftslagsmalum-492318/",
+    "https://www.ruv.is/frettir/innlent/2026-11-10-vilja-auka-hlutafe-blaa-lonsins-hf-um-14-milljarda-492320/"
+  ]
+}
