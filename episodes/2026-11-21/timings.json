@@ -1,0 +1,2163 @@
+{
+ "duration": 166.191,
+ "segments": [
+  {
+   "index": 0,
+   "lang": "is",
+   "text": "Góðan daginn frá Húsavík! Í dag er laugardagur, tuttugasti og fyrsti nóvember. Klukkan er um hálf sjö.",
+   "translation": "Good morning from Húsavík! Today is Saturday, the twenty-first of November. It is about half past six.",
+   "start": 0.0,
+   "end": 8.046,
+   "words": [
+    {
+     "text": "Góðan",
+     "at": 0,
+     "start": 0.0,
+     "end": 0.32
+    },
+    {
+     "text": "daginn",
+     "at": 6,
+     "start": 0.4,
+     "end": 0.72
+    },
+    {
+     "text": "frá",
+     "at": 13,
+     "start": 0.8,
+     "end": 0.96
+    },
+    {
+     "text": "Húsavík",
+     "at": 17,
+     "start": 1.04,
+     "end": 2.08
+    },
+    {
+     "text": "Í",
+     "at": 26,
+     "start": 2.16,
+     "end": 2.24
+    },
+    {
+     "text": "dag",
+     "at": 28,
+     "start": 2.4,
+     "end": 2.56
+    },
+    {
+     "text": "er",
+     "at": 32,
+     "start": 2.64,
+     "end": 2.8
+    },
+    {
+     "text": "laugardagur",
+     "at": 35,
+     "start": 2.88,
+     "end": 3.76
+    },
+    {
+     "text": "tuttugasti",
+     "at": 48,
+     "start": 3.84,
+     "end": 4.4
+    },
+    {
+     "text": "og",
+     "at": 59,
+     "start": 4.48,
+     "end": 4.56
+    },
+    {
+     "text": "fyrsti",
+     "at": 62,
+     "start": 4.6,
+     "end": 4.96
+    },
+    {
+     "text": "nóvember",
+     "at": 69,
+     "start": 5.04,
+     "end": 6.08
+    },
+    {
+     "text": "Klukkan",
+     "at": 79,
+     "start": 6.12,
+     "end": 6.64
+    },
+    {
+     "text": "er",
+     "at": 87,
+     "start": 6.72,
+     "end": 6.8
+    },
+    {
+     "text": "um",
+     "at": 90,
+     "start": 6.88,
+     "end": 6.96
+    },
+    {
+     "text": "hálf",
+     "at": 93,
+     "start": 7.0,
+     "end": 7.28
+    },
+    {
+     "text": "sjö",
+     "at": 98,
+     "start": 7.44,
+     "end": 8.0
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "lang": "is",
+   "text": "Veðrið í dag.",
+   "translation": "The weather today.",
+   "start": 8.333,
+   "end": 9.979,
+   "words": [
+    {
+     "text": "Veðrið",
+     "at": 0,
+     "start": 8.333,
+     "end": 8.813
+    },
+    {
+     "text": "í",
+     "at": 7,
+     "start": 8.893,
+     "end": 8.973
+    },
+    {
+     "text": "dag",
+     "at": 9,
+     "start": 9.173,
+     "end": 9.933
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "lang": "is",
+   "text": "Í morgun er alskýjað og mínus tvær gráður. Það er suðaustanátt, fjórir til sex metrar á sekúndu.",
+   "translation": "This morning it is overcast and minus two degrees. There is a south-easterly wind, four to six metres per second.",
+   "start": 10.266,
+   "end": 19.017,
+   "words": [
+    {
+     "text": "Í",
+     "at": 0,
+     "start": 10.266,
+     "end": 10.346
+    },
+    {
+     "text": "morgun",
+     "at": 2,
+     "start": 10.426,
+     "end": 10.906
+    },
+    {
+     "text": "er",
+     "at": 9,
+     "start": 10.986,
+     "end": 11.146
+    },
+    {
+     "text": "alskýjað",
+     "at": 12,
+     "start": 11.306,
+     "end": 12.106
+    },
+    {
+     "text": "og",
+     "at": 21,
+     "start": 12.186,
+     "end": 12.266
+    },
+    {
+     "text": "mínus",
+     "at": 24,
+     "start": 12.346,
+     "end": 12.746
+    },
+    {
+     "text": "tvær",
+     "at": 30,
+     "start": 12.826,
+     "end": 13.146
+    },
+    {
+     "text": "gráður",
+     "at": 35,
+     "start": 13.226,
+     "end": 14.446
+    },
+    {
+     "text": "Það",
+     "at": 43,
+     "start": 14.466,
+     "end": 14.546
+    },
+    {
+     "text": "er",
+     "at": 47,
+     "start": 14.586,
+     "end": 14.746
+    },
+    {
+     "text": "suðaustanátt",
+     "at": 50,
+     "start": 14.826,
+     "end": 16.066
+    },
+    {
+     "text": "fjórir",
+     "at": 64,
+     "start": 16.106,
+     "end": 16.506
+    },
+    {
+     "text": "til",
+     "at": 71,
+     "start": 16.586,
+     "end": 16.746
+    },
+    {
+     "text": "sex",
+     "at": 75,
+     "start": 16.826,
+     "end": 17.066
+    },
+    {
+     "text": "metrar",
+     "at": 79,
+     "start": 17.146,
+     "end": 17.546
+    },
+    {
+     "text": "á",
+     "at": 86,
+     "start": 17.626,
+     "end": 17.706
+    },
+    {
+     "text": "sekúndu",
+     "at": 88,
+     "start": 17.786,
+     "end": 19.066
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "lang": "is",
+   "text": "Í dag verður frost, ein til tvær gráður. Um hádegi verður léttskýjað, en svo verður aftur alskýjað. Vindurinn eykst.",
+   "translation": "Today there will be frost, one to two degrees below zero. Around midday it will be partly clear, but then it will be overcast again. The wind picks up.",
+   "start": 19.304,
+   "end": 29.492,
+   "words": [
+    {
+     "text": "Í",
+     "at": 0,
+     "start": 19.304,
+     "end": 19.464
+    },
+    {
+     "text": "dag",
+     "at": 2,
+     "start": 19.544,
+     "end": 19.784
+    },
+    {
+     "text": "verður",
+     "at": 6,
+     "start": 19.864,
+     "end": 20.184
+    },
+    {
+     "text": "frost",
+     "at": 13,
+     "start": 20.224,
+     "end": 21.144
+    },
+    {
+     "text": "ein",
+     "at": 20,
+     "start": 21.304,
+     "end": 21.464
+    },
+    {
+     "text": "til",
+     "at": 24,
+     "start": 21.544,
+     "end": 21.704
+    },
+    {
+     "text": "tvær",
+     "at": 28,
+     "start": 21.784,
+     "end": 22.104
+    },
+    {
+     "text": "gráður",
+     "at": 33,
+     "start": 22.184,
+     "end": 23.224
+    },
+    {
+     "text": "Um",
+     "at": 41,
+     "start": 23.304,
+     "end": 23.384
+    },
+    {
+     "text": "hádegi",
+     "at": 44,
+     "start": 23.424,
+     "end": 23.944
+    },
+    {
+     "text": "verður",
+     "at": 51,
+     "start": 24.024,
+     "end": 24.264
+    },
+    {
+     "text": "léttskýjað",
+     "at": 58,
+     "start": 24.344,
+     "end": 25.384
+    },
+    {
+     "text": "en",
+     "at": 70,
+     "start": 25.464,
+     "end": 25.544
+    },
+    {
+     "text": "svo",
+     "at": 73,
+     "start": 25.624,
+     "end": 25.784
+    },
+    {
+     "text": "verður",
+     "at": 77,
+     "start": 25.864,
+     "end": 26.104
+    },
+    {
+     "text": "aftur",
+     "at": 84,
+     "start": 26.184,
+     "end": 26.584
+    },
+    {
+     "text": "alskýjað",
+     "at": 90,
+     "start": 26.704,
+     "end": 27.784
+    },
+    {
+     "text": "Vindurinn",
+     "at": 100,
+     "start": 27.824,
+     "end": 28.344
+    },
+    {
+     "text": "eykst",
+     "at": 110,
+     "start": 28.424,
+     "end": 29.464
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "lang": "is",
+   "text": "Í kvöld hlýnar. Seint í kvöld kemur slydda og svo rigning.",
+   "translation": "This evening it gets warmer. Late this evening there will be sleet and then rain.",
+   "start": 29.78,
+   "end": 35.265,
+   "words": [
+    {
+     "text": "Í",
+     "at": 0,
+     "start": 29.78,
+     "end": 29.94
+    },
+    {
+     "text": "kvöld",
+     "at": 2,
+     "start": 30.02,
+     "end": 30.42
+    },
+    {
+     "text": "hlýnar",
+     "at": 8,
+     "start": 30.5,
+     "end": 31.7
+    },
+    {
+     "text": "Seint",
+     "at": 16,
+     "start": 31.78,
+     "end": 32.02
+    },
+    {
+     "text": "í",
+     "at": 22,
+     "start": 32.06,
+     "end": 32.1
+    },
+    {
+     "text": "kvöld",
+     "at": 24,
+     "start": 32.18,
+     "end": 32.58
+    },
+    {
+     "text": "kemur",
+     "at": 30,
+     "start": 32.633,
+     "end": 32.9
+    },
+    {
+     "text": "slydda",
+     "at": 36,
+     "start": 32.94,
+     "end": 33.54
+    },
+    {
+     "text": "og",
+     "at": 43,
+     "start": 33.62,
+     "end": 33.7
+    },
+    {
+     "text": "svo",
+     "at": 46,
+     "start": 33.78,
+     "end": 33.94
+    },
+    {
+     "text": "rigning",
+     "at": 50,
+     "start": 33.98,
+     "end": 35.22
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "lang": "is",
+   "text": "Sólarupprás er klukkan tuttugu mínútur yfir tíu. Sólsetur er um hálf fjögur.",
+   "translation": "Sunrise is at twenty past ten. Sunset is at about half past three.",
+   "start": 35.553,
+   "end": 42.24,
+   "words": [
+    {
+     "text": "Sólarupprás",
+     "at": 0,
+     "start": 35.553,
+     "end": 36.513
+    },
+    {
+     "text": "er",
+     "at": 12,
+     "start": 36.593,
+     "end": 36.753
+    },
+    {
+     "text": "klukkan",
+     "at": 15,
+     "start": 36.793,
+     "end": 37.073
+    },
+    {
+     "text": "tuttugu",
+     "at": 23,
+     "start": 37.153,
+     "end": 37.553
+    },
+    {
+     "text": "mínútur",
+     "at": 31,
+     "start": 37.633,
+     "end": 38.113
+    },
+    {
+     "text": "yfir",
+     "at": 39,
+     "start": 38.193,
+     "end": 38.433
+    },
+    {
+     "text": "tíu",
+     "at": 44,
+     "start": 38.513,
+     "end": 39.553
+    },
+    {
+     "text": "Sólsetur",
+     "at": 49,
+     "start": 39.633,
+     "end": 40.433
+    },
+    {
+     "text": "er",
+     "at": 58,
+     "start": 40.513,
+     "end": 40.593
+    },
+    {
+     "text": "um",
+     "at": 61,
+     "start": 40.673,
+     "end": 40.753
+    },
+    {
+     "text": "hálf",
+     "at": 64,
+     "start": 40.793,
+     "end": 41.073
+    },
+    {
+     "text": "fjögur",
+     "at": 69,
+     "start": 41.153,
+     "end": 42.193
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "lang": "is",
+   "text": "Frá Norðurþingi.",
+   "translation": "From Norðurþing.",
+   "start": 42.527,
+   "end": 44.016,
+   "words": [
+    {
+     "text": "Frá",
+     "at": 0,
+     "start": 42.527,
+     "end": 42.767
+    },
+    {
+     "text": "Norðurþingi",
+     "at": 4,
+     "start": 42.847,
+     "end": 43.967
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "lang": "is",
+   "text": "Norðurþing og fyrirtækið EyrieDC hafa skrifað undir samning. Fyrirtækið ætlar að byggja gagnaver á Bakka við Húsavík. Samningurinn er til fimmtíu ára.",
+   "translation": "Norðurþing and the company EyrieDC have signed a contract. The company plans to build a data centre at Bakki near Húsavík. The contract is for fifty years.",
+   "start": 44.304,
+   "end": 57.391,
+   "words": [
+    {
+     "text": "Norðurþing",
+     "at": 0,
+     "start": 44.304,
+     "end": 45.184
+    },
+    {
+     "text": "og",
+     "at": 11,
+     "start": 45.344,
+     "end": 45.424
+    },
+    {
+     "text": "fyrirtækið",
+     "at": 14,
+     "start": 45.504,
+     "end": 46.304
+    },
+    {
+     "text": "EyrieDC",
+     "at": 25,
+     "start": 46.424,
+     "end": 47.424
+    },
+    {
+     "text": "hafa",
+     "at": 33,
+     "start": 47.584,
+     "end": 47.824
+    },
+    {
+     "text": "skrifað",
+     "at": 38,
+     "start": 47.904,
+     "end": 48.304
+    },
+    {
+     "text": "undir",
+     "at": 46,
+     "start": 48.384,
+     "end": 48.624
+    },
+    {
+     "text": "samning",
+     "at": 52,
+     "start": 48.744,
+     "end": 49.824
+    },
+    {
+     "text": "Fyrirtækið",
+     "at": 61,
+     "start": 49.864,
+     "end": 50.624
+    },
+    {
+     "text": "ætlar",
+     "at": 72,
+     "start": 50.704,
+     "end": 50.944
+    },
+    {
+     "text": "að",
+     "at": 78,
+     "start": 50.971,
+     "end": 51.024
+    },
+    {
+     "text": "byggja",
+     "at": 81,
+     "start": 51.104,
+     "end": 51.424
+    },
+    {
+     "text": "gagnaver",
+     "at": 88,
+     "start": 51.464,
+     "end": 52.064
+    },
+    {
+     "text": "á",
+     "at": 97,
+     "start": 52.144,
+     "end": 52.304
+    },
+    {
+     "text": "Bakka",
+     "at": 99,
+     "start": 52.344,
+     "end": 52.704
+    },
+    {
+     "text": "við",
+     "at": 105,
+     "start": 52.784,
+     "end": 52.904
+    },
+    {
+     "text": "Húsavík",
+     "at": 109,
+     "start": 52.944,
+     "end": 54.064
+    },
+    {
+     "text": "Samningurinn",
+     "at": 118,
+     "start": 54.144,
+     "end": 54.864
+    },
+    {
+     "text": "er",
+     "at": 131,
+     "start": 54.944,
+     "end": 55.024
+    },
+    {
+     "text": "til",
+     "at": 134,
+     "start": 55.104,
+     "end": 55.264
+    },
+    {
+     "text": "fimmtíu",
+     "at": 138,
+     "start": 55.344,
+     "end": 55.824
+    },
+    {
+     "text": "ára",
+     "at": 146,
+     "start": 55.984,
+     "end": 57.344
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "lang": "is",
+   "text": "Viðburðir.",
+   "translation": "Events.",
+   "start": 57.678,
+   "end": 59.246,
+   "words": [
+    {
+     "text": "Viðburðir",
+     "at": 0,
+     "start": 57.678,
+     "end": 59.198
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "lang": "is",
+   "text": "Hljómsveitin Baggalútur heldur jólatónleika í Hofi á Akureyri. Tónleikarnir eru föstudaginn tuttugasta og sjöunda nóvember.",
+   "translation": "The band Baggalútur is holding a Christmas concert at Hof in Akureyri. The concert is on Friday the twenty-seventh of November.",
+   "start": 59.533,
+   "end": 69.251,
+   "words": [
+    {
+     "text": "Hljómsveitin",
+     "at": 0,
+     "start": 59.533,
+     "end": 60.173
+    },
+    {
+     "text": "Baggalútur",
+     "at": 13,
+     "start": 60.253,
+     "end": 61.133
+    },
+    {
+     "text": "heldur",
+     "at": 24,
+     "start": 61.213,
+     "end": 61.533
+    },
+    {
+     "text": "jólatónleika",
+     "at": 31,
+     "start": 61.613,
+     "end": 62.573
+    },
+    {
+     "text": "í",
+     "at": 44,
+     "start": 62.733,
+     "end": 62.813
+    },
+    {
+     "text": "Hofi",
+     "at": 46,
+     "start": 62.893,
+     "end": 63.373
+    },
+    {
+     "text": "á",
+     "at": 51,
+     "start": 63.533,
+     "end": 63.613
+    },
+    {
+     "text": "Akureyri",
+     "at": 53,
+     "start": 63.693,
+     "end": 64.92
+    },
+    {
+     "text": "Tónleikarnir",
+     "at": 63,
+     "start": 64.946,
+     "end": 65.693
+    },
+    {
+     "text": "eru",
+     "at": 76,
+     "start": 65.773,
+     "end": 65.933
+    },
+    {
+     "text": "föstudaginn",
+     "at": 80,
+     "start": 66.013,
+     "end": 66.733
+    },
+    {
+     "text": "tuttugasta",
+     "at": 92,
+     "start": 66.813,
+     "end": 67.293
+    },
+    {
+     "text": "og",
+     "at": 103,
+     "start": 67.373,
+     "end": 67.453
+    },
+    {
+     "text": "sjöunda",
+     "at": 106,
+     "start": 67.493,
+     "end": 67.933
+    },
+    {
+     "text": "nóvember",
+     "at": 114,
+     "start": 68.013,
+     "end": 69.293
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "lang": "is",
+   "text": "Og í dag, klukkan fjögur, verða ljósin tendruð á jólatrénu á Ráðhústorgi á Akureyri. Það er ókeypis.",
+   "translation": "And today, at four o'clock, the lights will be switched on on the Christmas tree at Ráðhústorg in Akureyri. It is free.",
+   "start": 69.538,
+   "end": 78.367,
+   "words": [
+    {
+     "text": "Og",
+     "at": 0,
+     "start": 69.538,
+     "end": 69.618
+    },
+    {
+     "text": "í",
+     "at": 3,
+     "start": 69.698,
+     "end": 69.778
+    },
+    {
+     "text": "dag",
+     "at": 5,
+     "start": 70.018,
+     "end": 70.418
+    },
+    {
+     "text": "klukkan",
+     "at": 10,
+     "start": 70.458,
+     "end": 70.738
+    },
+    {
+     "text": "fjögur",
+     "at": 18,
+     "start": 70.898,
+     "end": 71.538
+    },
+    {
+     "text": "verða",
+     "at": 26,
+     "start": 71.618,
+     "end": 71.858
+    },
+    {
+     "text": "ljósin",
+     "at": 32,
+     "start": 71.938,
+     "end": 72.418
+    },
+    {
+     "text": "tendruð",
+     "at": 39,
+     "start": 72.458,
+     "end": 72.978
+    },
+    {
+     "text": "á",
+     "at": 47,
+     "start": 73.058,
+     "end": 73.138
+    },
+    {
+     "text": "jólatrénu",
+     "at": 49,
+     "start": 73.178,
+     "end": 74.018
+    },
+    {
+     "text": "á",
+     "at": 59,
+     "start": 74.098,
+     "end": 74.178
+    },
+    {
+     "text": "Ráðhústorgi",
+     "at": 61,
+     "start": 74.258,
+     "end": 75.138
+    },
+    {
+     "text": "á",
+     "at": 73,
+     "start": 75.218,
+     "end": 75.298
+    },
+    {
+     "text": "Akureyri",
+     "at": 75,
+     "start": 75.378,
+     "end": 76.418
+    },
+    {
+     "text": "Það",
+     "at": 85,
+     "start": 76.458,
+     "end": 76.738
+    },
+    {
+     "text": "er",
+     "at": 89,
+     "start": 76.818,
+     "end": 76.978
+    },
+    {
+     "text": "ókeypis",
+     "at": 92,
+     "start": 77.058,
+     "end": 78.338
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "lang": "is",
+   "text": "Fimm orð dagsins.",
+   "translation": "Five words of the day.",
+   "start": 78.655,
+   "end": 80.927,
+   "words": [
+    {
+     "text": "Fimm",
+     "at": 0,
+     "start": 78.655,
+     "end": 79.055
+    },
+    {
+     "text": "orð",
+     "at": 5,
+     "start": 79.215,
+     "end": 79.535
+    },
+    {
+     "text": "dagsins",
+     "at": 9,
+     "start": 79.615,
+     "end": 80.895
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "lang": "is",
+   "text": "Fyrsta orðið er karlkynsorð.",
+   "translation": "The first word is a masculine noun.",
+   "start": 81.215,
+   "end": 84.062,
+   "words": [
+    {
+     "text": "Fyrsta",
+     "at": 0,
+     "start": 81.215,
+     "end": 81.695
+    },
+    {
+     "text": "orðið",
+     "at": 7,
+     "start": 81.775,
+     "end": 82.255
+    },
+    {
+     "text": "er",
+     "at": 13,
+     "start": 82.335,
+     "end": 82.495
+    },
+    {
+     "text": "karlkynsorð",
+     "at": 16,
+     "start": 82.615,
+     "end": 84.015
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "lang": "is",
+   "text": "samningur",
+   "translation": "contract",
+   "start": 84.349,
+   "end": 85.499,
+   "words": [
+    {
+     "text": "samningur",
+     "at": 0,
+     "start": 84.349,
+     "end": 85.469
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "lang": "en",
+   "text": "A contract, an agreement.",
+   "translation": "A contract, an agreement.",
+   "start": 85.943,
+   "end": 88.294,
+   "words": [
+    {
+     "text": "A",
+     "at": 0,
+     "start": 85.943,
+     "end": 86.103
+    },
+    {
+     "text": "contract",
+     "at": 2,
+     "start": 86.463,
+     "end": 87.223
+    },
+    {
+     "text": "an",
+     "at": 12,
+     "start": 87.263,
+     "end": 87.303
+    },
+    {
+     "text": "agreement",
+     "at": 15,
+     "start": 87.383,
+     "end": 88.343
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "lang": "is",
+   "text": "Þau skrifuðu undir nýjan samning.",
+   "translation": "They signed a new contract.",
+   "start": 88.738,
+   "end": 91.246,
+   "words": [
+    {
+     "text": "Þau",
+     "at": 0,
+     "start": 88.738,
+     "end": 88.978
+    },
+    {
+     "text": "skrifuðu",
+     "at": 4,
+     "start": 89.018,
+     "end": 89.538
+    },
+    {
+     "text": "undir",
+     "at": 13,
+     "start": 89.618,
+     "end": 89.938
+    },
+    {
+     "text": "nýjan",
+     "at": 19,
+     "start": 89.978,
+     "end": 90.338
+    },
+    {
+     "text": "samning",
+     "at": 25,
+     "start": 90.418,
+     "end": 91.298
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "lang": "en",
+   "text": "They signed a new contract.",
+   "translation": "They signed a new contract.",
+   "start": 91.69,
+   "end": 93.806,
+   "words": [
+    {
+     "text": "They",
+     "at": 0,
+     "start": 91.69,
+     "end": 91.93
+    },
+    {
+     "text": "signed",
+     "at": 5,
+     "start": 92.09,
+     "end": 92.25
+    },
+    {
+     "text": "a",
+     "at": 12,
+     "start": 92.33,
+     "end": 92.41
+    },
+    {
+     "text": "new",
+     "at": 14,
+     "start": 92.49,
+     "end": 92.65
+    },
+    {
+     "text": "contract",
+     "at": 18,
+     "start": 92.73,
+     "end": 93.77
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "lang": "is",
+   "text": "Annað orðið er sögn.",
+   "translation": "The second word is a verb.",
+   "start": 94.25,
+   "end": 96.444,
+   "words": [
+    {
+     "text": "Annað",
+     "at": 0,
+     "start": 94.25,
+     "end": 94.65
+    },
+    {
+     "text": "orðið",
+     "at": 6,
+     "start": 94.73,
+     "end": 95.21
+    },
+    {
+     "text": "er",
+     "at": 12,
+     "start": 95.33,
+     "end": 95.45
+    },
+    {
+     "text": "sögn",
+     "at": 15,
+     "start": 95.61,
+     "end": 96.41
+    }
+   ]
+  },
+  {
+   "index": 18,
+   "lang": "is",
+   "text": "að byggja",
+   "translation": "to build",
+   "start": 96.731,
+   "end": 97.959,
+   "words": [
+    {
+     "text": "að",
+     "at": 0,
+     "start": 96.731,
+     "end": 97.051
+    },
+    {
+     "text": "byggja",
+     "at": 3,
+     "start": 97.131,
+     "end": 98.011
+    }
+   ]
+  },
+  {
+   "index": 19,
+   "lang": "en",
+   "text": "To build.",
+   "translation": "To build.",
+   "start": 98.403,
+   "end": 99.396,
+   "words": [
+    {
+     "text": "To",
+     "at": 0,
+     "start": 98.403,
+     "end": 98.643
+    },
+    {
+     "text": "build",
+     "at": 3,
+     "start": 98.923,
+     "end": 99.443
+    }
+   ]
+  },
+  {
+   "index": 20,
+   "lang": "is",
+   "text": "Fyrirtækið ætlar að byggja hús.",
+   "translation": "The company plans to build a house.",
+   "start": 99.84,
+   "end": 102.348,
+   "words": [
+    {
+     "text": "Fyrirtækið",
+     "at": 0,
+     "start": 99.84,
+     "end": 100.72
+    },
+    {
+     "text": "ætlar",
+     "at": 11,
+     "start": 100.8,
+     "end": 101.04
+    },
+    {
+     "text": "að",
+     "at": 17,
+     "start": 101.08,
+     "end": 101.2
+    },
+    {
+     "text": "byggja",
+     "at": 20,
+     "start": 101.24,
+     "end": 101.52
+    },
+    {
+     "text": "hús",
+     "at": 27,
+     "start": 101.6,
+     "end": 102.4
+    }
+   ]
+  },
+  {
+   "index": 21,
+   "lang": "en",
+   "text": "The company plans to build a house.",
+   "translation": "The company plans to build a house.",
+   "start": 102.792,
+   "end": 105.064,
+   "words": [
+    {
+     "text": "The",
+     "at": 0,
+     "start": 102.792,
+     "end": 102.952
+    },
+    {
+     "text": "company",
+     "at": 4,
+     "start": 103.152,
+     "end": 103.352
+    },
+    {
+     "text": "plans",
+     "at": 12,
+     "start": 103.432,
+     "end": 103.752
+    },
+    {
+     "text": "to",
+     "at": 18,
+     "start": 103.832,
+     "end": 103.912
+    },
+    {
+     "text": "build",
+     "at": 21,
+     "start": 103.992,
+     "end": 104.152
+    },
+    {
+     "text": "a",
+     "at": 27,
+     "start": 104.192,
+     "end": 104.232
+    },
+    {
+     "text": "house",
+     "at": 29,
+     "start": 104.312,
+     "end": 105.112
+    }
+   ]
+  },
+  {
+   "index": 22,
+   "lang": "is",
+   "text": "Þriðja orðið er hvorugkynsorð.",
+   "translation": "The third word is a neuter noun.",
+   "start": 105.509,
+   "end": 108.356,
+   "words": [
+    {
+     "text": "Þriðja",
+     "at": 0,
+     "start": 105.509,
+     "end": 105.989
+    },
+    {
+     "text": "orðið",
+     "at": 7,
+     "start": 106.069,
+     "end": 106.629
+    },
+    {
+     "text": "er",
+     "at": 13,
+     "start": 106.749,
+     "end": 106.869
+    },
+    {
+     "text": "hvorugkynsorð",
+     "at": 16,
+     "start": 106.949,
+     "end": 108.309
+    }
+   ]
+  },
+  {
+   "index": 23,
+   "lang": "is",
+   "text": "ljós",
+   "translation": "light",
+   "start": 108.643,
+   "end": 109.714,
+   "words": [
+    {
+     "text": "ljós",
+     "at": 0,
+     "start": 108.643,
+     "end": 109.763
+    }
+   ]
+  },
+  {
+   "index": 24,
+   "lang": "en",
+   "text": "A light.",
+   "translation": "A light.",
+   "start": 110.158,
+   "end": 111.151,
+   "words": [
+    {
+     "text": "A",
+     "at": 0,
+     "start": 110.158,
+     "end": 110.318
+    },
+    {
+     "text": "light",
+     "at": 2,
+     "start": 110.398,
+     "end": 111.198
+    }
+   ]
+  },
+  {
+   "index": 25,
+   "lang": "is",
+   "text": "Ljósin á jólatrénu eru falleg.",
+   "translation": "The lights on the Christmas tree are beautiful.",
+   "start": 111.595,
+   "end": 114.521,
+   "words": [
+    {
+     "text": "Ljósin",
+     "at": 0,
+     "start": 111.595,
+     "end": 112.155
+    },
+    {
+     "text": "á",
+     "at": 7,
+     "start": 112.235,
+     "end": 112.395
+    },
+    {
+     "text": "jólatrénu",
+     "at": 9,
+     "start": 112.435,
+     "end": 113.275
+    },
+    {
+     "text": "eru",
+     "at": 19,
+     "start": 113.355,
+     "end": 113.595
+    },
+    {
+     "text": "falleg",
+     "at": 23,
+     "start": 113.755,
+     "end": 114.555
+    }
+   ]
+  },
+  {
+   "index": 26,
+   "lang": "en",
+   "text": "The lights on the Christmas tree are beautiful.",
+   "translation": "The lights on the Christmas tree are beautiful.",
+   "start": 114.965,
+   "end": 118.047,
+   "words": [
+    {
+     "text": "The",
+     "at": 0,
+     "start": 114.965,
+     "end": 115.125
+    },
+    {
+     "text": "lights",
+     "at": 4,
+     "start": 115.205,
+     "end": 115.445
+    },
+    {
+     "text": "on",
+     "at": 11,
+     "start": 115.485,
+     "end": 115.525
+    },
+    {
+     "text": "the",
+     "at": 14,
+     "start": 115.605,
+     "end": 115.685
+    },
+    {
+     "text": "Christmas",
+     "at": 18,
+     "start": 115.765,
+     "end": 116.165
+    },
+    {
+     "text": "tree",
+     "at": 28,
+     "start": 116.245,
+     "end": 116.485
+    },
+    {
+     "text": "are",
+     "at": 33,
+     "start": 116.645,
+     "end": 116.885
+    },
+    {
+     "text": "beautiful",
+     "at": 37,
+     "start": 116.965,
+     "end": 118.085
+    }
+   ]
+  },
+  {
+   "index": 27,
+   "lang": "is",
+   "text": "Fjórða orðið er sögn.",
+   "translation": "The fourth word is a verb.",
+   "start": 118.491,
+   "end": 120.764,
+   "words": [
+    {
+     "text": "Fjórða",
+     "at": 0,
+     "start": 118.491,
+     "end": 118.971
+    },
+    {
+     "text": "orðið",
+     "at": 7,
+     "start": 119.051,
+     "end": 119.531
+    },
+    {
+     "text": "er",
+     "at": 13,
+     "start": 119.691,
+     "end": 119.851
+    },
+    {
+     "text": "sögn",
+     "at": 16,
+     "start": 120.011,
+     "end": 120.731
+    }
+   ]
+  },
+  {
+   "index": 28,
+   "lang": "is",
+   "text": "að hlýna",
+   "translation": "to get warmer",
+   "start": 121.051,
+   "end": 122.201,
+   "words": [
+    {
+     "text": "að",
+     "at": 0,
+     "start": 121.051,
+     "end": 121.211
+    },
+    {
+     "text": "hlýna",
+     "at": 3,
+     "start": 121.371,
+     "end": 122.171
+    }
+   ]
+  },
+  {
+   "index": 29,
+   "lang": "en",
+   "text": "To get warmer.",
+   "translation": "To get warmer.",
+   "start": 122.645,
+   "end": 124.056,
+   "words": [
+    {
+     "text": "To",
+     "at": 0,
+     "start": 122.645,
+     "end": 122.805
+    },
+    {
+     "text": "get",
+     "at": 3,
+     "start": 122.885,
+     "end": 123.125
+    },
+    {
+     "text": "warmer",
+     "at": 7,
+     "start": 123.285,
+     "end": 124.085
+    }
+   ]
+  },
+  {
+   "index": 30,
+   "lang": "is",
+   "text": "Það hlýnar í kvöld.",
+   "translation": "It gets warmer this evening.",
+   "start": 124.5,
+   "end": 125.989,
+   "words": [
+    {
+     "text": "Það",
+     "at": 0,
+     "start": 124.5,
+     "end": 124.7
+    },
+    {
+     "text": "hlýnar",
+     "at": 4,
+     "start": 124.74,
+     "end": 125.14
+    },
+    {
+     "text": "í",
+     "at": 11,
+     "start": 125.18,
+     "end": 125.22
+    },
+    {
+     "text": "kvöld",
+     "at": 13,
+     "start": 125.3,
+     "end": 126.02
+    }
+   ]
+  },
+  {
+   "index": 31,
+   "lang": "en",
+   "text": "It gets warmer this evening.",
+   "translation": "It gets warmer this evening.",
+   "start": 126.433,
+   "end": 128.235,
+   "words": [
+    {
+     "text": "It",
+     "at": 0,
+     "start": 126.433,
+     "end": 126.593
+    },
+    {
+     "text": "gets",
+     "at": 3,
+     "start": 126.713,
+     "end": 126.833
+    },
+    {
+     "text": "warmer",
+     "at": 8,
+     "start": 126.913,
+     "end": 127.233
+    },
+    {
+     "text": "this",
+     "at": 15,
+     "start": 127.353,
+     "end": 127.473
+    },
+    {
+     "text": "evening",
+     "at": 20,
+     "start": 127.593,
+     "end": 128.273
+    }
+   ]
+  },
+  {
+   "index": 32,
+   "lang": "is",
+   "text": "Fimmta orðið er kvenkynsorð.",
+   "translation": "The fifth word is a feminine noun.",
+   "start": 128.679,
+   "end": 131.37,
+   "words": [
+    {
+     "text": "Fimmta",
+     "at": 0,
+     "start": 128.679,
+     "end": 129.159
+    },
+    {
+     "text": "orðið",
+     "at": 7,
+     "start": 129.239,
+     "end": 129.719
+    },
+    {
+     "text": "er",
+     "at": 13,
+     "start": 129.879,
+     "end": 130.039
+    },
+    {
+     "text": "kvenkynsorð",
+     "at": 16,
+     "start": 130.119,
+     "end": 131.319
+    }
+   ]
+  },
+  {
+   "index": 33,
+   "lang": "is",
+   "text": "helgi",
+   "translation": "weekend",
+   "start": 131.657,
+   "end": 132.571,
+   "words": [
+    {
+     "text": "helgi",
+     "at": 0,
+     "start": 131.657,
+     "end": 132.617
+    }
+   ]
+  },
+  {
+   "index": 34,
+   "lang": "en",
+   "text": "A weekend.",
+   "translation": "A weekend.",
+   "start": 133.016,
+   "end": 134.165,
+   "words": [
+    {
+     "text": "A",
+     "at": 0,
+     "start": 133.016,
+     "end": 133.176
+    },
+    {
+     "text": "weekend",
+     "at": 2,
+     "start": 133.256,
+     "end": 134.136
+    }
+   ]
+  },
+  {
+   "index": 35,
+   "lang": "is",
+   "text": "Góða helgi!",
+   "translation": "Have a good weekend!",
+   "start": 134.609,
+   "end": 135.837,
+   "words": [
+    {
+     "text": "Góða",
+     "at": 0,
+     "start": 134.609,
+     "end": 134.929
+    },
+    {
+     "text": "helgi",
+     "at": 5,
+     "start": 135.049,
+     "end": 135.649
+    }
+   ]
+  },
+  {
+   "index": 36,
+   "lang": "en",
+   "text": "Have a good weekend!",
+   "translation": "Have a good weekend!",
+   "start": 136.281,
+   "end": 137.77,
+   "words": [
+    {
+     "text": "Have",
+     "at": 0,
+     "start": 136.281,
+     "end": 136.521
+    },
+    {
+     "text": "a",
+     "at": 5,
+     "start": 136.548,
+     "end": 136.574
+    },
+    {
+     "text": "good",
+     "at": 7,
+     "start": 136.601,
+     "end": 136.761
+    },
+    {
+     "text": "weekend",
+     "at": 12,
+     "start": 136.881,
+     "end": 137.721
+    }
+   ]
+  },
+  {
+   "index": 37,
+   "lang": "is",
+   "text": "Setning dagsins.",
+   "translation": "Sentence of the day.",
+   "start": 138.214,
+   "end": 139.703,
+   "words": [
+    {
+     "text": "Setning",
+     "at": 0,
+     "start": 138.214,
+     "end": 138.694
+    },
+    {
+     "text": "dagsins",
+     "at": 8,
+     "start": 138.774,
+     "end": 139.654
+    }
+   ]
+  },
+  {
+   "index": 38,
+   "lang": "is",
+   "text": "Ætlar þú að gera eitthvað skemmtilegt um helgina?",
+   "translation": "Are you going to do something fun this weekend?",
+   "start": 139.99,
+   "end": 142.576,
+   "words": [
+    {
+     "text": "Ætlar",
+     "at": 0,
+     "start": 139.99,
+     "end": 140.31
+    },
+    {
+     "text": "þú",
+     "at": 6,
+     "start": 140.35,
+     "end": 140.43
+    },
+    {
+     "text": "að",
+     "at": 9,
+     "start": 140.47,
+     "end": 140.55
+    },
+    {
+     "text": "gera",
+     "at": 12,
+     "start": 140.63,
+     "end": 140.75
+    },
+    {
+     "text": "eitthvað",
+     "at": 17,
+     "start": 140.79,
+     "end": 141.03
+    },
+    {
+     "text": "skemmtilegt",
+     "at": 26,
+     "start": 141.11,
+     "end": 141.67
+    },
+    {
+     "text": "um",
+     "at": 38,
+     "start": 141.75,
+     "end": 141.83
+    },
+    {
+     "text": "helgina",
+     "at": 41,
+     "start": 141.91,
+     "end": 142.63
+    }
+   ]
+  },
+  {
+   "index": 39,
+   "lang": "en",
+   "text": "Are you going to do something fun this weekend?",
+   "translation": "Are you going to do something fun this weekend?",
+   "start": 143.02,
+   "end": 145.45,
+   "words": [
+    {
+     "text": "Are",
+     "at": 0,
+     "start": 143.02,
+     "end": 143.18
+    },
+    {
+     "text": "you",
+     "at": 4,
+     "start": 143.22,
+     "end": 143.26
+    },
+    {
+     "text": "going",
+     "at": 8,
+     "start": 143.34,
+     "end": 143.5
+    },
+    {
+     "text": "to",
+     "at": 14,
+     "start": 143.54,
+     "end": 143.58
+    },
+    {
+     "text": "do",
+     "at": 17,
+     "start": 143.66,
+     "end": 143.74
+    },
+    {
+     "text": "something",
+     "at": 20,
+     "start": 143.82,
+     "end": 144.14
+    },
+    {
+     "text": "fun",
+     "at": 30,
+     "start": 144.3,
+     "end": 144.46
+    },
+    {
+     "text": "this",
+     "at": 34,
+     "start": 144.54,
+     "end": 144.7
+    },
+    {
+     "text": "weekend",
+     "at": 39,
+     "start": 144.82,
+     "end": 145.5
+    }
+   ]
+  },
+  {
+   "index": 40,
+   "lang": "is",
+   "text": "Ætlar þú að gera eitthvað skemmtilegt um helgina?",
+   "translation": "Are you going to do something fun this weekend?",
+   "start": 145.894,
+   "end": 148.402,
+   "words": [
+    {
+     "text": "Ætlar",
+     "at": 0,
+     "start": 145.894,
+     "end": 146.214
+    },
+    {
+     "text": "þú",
+     "at": 6,
+     "start": 146.254,
+     "end": 146.374
+    },
+    {
+     "text": "að",
+     "at": 9,
+     "start": 146.427,
+     "end": 146.534
+    },
+    {
+     "text": "gera",
+     "at": 12,
+     "start": 146.614,
+     "end": 146.721
+    },
+    {
+     "text": "eitthvað",
+     "at": 17,
+     "start": 146.747,
+     "end": 146.934
+    },
+    {
+     "text": "skemmtilegt",
+     "at": 26,
+     "start": 147.014,
+     "end": 147.574
+    },
+    {
+     "text": "um",
+     "at": 38,
+     "start": 147.614,
+     "end": 147.654
+    },
+    {
+     "text": "helgina",
+     "at": 41,
+     "start": 147.774,
+     "end": 148.374
+    }
+   ]
+  },
+  {
+   "index": 41,
+   "lang": "is",
+   "text": "Orðasambönd dagsins.",
+   "translation": "Phrases of the day.",
+   "start": 148.689,
+   "end": 150.805,
+   "words": [
+    {
+     "text": "Orðasambönd",
+     "at": 0,
+     "start": 148.689,
+     "end": 149.649
+    },
+    {
+     "text": "dagsins",
+     "at": 12,
+     "start": 149.756,
+     "end": 150.849
+    }
+   ]
+  },
+  {
+   "index": 42,
+   "lang": "is",
+   "text": "ætlar þú að",
+   "translation": "are you going to",
+   "start": 151.092,
+   "end": 152.581,
+   "words": [
+    {
+     "text": "ætlar",
+     "at": 0,
+     "start": 151.092,
+     "end": 151.492
+    },
+    {
+     "text": "þú",
+     "at": 6,
+     "start": 151.532,
+     "end": 151.812
+    },
+    {
+     "text": "að",
+     "at": 9,
+     "start": 151.892,
+     "end": 152.612
+    }
+   ]
+  },
+  {
+   "index": 43,
+   "lang": "en",
+   "text": "Are you going to.",
+   "translation": "Are you going to.",
+   "start": 153.025,
+   "end": 154.331,
+   "words": [
+    {
+     "text": "Are",
+     "at": 0,
+     "start": 153.025,
+     "end": 153.265
+    },
+    {
+     "text": "you",
+     "at": 4,
+     "start": 153.305,
+     "end": 153.345
+    },
+    {
+     "text": "going",
+     "at": 8,
+     "start": 153.425,
+     "end": 153.825
+    },
+    {
+     "text": "to",
+     "at": 14,
+     "start": 153.985,
+     "end": 154.385
+    }
+   ]
+  },
+  {
+   "index": 44,
+   "lang": "is",
+   "text": "eitthvað skemmtilegt",
+   "translation": "something fun",
+   "start": 154.776,
+   "end": 156.421,
+   "words": [
+    {
+     "text": "eitthvað",
+     "at": 0,
+     "start": 154.776,
+     "end": 155.176
+    },
+    {
+     "text": "skemmtilegt",
+     "at": 9,
+     "start": 155.256,
+     "end": 156.456
+    }
+   ]
+  },
+  {
+   "index": 45,
+   "lang": "en",
+   "text": "Something fun.",
+   "translation": "Something fun.",
+   "start": 156.865,
+   "end": 158.171,
+   "words": [
+    {
+     "text": "Something",
+     "at": 0,
+     "start": 156.865,
+     "end": 157.345
+    },
+    {
+     "text": "fun",
+     "at": 10,
+     "start": 157.505,
+     "end": 158.225
+    }
+   ]
+  },
+  {
+   "index": 46,
+   "lang": "is",
+   "text": "um helgina",
+   "translation": "this weekend",
+   "start": 158.616,
+   "end": 160.104,
+   "words": [
+    {
+     "text": "um",
+     "at": 0,
+     "start": 158.616,
+     "end": 158.856
+    },
+    {
+     "text": "helgina",
+     "at": 3,
+     "start": 159.016,
+     "end": 160.056
+    }
+   ]
+  },
+  {
+   "index": 47,
+   "lang": "en",
+   "text": "This weekend.",
+   "translation": "This weekend.",
+   "start": 160.549,
+   "end": 161.776,
+   "words": [
+    {
+     "text": "This",
+     "at": 0,
+     "start": 160.549,
+     "end": 160.869
+    },
+    {
+     "text": "weekend",
+     "at": 5,
+     "start": 160.949,
+     "end": 161.829
+    }
+   ]
+  },
+  {
+   "index": 48,
+   "lang": "is",
+   "text": "Eigðu góðan laugardag! Bless bless.",
+   "translation": "Have a good Saturday! Bye bye.",
+   "start": 162.22,
+   "end": 165.146,
+   "words": [
+    {
+     "text": "Eigðu",
+     "at": 0,
+     "start": 162.22,
+     "end": 162.54
+    },
+    {
+     "text": "góðan",
+     "at": 6,
+     "start": 162.62,
+     "end": 163.02
+    },
+    {
+     "text": "laugardag",
+     "at": 12,
+     "start": 163.06,
+     "end": 163.74
+    },
+    {
+     "text": "Bless",
+     "at": 23,
+     "start": 164.14,
+     "end": 164.38
+    },
+    {
+     "text": "bless",
+     "at": 29,
+     "start": 164.46,
+     "end": 165.18
+    }
+   ]
+  }
+ ]
+}

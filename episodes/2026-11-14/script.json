@@ -1,0 +1,375 @@
+{
+  "title": "Frost og norðanátt",
+  "segments": [
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Góðan daginn frá Húsavík. Í dag er laugardagurinn fjórtándi nóvember. Klukkan er rúmlega hálf sjö.",
+      "translation": "Good morning from Húsavík. Today is Saturday the fourteenth of November. It is just after half past six."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Veðrið í dag.",
+      "translation": "The weather today."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Núna er mínus ein gráða og alskýjað. Það er norðanátt, þrettán metrar á sekúndu.",
+      "translation": "Right now it is minus one degree and overcast. There is a north wind, thirteen metres per second."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í dag kólnar aðeins. Hitinn verður mínus tvær til mínus fjórar gráður. Það verður alskýjað í allan dag, en engin úrkoma. Vindurinn verður tíu til tólf metrar á sekúndu.",
+      "translation": "It gets a little colder today. The temperature will be minus two to minus four degrees. It will be overcast all day, but no precipitation. The wind will be ten to twelve metres per second."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Sólin kemur upp sjö mínútur í tíu og sest sjö mínútur í fjögur.",
+      "translation": "The sun rises at seven minutes to ten and sets at seven minutes to four."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Frá Norðurþingi.",
+      "translation": "From Norðurþing."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Sveitarfélagið vinnur að þjónustustefnu. Íbúar geta lesið hana núna. Þeir geta líka sent athugasemdir og ábendingar.",
+      "translation": "The municipality is working on a service policy. Residents can read it now. They can also send comments and suggestions."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Viðburðir.",
+      "translation": "Events."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Hljómsveitin Todmobile spilar í Hofi á Akureyri í kvöld. Tónleikarnir byrja klukkan átta. Todmobile fékk heiðursverðlaun á Íslensku tónlistarverðlaununum á þessu ári.",
+      "translation": "The band Todmobile plays at Hof in Akureyri tonight. The concert starts at eight o'clock. Todmobile received an honorary award at the Icelandic Music Awards this year."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fréttir dagsins.",
+      "translation": "Today's news."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í gærkvöldi var mikið óveður. Stórt skip losnaði frá bryggju á Akureyri. Pollarnir á bryggjunni brotnuðu.",
+      "translation": "Last night there was a big storm. A large ship came loose from the pier in Akureyri. The bollards on the pier broke."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimm orð dagsins.",
+      "translation": "Five words of the day."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fyrsta orðið er hvorugkynsorð.",
+      "translation": "The first word is a neuter noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "frost",
+      "translation": "frost"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Frost, or below freezing.",
+      "translation": "Frost, or below freezing."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Það er frost úti í dag.",
+      "translation": "It is below freezing outside today."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "It is below freezing outside today.",
+      "translation": "It is below freezing outside today."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Annað orðið er kvenkynsorð.",
+      "translation": "The second word is a feminine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "norðanátt",
+      "translation": "north wind"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "North wind.",
+      "translation": "North wind."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Í dag er norðanátt á Húsavík.",
+      "translation": "Today there is a north wind in Húsavík."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Today there is a north wind in Húsavík.",
+      "translation": "Today there is a north wind in Húsavík."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Þriðja orðið er kvenkynsorð.",
+      "translation": "The third word is a feminine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "bryggja",
+      "translation": "pier"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Pier, or dock.",
+      "translation": "Pier, or dock."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Báturinn er við bryggjuna.",
+      "translation": "The boat is at the pier."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "The boat is at the pier.",
+      "translation": "The boat is at the pier."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fjórða orðið er hvorugkynsorð.",
+      "translation": "The fourth word is a neuter noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "skip",
+      "translation": "ship"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Ship.",
+      "translation": "Ship."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Skipið er mjög stórt.",
+      "translation": "The ship is very big."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "The ship is very big.",
+      "translation": "The ship is very big."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimmta orðið er sögn.",
+      "translation": "The fifth word is a verb."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "að losna",
+      "translation": "to come loose"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "To come loose, or to get free.",
+      "translation": "To come loose, or to get free."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Skipið losnaði frá bryggju.",
+      "translation": "The ship came loose from the pier."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "The ship came loose from the pier.",
+      "translation": "The ship came loose from the pier."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Setning dagsins.",
+      "translation": "Sentence of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Það er kalt úti, klæddu þig vel.",
+      "translation": "It's cold outside, dress warmly."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "It's cold outside, dress warmly.",
+      "translation": "It's cold outside, dress warmly."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Það er kalt úti, klæddu þig vel.",
+      "translation": "It's cold outside, dress warmly."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Orðasambönd dagsins.",
+      "translation": "Phrases of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Það er kalt úti.",
+      "translation": "It's cold outside."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "It's cold outside.",
+      "translation": "It's cold outside."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "klæddu þig vel",
+      "translation": "dress warmly"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Dress warmly.",
+      "translation": "Dress warmly."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Eigðu góðan laugardag! Bless bless.",
+      "translation": "Have a good Saturday! Bye bye."
+    }
+  ],
+  "words": [
+    {
+      "icelandic": "frost",
+      "english": "frost, below freezing"
+    },
+    {
+      "icelandic": "norðanátt",
+      "english": "north wind"
+    },
+    {
+      "icelandic": "bryggja",
+      "english": "pier, dock"
+    },
+    {
+      "icelandic": "skip",
+      "english": "ship"
+    },
+    {
+      "icelandic": "að losna",
+      "english": "to come loose"
+    }
+  ],
+  "sentence": {
+    "icelandic": "Það er kalt úti, klæddu þig vel.",
+    "english": "It's cold outside, dress warmly."
+  },
+  "phrases": [
+    {
+      "icelandic": "Það er kalt úti",
+      "english": "It's cold outside"
+    },
+    {
+      "icelandic": "klæddu þig vel",
+      "english": "dress warmly"
+    }
+  ],
+  "news_links": [
+    "https://www.nordurthing.is/is/frettir/thjonustustefna-nordurthings-1",
+    "https://www.visitakureyri.is/en/whats-on/mak-todmobile-1",
+    "https://www.ruv.is/frettir/innlent/2026-11-14-pollar-brotnudu-og-uppsjavarskip-losnadi-fra-bryggju-492749/"
+  ]
+}

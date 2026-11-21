@@ -1,0 +1,379 @@
+{
+  "title": "Snjókoma og viðvörun",
+  "segments": [
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Góðan dag frá Húsavík! Í dag er fimmtudagurinn tólfti nóvember. Klukkan er um tvö eftir hádegi.",
+      "translation": "Good day from Húsavík! Today is Thursday the twelfth of November. It is about two in the afternoon."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Veðrið í dag.",
+      "translation": "The weather today."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í morgun var alskýjað og mínus ein gráða. Eftir hádegi hlýnar aðeins og hitinn fer upp í eina gráðu. Um klukkan fjögur byrjar að snjóa aðeins. Í kvöld kemur slydda og hitinn fer upp í tvær gráður. Vindurinn er úr suðsuðaustri, fjórir til sex metrar á sekúndu. Sólin kom upp korter í tíu og hún sest klukkan fjögur.",
+      "translation": "This morning it was overcast and minus one degree. After noon it warms up a little and the temperature goes up to one degree. Around four o'clock it starts to snow a little. This evening sleet comes and the temperature goes up to two degrees. The wind is from the south-southeast, four to six metres per second. The sun rose at a quarter to ten and it sets at four o'clock."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Frá Norðurþingi.",
+      "translation": "From Norðurþing."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Sveitarstjórn Norðurþings er með fund í dag. Fundurinn byrjaði klukkan eitt í Sjóminjasafninu á Húsavík. Það er hægt að horfa á fundinn á netinu.",
+      "translation": "The Norðurþing municipal council is having a meeting today. The meeting started at one o'clock in the Maritime Museum in Húsavík. You can watch the meeting online."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Viðburðir.",
+      "translation": "Events."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Hljómsveitin Todmobile spilar í Hofi á Akureyri á laugardaginn, fjórtánda nóvember. Tónleikarnir byrja klukkan átta um kvöldið. Todmobile fékk heiðursverðlaun á Íslensku tónlistarverðlaununum á þessu ári.",
+      "translation": "The band Todmobile plays at Hof in Akureyri on Saturday, the fourteenth of November. The concert starts at eight in the evening. Todmobile received an honorary award at the Icelandic Music Awards this year."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fréttir dagsins.",
+      "translation": "Today's news."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Á morgun kemur hríðarveður. Gul viðvörun tekur gildi á öllu Norðurlandi klukkan tvö á morgun. Annað kvöld versnar veðrið. Þá verður appelsínugul viðvörun á Norðausturlandi fram yfir miðnætti.",
+      "translation": "Tomorrow a snowstorm is coming. A yellow warning takes effect for all of North Iceland at two o'clock tomorrow. Tomorrow evening the weather gets worse. Then there will be an orange warning in Northeast Iceland until after midnight."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimm orð dagsins.",
+      "translation": "Five words of the day."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fyrsta orðið er kvenkynsorð.",
+      "translation": "The first word is a feminine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "snjókoma",
+      "translation": "snowfall"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Snowfall.",
+      "translation": "Snowfall."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Snjókoman byrjar klukkan fjögur.",
+      "translation": "The snowfall starts at four o'clock."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "The snowfall starts at four o'clock.",
+      "translation": "The snowfall starts at four o'clock."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Annað orðið er líka kvenkynsorð.",
+      "translation": "The second word is also a feminine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "slydda",
+      "translation": "sleet"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Sleet.",
+      "translation": "Sleet."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Í kvöld kemur slydda.",
+      "translation": "Sleet is coming this evening."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Sleet is coming this evening.",
+      "translation": "Sleet is coming this evening."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Þriðja orðið er kvenkynsorð.",
+      "translation": "The third word is a feminine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "viðvörun",
+      "translation": "warning"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "A warning.",
+      "translation": "A warning."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Það er gul viðvörun á morgun.",
+      "translation": "There is a yellow warning tomorrow."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "There is a yellow warning tomorrow.",
+      "translation": "There is a yellow warning tomorrow."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fjórða orðið er karlkynsorð.",
+      "translation": "The fourth word is a masculine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "fundur",
+      "translation": "meeting"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "A meeting.",
+      "translation": "A meeting."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Fundurinn er í dag.",
+      "translation": "The meeting is today."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "The meeting is today.",
+      "translation": "The meeting is today."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimmta orðið er sögn.",
+      "translation": "The fifth word is a verb."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "að versna",
+      "translation": "to get worse"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "To get worse.",
+      "translation": "To get worse."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Veðrið versnar á morgun.",
+      "translation": "The weather gets worse tomorrow."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "The weather gets worse tomorrow.",
+      "translation": "The weather gets worse tomorrow."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Setning dagsins.",
+      "translation": "Sentence of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Ég ætla að vera heima á morgun út af veðrinu.",
+      "translation": "I'm going to stay at home tomorrow because of the weather."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "I'm going to stay at home tomorrow because of the weather.",
+      "translation": "I'm going to stay at home tomorrow because of the weather."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Ég ætla að vera heima á morgun út af veðrinu.",
+      "translation": "I'm going to stay at home tomorrow because of the weather."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Orðasambönd dagsins.",
+      "translation": "Phrases of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "ég ætla að",
+      "translation": "I'm going to"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "I'm going to.",
+      "translation": "I'm going to."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "að vera heima",
+      "translation": "to stay at home"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "To stay at home.",
+      "translation": "To stay at home."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "út af veðrinu",
+      "translation": "because of the weather"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Because of the weather.",
+      "translation": "Because of the weather."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Eigðu góðan fimmtudag! Bless bless.",
+      "translation": "Have a good Thursday! Bye bye."
+    }
+  ],
+  "words": [
+    {
+      "icelandic": "snjókoma",
+      "english": "snowfall"
+    },
+    {
+      "icelandic": "slydda",
+      "english": "sleet"
+    },
+    {
+      "icelandic": "viðvörun",
+      "english": "warning"
+    },
+    {
+      "icelandic": "fundur",
+      "english": "meeting"
+    },
+    {
+      "icelandic": "að versna",
+      "english": "to get worse"
+    }
+  ],
+  "sentence": {
+    "icelandic": "Ég ætla að vera heima á morgun út af veðrinu.",
+    "english": "I'm going to stay at home tomorrow because of the weather."
+  },
+  "phrases": [
+    {
+      "icelandic": "ég ætla að",
+      "english": "I'm going to"
+    },
+    {
+      "icelandic": "að vera heima",
+      "english": "to stay at home"
+    },
+    {
+      "icelandic": "út af veðrinu",
+      "english": "because of the weather"
+    }
+  ],
+  "news_links": [
+    "https://www.nordurthing.is/is/frettir/168-fundur-sveitarstjornar-nordurthings",
+    "https://www.visitakureyri.is/en/whats-on/mak-todmobile-1",
+    "https://www.ruv.is/frettir/innlent/2026-11-12-vidvaranir-vegna-hridarvedurs-a-morgun-og-laugardag-492505/"
+  ]
+}

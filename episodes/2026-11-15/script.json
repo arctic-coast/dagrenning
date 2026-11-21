@@ -1,0 +1,393 @@
+{
+  "title": "Kaldur sunnudagur á Húsavík",
+  "segments": [
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Góðan daginn frá Húsavík.",
+      "translation": "Good morning from Húsavík."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í dag er sunnudagur, fimmtándi nóvember. Klukkan er um hálf sjö.",
+      "translation": "Today is Sunday, the fifteenth of November. It is about half past six."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Veðrið í dag.",
+      "translation": "The weather today."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í morgun er alskýjað og mínus tvær gráður. Það er norðanátt, sjö metrar á sekúndu.",
+      "translation": "This morning it is overcast and minus two degrees. There is a north wind, seven metres per second."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í dag verður áfram alskýjað. Hitinn verður um mínus tvær gráður. Vindurinn minnkar og verður fjórir metrar á sekúndu síðdegis.",
+      "translation": "Today it stays overcast. The temperature will be around minus two degrees. The wind eases and will be four metres per second in the afternoon."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í kvöld kemur lítils háttar snjókoma. Þá verða mínus þrjár til fjórar gráður.",
+      "translation": "This evening there will be light snow. Then it will be minus three to four degrees."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Sólin kemur upp þrjár mínútur í tíu og sest ellefu mínútur í fjögur.",
+      "translation": "The sun rises at three minutes to ten and sets at eleven minutes to four."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Viðburðir.",
+      "translation": "Events."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í dag er kaffihlaðborð og jólabókaupplestur á Breiðumýri í Þingeyjarsveit.",
+      "translation": "Today there is a coffee buffet and a Christmas book reading at Breiðumýri in Þingeyjarsveit."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Á laugardaginn, tuttugasta og fyrsta nóvember, verður kveikt á jólatrénu á Ráðhústorgi á Akureyri. Það byrjar klukkan fjögur. Aðgangur er ókeypis.",
+      "translation": "On Saturday, the twenty-first of November, the lights on the Christmas tree on Town Square in Akureyri will be switched on. It starts at four o'clock. Admission is free."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Á sunnudaginn, tuttugasta og annan nóvember, er jólamarkaður á Ráðhústorgi á Akureyri. Hann er frá klukkan tvö til fimm. Aðgangur er ókeypis.",
+      "translation": "On Sunday, the twenty-second of November, there is a Christmas market on Town Square in Akureyri. It runs from two to five o'clock. Admission is free."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimm orð dagsins.",
+      "translation": "Five words of the day."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fyrsta orðið er kvenkynsorð.",
+      "translation": "The first word is a feminine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "sólarupprás",
+      "translation": "sunrise"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Sunrise.",
+      "translation": "Sunrise."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Sólarupprás er seint á veturna.",
+      "translation": "Sunrise is late in the winter."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Sunrise is late in the winter.",
+      "translation": "Sunrise is late in the winter."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Annað orðið er hvorugkynsorð.",
+      "translation": "The second word is a neuter noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "jólatré",
+      "translation": "Christmas tree"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Christmas tree.",
+      "translation": "Christmas tree."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Jólatréð er stórt og fallegt.",
+      "translation": "The Christmas tree is big and beautiful."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "The Christmas tree is big and beautiful.",
+      "translation": "The Christmas tree is big and beautiful."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Þriðja orðið er sögn.",
+      "translation": "The third word is a verb."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "að kveikja",
+      "translation": "to light, to switch on"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "To light, or to switch on.",
+      "translation": "To light, or to switch on."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Ég ætla að kveikja á kertinu.",
+      "translation": "I am going to light the candle."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "I am going to light the candle.",
+      "translation": "I am going to light the candle."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fjórða orðið er karlkynsorð.",
+      "translation": "The fourth word is a masculine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "markaður",
+      "translation": "market"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Market.",
+      "translation": "Market."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Ég fer á markaðinn á sunnudaginn.",
+      "translation": "I am going to the market on Sunday."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "I am going to the market on Sunday.",
+      "translation": "I am going to the market on Sunday."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimmta orðið er líka karlkynsorð.",
+      "translation": "The fifth word is also a masculine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "upplestur",
+      "translation": "reading aloud"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "A reading aloud.",
+      "translation": "A reading aloud."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Börnin hlusta á upplestur.",
+      "translation": "The children listen to a reading."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "The children listen to a reading.",
+      "translation": "The children listen to a reading."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Setning dagsins.",
+      "translation": "Sentence of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Klæddu þig vel, það er kalt úti.",
+      "translation": "Dress warmly, it is cold outside."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Dress warmly, it is cold outside.",
+      "translation": "Dress warmly, it is cold outside."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Klæddu þig vel, það er kalt úti.",
+      "translation": "Dress warmly, it is cold outside."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Orðasambönd dagsins.",
+      "translation": "Phrases of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "klæddu þig vel",
+      "translation": "dress warmly"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Dress warmly.",
+      "translation": "Dress warmly."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "það er kalt",
+      "translation": "it is cold"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "It is cold.",
+      "translation": "It is cold."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "úti",
+      "translation": "outside"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Outside.",
+      "translation": "Outside."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Eigðu góðan sunnudag! Bless bless.",
+      "translation": "Have a good Sunday! Bye bye."
+    }
+  ],
+  "words": [
+    {
+      "icelandic": "sólarupprás",
+      "english": "sunrise"
+    },
+    {
+      "icelandic": "jólatré",
+      "english": "Christmas tree"
+    },
+    {
+      "icelandic": "að kveikja",
+      "english": "to light, to switch on"
+    },
+    {
+      "icelandic": "markaður",
+      "english": "market"
+    },
+    {
+      "icelandic": "upplestur",
+      "english": "reading aloud"
+    }
+  ],
+  "sentence": {
+    "icelandic": "Klæddu þig vel, það er kalt úti.",
+    "english": "Dress warmly, it is cold outside."
+  },
+  "phrases": [
+    {
+      "icelandic": "klæddu þig vel",
+      "english": "dress warmly"
+    },
+    {
+      "icelandic": "það er kalt",
+      "english": "it is cold"
+    },
+    {
+      "icelandic": "úti",
+      "english": "outside"
+    }
+  ],
+  "news_links": [
+    "https://www.northiceland.is/is/ferdaupplysingar/vidburdir/kaffi-hlad-bord-og-jola-boka-upp-lest-ur-a-breidu-myri",
+    "https://www.visitakureyri.is/en/whats-on/jolatred-a-radhustorgi-1",
+    "https://www.visitakureyri.is/en/whats-on/jolatorg-akureyrar-7"
+  ]
+}

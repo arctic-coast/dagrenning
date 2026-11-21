@@ -1,0 +1,386 @@
+{
+  "title": "Föstudagur í frosti",
+  "segments": [
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Góðan daginn frá Húsavík! Í dag er föstudagur, tuttugasti nóvember. Klukkan er rúmlega hálf sjö.",
+      "translation": "Good morning from Húsavík! Today is Friday, the twentieth of November. It is just after half past six."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Veðrið í dag.",
+      "translation": "The weather today."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Núna er hitinn mínus fimm gráður. Það er skýjað, en um klukkan átta verður heiðskírt. Vindurinn er hægur, úr suðaustri.",
+      "translation": "Right now the temperature is minus five degrees. It is cloudy, but around eight o'clock the sky will be clear. The wind is light, from the southeast."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í dag verður hitinn frá mínus fimm gráðum upp í mínus þrjár gráður. Það verður skýjað og þurrt. Seinni partinn verður alskýjað. Í kvöld hlýnar aðeins og hitinn fer upp í núll gráður.",
+      "translation": "Today the temperature will be from minus five up to minus three degrees. It will be cloudy and dry. In the afternoon it will be overcast. This evening it gets a little warmer and the temperature rises to zero degrees."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Sólin kemur upp klukkan sextán mínútur yfir tíu. Hún sest klukkan tuttugu og átta mínútur í fjögur.",
+      "translation": "The sun rises at sixteen minutes past ten. It sets at twenty-eight minutes to four."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Viðburðir.",
+      "translation": "Events."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í kvöld spilar hljómsveitin Skálmöld á Græna hattinum á Akureyri. Hún spilar alla plötuna Baldur. Tónleikarnir byrja klukkan níu.",
+      "translation": "Tonight the band Skálmöld plays at Græni Hatturinn in Akureyri. They play the whole album Baldur. The concert starts at nine o'clock."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Eftir viku er aðventugleði í Safnahúsinu á Húsavík. Hún heitir Jólabærinn minn. Hún er föstudaginn tuttugasta og sjöunda og laugardaginn tuttugasta og áttunda nóvember.",
+      "translation": "In a week there is an Advent celebration at the Safnahúsið museum in Húsavík. It is called My Christmas Town. It is on Friday the twenty-seventh and Saturday the twenty-eighth of November."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fréttir dagsins.",
+      "translation": "Today's news."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Á Akureyri notaði fólk mikið heitt vatn í kuldanum. Notkunin var meiri en framleiðslan. Nú er staðan betri. En forstjóri Norðurorku segir að veturinn gæti orðið erfiður.",
+      "translation": "In Akureyri people used a lot of hot water in the cold. Use was greater than production. Now the situation is better. But the director of Norðurorka says the winter could be difficult."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimm orð dagsins.",
+      "translation": "Five words of the day."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fyrsta orðið er karlkynsorð.",
+      "translation": "The first word is a masculine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "vetur",
+      "translation": "winter"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Winter.",
+      "translation": "Winter."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Veturinn er langur á Húsavík.",
+      "translation": "The winter is long in Húsavík."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "The winter is long in Húsavík.",
+      "translation": "The winter is long in Húsavík."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Annað orðið er kvenkynsorð.",
+      "translation": "The second word is a feminine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "hitaveita",
+      "translation": "geothermal heating system"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Geothermal heating system.",
+      "translation": "Geothermal heating system."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Hitaveitan hitar húsin.",
+      "translation": "The heating system heats the houses."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "The heating system heats the houses.",
+      "translation": "The heating system heats the houses."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Þriðja orðið er hvorugkynsorð.",
+      "translation": "The third word is a neuter noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "vatn",
+      "translation": "water"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Water.",
+      "translation": "Water."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Ég drekk kalt vatn.",
+      "translation": "I drink cold water."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "I drink cold water.",
+      "translation": "I drink cold water."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fjórða orðið er kvenkynsorð.",
+      "translation": "The fourth word is a feminine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "aðventa",
+      "translation": "Advent"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Advent, the weeks before Christmas.",
+      "translation": "Advent, the weeks before Christmas."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Aðventan byrjar bráðum.",
+      "translation": "Advent starts soon."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Advent starts soon.",
+      "translation": "Advent starts soon."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimmta orðið er sögn.",
+      "translation": "The fifth word is a verb."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "að nota",
+      "translation": "to use"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "To use.",
+      "translation": "To use."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Við notum mikið heitt vatn.",
+      "translation": "We use a lot of hot water."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "We use a lot of hot water.",
+      "translation": "We use a lot of hot water."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Setning dagsins.",
+      "translation": "Sentence of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Ég ætla að fara út að ganga áður en það dimmir.",
+      "translation": "I'm going to go out for a walk before it gets dark."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "I'm going to go out for a walk before it gets dark.",
+      "translation": "I'm going to go out for a walk before it gets dark."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Ég ætla að fara út að ganga áður en það dimmir.",
+      "translation": "I'm going to go out for a walk before it gets dark."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Orðasambönd dagsins.",
+      "translation": "Phrases of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "ég ætla að",
+      "translation": "I'm going to"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "I'm going to.",
+      "translation": "I'm going to."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "fara út að ganga",
+      "translation": "go out for a walk"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Go out for a walk.",
+      "translation": "Go out for a walk."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "áður en það dimmir",
+      "translation": "before it gets dark"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Before it gets dark.",
+      "translation": "Before it gets dark."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Eigðu góðan föstudag og góða helgi! Bless bless.",
+      "translation": "Have a good Friday and a good weekend! Bye bye."
+    }
+  ],
+  "words": [
+    {
+      "icelandic": "vetur",
+      "english": "winter"
+    },
+    {
+      "icelandic": "hitaveita",
+      "english": "geothermal heating system"
+    },
+    {
+      "icelandic": "vatn",
+      "english": "water"
+    },
+    {
+      "icelandic": "aðventa",
+      "english": "Advent"
+    },
+    {
+      "icelandic": "að nota",
+      "english": "to use"
+    }
+  ],
+  "sentence": {
+    "icelandic": "Ég ætla að fara út að ganga áður en það dimmir.",
+    "english": "I'm going to go out for a walk before it gets dark."
+  },
+  "phrases": [
+    {
+      "icelandic": "ég ætla að",
+      "english": "I'm going to"
+    },
+    {
+      "icelandic": "fara út að ganga",
+      "english": "go out for a walk"
+    },
+    {
+      "icelandic": "áður en það dimmir",
+      "english": "before it gets dark"
+    }
+  ],
+  "news_links": [
+    "https://www.visitakureyri.is/en/whats-on/skalmold-8",
+    "https://www.northiceland.is/is/ferdaupplysingar/vidburdir/jolabaerinn-minn-adventugledi-i-safnahusinu-a-husavik",
+    "https://www.ruv.is/frettir/innlent/2026-11-19-hitaveitan-dugar-i-frostinu-a-medan-ekkert-bilar-493346/"
+  ]
+}

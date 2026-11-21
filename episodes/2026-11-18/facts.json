@@ -1,0 +1,1169 @@
+{
+  "place": "Húsavík",
+  "date": "2026-11-18",
+  "weekday_index": 2,
+  "generated_at": "06:31",
+  "sunrise": "10:08",
+  "sunset": "15:39",
+  "forecast": [
+    {
+      "time": "06:00",
+      "temp_c": -4,
+      "wind_ms": 3,
+      "wind_dir": "SSA",
+      "description": "Alskýjað"
+    },
+    {
+      "time": "07:00",
+      "temp_c": -4,
+      "wind_ms": 4,
+      "wind_dir": "SSA",
+      "description": "Alskýjað"
+    },
+    {
+      "time": "08:00",
+      "temp_c": -3,
+      "wind_ms": 4,
+      "wind_dir": "SSA",
+      "description": "Alskýjað"
+    },
+    {
+      "time": "09:00",
+      "temp_c": -3,
+      "wind_ms": 3,
+      "wind_dir": "SSA",
+      "description": "Alskýjað"
+    },
+    {
+      "time": "10:00",
+      "temp_c": -3,
+      "wind_ms": 3,
+      "wind_dir": "S",
+      "description": "Alskýjað"
+    },
+    {
+      "time": "11:00",
+      "temp_c": -4,
+      "wind_ms": 2,
+      "wind_dir": "SSV",
+      "description": "Alskýjað"
+    },
+    {
+      "time": "12:00",
+      "temp_c": -4,
+      "wind_ms": 1,
+      "wind_dir": "SSV",
+      "description": "Alskýjað"
+    },
+    {
+      "time": "13:00",
+      "temp_c": -4,
+      "wind_ms": 2,
+      "wind_dir": "SSA",
+      "description": "Alskýjað"
+    },
+    {
+      "time": "14:00",
+      "temp_c": -3,
+      "wind_ms": 2,
+      "wind_dir": "SSA",
+      "description": "Alskýjað"
+    },
+    {
+      "time": "15:00",
+      "temp_c": -3,
+      "wind_ms": 2,
+      "wind_dir": "SSA",
+      "description": "Alskýjað"
+    },
+    {
+      "time": "16:00",
+      "temp_c": -3,
+      "wind_ms": 2,
+      "wind_dir": "SSA",
+      "description": "Alskýjað"
+    },
+    {
+      "time": "17:00",
+      "temp_c": -3,
+      "wind_ms": 2,
+      "wind_dir": "SA",
+      "description": "Alskýjað"
+    },
+    {
+      "time": "18:00",
+      "temp_c": -3,
+      "wind_ms": 1,
+      "wind_dir": "SA",
+      "description": "Alskýjað"
+    },
+    {
+      "time": "19:00",
+      "temp_c": -2,
+      "wind_ms": 2,
+      "wind_dir": "SSA",
+      "description": "Alskýjað"
+    },
+    {
+      "time": "20:00",
+      "temp_c": -2,
+      "wind_ms": 3,
+      "wind_dir": "SA",
+      "description": "Alskýjað"
+    },
+    {
+      "time": "21:00",
+      "temp_c": -1,
+      "wind_ms": 2,
+      "wind_dir": "SSA",
+      "description": "Alskýjað"
+    },
+    {
+      "time": "22:00",
+      "temp_c": -1,
+      "wind_ms": 2,
+      "wind_dir": "SSA",
+      "description": "Alskýjað"
+    },
+    {
+      "time": "23:00",
+      "temp_c": -1,
+      "wind_ms": 1,
+      "wind_dir": "SA",
+      "description": "Alskýjað"
+    }
+  ],
+  "news": [
+    {
+      "title": "Átta liða úrslit í Landsleikunum hefjast á laugardag",
+      "summary": "Á laugardag fer fram fyrsta viðureignin í átta liða úrslitum Landsleikanna. Liðin sem keppa á laugardag eru Akranes og Selfoss, en auk þeirra komust Keflavík, Reykjavík vestur, Ísafjörður, Ólafsfjörður, Reykjavík austur og Garðabær áfram í keppninni. Búast má við harðri baráttu, en auk þess að svara hefðbundnum spurningum þurfa keppendur að leysa ýmsar þrautir og heilabrot. Það reynir því á ýmsa þætti. Þessi lið mætast í átta liða úrslitum 21. nóvember Akranes - Selfoss 28. nóvember Keflavík - R",
+      "link": "https://www.ruv.is/frettir/menning-og-daegurmal/2026-11-18-atta-lida-urslit-i-landsleikunum-hefjast-a-laugardag-493081/",
+      "published": "Wed, 18 Nov 2026 06:06:46 +0000"
+    },
+    {
+      "title": "Hvað mun Þórir gera fyrir landsliðin okkar?",
+      "summary": "Raðsigurvegarinn Þórir Hergeirsson hefur verið ráðinn til starfa hjá HSÍ sem afreksstjóri. Þórir hefur yfirumsjón með afreksstarfi sambandsins, frá yngri landsliðum upp í A-landslið. En hvað þýðir þetta? Hver eru næstu skref fyrir kvenna- og karlalandsliðið? Saknar hann þjálfunar? Hér fer Þórir yfir málið. Hvernig virkar þetta? Þórir er í hálfu stöðugildi hjá HSÍ í gegnum Afreksmiðstöð Íslands. AMÍ er hugsað eins og Olympiatoppen í Noregi og er miðstöð sem samhæfir stuðning, þjónustu og þróun af",
+      "link": "https://www.ruv.is/frettir/ithrottir/2026-11-18-hvad-mun-thorir-gera-fyrir-landslidin-okkar-492946/",
+      "published": "Wed, 18 Nov 2026 06:00:13 +0000"
+    },
+    {
+      "title": "Demókratar tryggja sér öldungadeildarþingsæti Alaska",
+      "summary": "Demókratinn Mary Peltola hefur tryggt sér öldungadeildarþingsætið fyrir Alaska. Peltola nær sætinu af repúblikananum Dan Sullivan, þó rétt naumlega, en hún fékk 50,12% atkvæða eða 144.302 atkvæði. Sullivan fékk 131.844 atkvæði og þriðji frambjóðandinn sem er næstum alnafni þess fyrrnefnda, Daniel J. Sullivan Jr., fékk 4.760 atkvæði. Þar með liggur fyrir endanlegur sætafjöldi demókrata í öldungadeildinni, sem hafa tryggt sér 56 sæti á móti 44 sætum repúblikana. Peltola var fyrst kjörin á þing sem",
+      "link": "https://www.ruv.is/frettir/erlent/2026-11-18-demokratar-tryggja-ser-oldungadeildarthingsaeti-alaska-493119/",
+      "published": "Wed, 18 Nov 2026 04:54:22 +0000"
+    },
+    {
+      "title": "Um 15.000 mótmælendur handteknir á undanförnum vikum",
+      "summary": "Um 15.000 mótmælendur hafa verið handteknir í mótmælum í Frakklandi á undanförnum vikum. Franski dómsmálaráðherrann Gerald Darmanin greindi frá þessu á franska þinginu í gær. Sumir þessara mótmælenda voru í varðhaldi og hafa fengið dóma eða bíða dóms. Darmanin sagði að 7.184 einstaklingar hefðu verið handteknir vegna mótmæla sem voru gegn hárri verðbólgu og launum síðan 17. október. Hann sagði að mál 3.053 þessara mótmælenda hefðu endað með ákæru og búið væri að dæma í 466 málum. Þar af voru 195",
+      "link": "https://www.ruv.is/frettir/erlent/2026-11-18-um-15000-motmaelendur-handteknir-a-undanfornum-vikum-493117/",
+      "published": "Wed, 18 Nov 2026 04:00:59 +0000"
+    },
+    {
+      "title": "Hlýtur hin virtu Ivors tónskáldaverðlaun í annað sinn",
+      "summary": "Anna Þorvaldsdóttir tónskáld hlýtur Ivors Composers Awards-tónskáldaverðlaunin í ár fyrir besta stóra tónverkið fyrir sellótónverkið Before We Fall en verðlaunin voru veitt við hátíðlega athöfn í London í kvöld. Ivors verðlaunin eru ein virtustu verðlaun sem veitt eru í Bretlandi fyrir tónverk á sviði nútímaklassíkur og djasstónlistar. Verk Önnu, Before We Fall , var flutt á upphafstónleikum tónleikaársins hjá Sinfóníuhljómsveit Íslands á síðasta ári. Sinfóníuhljómsveitir BBC og San Francisco vo",
+      "link": "https://www.ruv.is/frettir/menning-og-daegurmal/2026-11-18-hlytur-hin-virtu-ivors-tonskaldaverdlaun-i-annad-sinn-493116/",
+      "published": "Wed, 18 Nov 2026 02:37:50 +0000"
+    },
+    {
+      "title": "„Mannlegur“ er orð ársins að mati Cambridge-orðabókarinnar",
+      "summary": "Enska orðið human , eða mannlegur, er orð ársins að mati Cambridge-orðabókarinnar. Að vera mannlegur felur í sér að búa yfir eiginleikum, göllum og tilfinningum sem mannfólk hefur, og er ólíkt eiginleikum sem guðir, dýr og vélar búa yfir. Á tímum örrar útbreiðslu gervigreindar og í ljósi alvarlegra viðvarana um að hún geti á endanum útrýmt mannkyninu, þá fangar orðið mannlegur tíðarandi ársins 2026, að mati Francescu Woodward, stjórnarkonu hjá Cambridge-háskólaútgáfunni. AFP fréttaveitan hefur e",
+      "link": "https://www.ruv.is/frettir/erlent/2026-11-18-mannlegur-er-ord-arsins-ad-mati-cambridge-ordabokarinnar-493115/",
+      "published": "Wed, 18 Nov 2026 01:38:41 +0000"
+    },
+    {
+      "title": "Segja myglu í nær öllum herbergjum hótelturnsins",
+      "summary": "Myglu er að finna í um 90% herbergja ókláraðs hótelturns Radisson Red að Skúlagötu 26. Þetta herma heimildir Viðskiptablaðsins. Talið er að tjónið geti numið allt að 14 milljörðum króna. Þá er Arion banki sagður hafa hætt fjárveitingum þegar kom í ljós hve víðtækar skemmdirnar voru. Til stóð að opna Radisson Red risahótelið í febrúar á næsta ári. Greint var frá því í dag að sex félög tengd hótelturninum við Skúlagötu hefðu verið tekin til gjaldþrotaskipta eftir að framkvæmdir voru stöðvaðar í by",
+      "link": "https://www.ruv.is/frettir/innlent/2026-11-17-segja-myglu-i-naer-ollum-herbergjum-hotelturnsins-493113/",
+      "published": "Tue, 17 Nov 2026 23:18:18 +0000"
+    },
+    {
+      "title": "Norðmenn unnu grannaslaginn við Dani og fara áfram eftir lygilega endurkomu",
+      "summary": "Norðmenn unnu grannaslaginn gegn Dönum í Þjóðadeild Evrópu í fótbolta í kvöld. Sigurmarkið kom úr vítaspyrnu í uppbótatíma. Liðin leika í riðli 4 í A-deild Þjóðadeildarinnar en fyrir leikinn í kvöld voru Danir í öðru sæti og Norðmenn í því þriðja. Annað sætið gefur sæti í 8-liða úrslitum keppninnar en þriðja sætið fer í umspil um að halda sér í deildinni. Norðmenn unnu fyrri leik liðanna í keppninni en voru engu að síður þremur stigum á eftir danska liðinu. Þeir þurftu því sigur til að tryggja a",
+      "link": "https://www.ruv.is/frettir/ithrottir/2026-11-17-nordmenn-unnu-grannaslaginn-vid-dani-og-fara-afram-eftir-lygilega-endurkomu-493109/",
+      "published": "Tue, 17 Nov 2026 22:32:57 +0000"
+    },
+    {
+      "title": "Fær ekki að snúa aftur í forstjórastólinn",
+      "summary": "Jensen Huang fær ekki að taka aftur við sem forstjóri tæknifyrirtækisins Nvidia. Stjórn fyrirtækisins greindi frá ákvörðun sinni í kvöld. Fyrr í dag sagðist Huang vera reiðubúinn að snúa aftur í stól forstjóra en hann lét af störfum í síðustu viku eftir að upp komst um framhjáhald hans með konu sem er sögð vera kínverskur njósnari. Harvey Jones, stjórnarformaður Nvidia, segir að stjórnin hafi samþykkt afsögn Huangs einróma og að ekki standi til að ráða hann aftur í starf forstjóra. Hann bætti vi",
+      "link": "https://www.ruv.is/frettir/erlent/2026-11-17-faer-ekki-ad-snua-aftur-i-forstjorastolinn-493108/",
+      "published": "Tue, 17 Nov 2026 22:24:24 +0000"
+    },
+    {
+      "title": "Bandaríkjaher gerir árás á Qeshm-eyju í Hormússundi",
+      "summary": "Bandaríkin gerðu loftárás á Qeshm-eyju í Hormússundi í dag, stuttu eftir að íranski byltingarvörðurinn sagðist hafa gert árás á ratsjárstöð í Barein. Bandaríkin hafa afnot af henni. AFP-fréttaveitan hefur eftir bandarískum embættismanni að herflugvélar hafi notað stýriflaugar til að gera árás á skotpall fyrir flugskeyti á vegum byltingarvarðarins á Qeshm-eyju. Íranski ríkisfjölmiðillinn IRNA sagði Bandaríkjamenn hafa hæft eyjuna en ekki valdið miklum skemmdum. Fyrr í dag heyrðust sprengingar í B",
+      "link": "https://www.ruv.is/frettir/erlent/2026-11-17-bandarikjaher-gerir-aras-a-qeshm-eyju-i-hormussundi-493110/",
+      "published": "Tue, 17 Nov 2026 22:17:12 +0000"
+    },
+    {
+      "title": "FH tapaði niður forystunni gegn Marítimo",
+      "summary": "FH mátti þola tap í kvöld.RÚV / Mummi Lú FH tapaði með þremur mörkum gegn portúgalska liðinu Marítimo í Evrópudeildinni í handbolta í kvöld, 36-39. FH-ingar leiddu lengst af og voru með fjögurra marka forskot í hálfleik, 22-18. Portúgölsku gestirnir komust í fyrsta sinn yfir um miðjan seinni hálfleik. FH náði að endurheimta forskotið en Marítimo voru sterkari á lokakaflanum. FH leiddi 35-34 þegar sex mínútur voru eftir. Staðan var 36-36 þegar fjórar mínútur voru eftir en gestirnir skoruðu síðust",
+      "link": "https://www.ruv.is/frettir/ithrottir/2026-11-17-fh-tapadi-nidur-forystunni-gegn-maritimo-493107/",
+      "published": "Tue, 17 Nov 2026 22:11:55 +0000"
+    },
+    {
+      "title": "Tindastóll á flugi í Evrópu — sigur í Króatíu",
+      "summary": "Tindastóll er enn ósigraður í Norður-Evrópudeildinni í körfubolta. Liðið vann 71-73 sigur gegn króatíska liðinu Dubrava í A-riðli í kvöld. Liðið hefur unnið alla fimm leiki sína. Þriggja stiga skot Króata undir lok leiks geigaði. Leikurinn var afar jafn og leiddu Stólar með einu stigi í hálfleik, 37-38. Heimamenn leiddu með tveimur stigum fyrir lokaleikhlutann, 53-51. Leikurinn var æsispennandi undir lokin en að lokum höfðu Sauðkrækingar betur. Nemanja Djurisic var stigahæstur hjá Tindastól með ",
+      "link": "https://www.ruv.is/frettir/ithrottir/2026-11-17-tindastoll-a-flugi-i-evropu-sigur-i-kroatiu-493099/",
+      "published": "Tue, 17 Nov 2026 22:05:28 +0000"
+    },
+    {
+      "title": "Thelma sló stigamet landsliðsins",
+      "summary": "Thelma Dís Ágústsdóttir fór á kostum í stórsigri Íslands gegn Aserbaídsjan í forkeppni EM kvenna í körfubolta 2029. Hún setti nýtt stigamet auk þess að slá metið yfir flesta þrista í einum leik. Ísland vann 129-41 sigur. Liðið sló stigamet sem kom í 30-120 sigri gegn Gíbraltar árið 2014. Hér má þristana þrettán og stigin 41. Thelma Dís Ágústsdóttir skoraði 41 stig fyrir Ísland í stórsigri gegn Aserbaídsjan. Þar með sló hún bæði stigamet íslenska kvennalandsliðsins og sitt eigið þriggja stiga met",
+      "link": "https://www.ruv.is/frettir/ithrottir/2026-11-17-thelma-slo-stigamet-landslidsins-493105/",
+      "published": "Tue, 17 Nov 2026 21:51:31 +0000"
+    },
+    {
+      "title": "Brad Pitt vill verða illmenni í Bond-mynd",
+      "summary": "Nú þegar búið er að opinbera að Robert Pattinson verði næsti leikari sem bregður sér í hlutverk James Bond er hægt að snúa athyglinni að því hver verði illmenni næstu myndar. Bandaríski leikarinn Brad Pitt er tilbúinn að stíga inn í það hlutverk. Hann var spurður á frumsýningu nýjustu myndar sinnar, The Further Mis-Adventures of Cliff Booth, hvort hann myndi vilja leika illmenni í næstu Bond-mynd. Kynnir ExtraTV tilkynnti Pitt í beinni að Pattinson hefði verið valinn næsti Bond og hann virtist á",
+      "link": "https://www.ruv.is/frettir/menning-og-daegurmal/2026-11-17-brad-pitt-vill-verda-illmenni-i-bond-mynd-493091/",
+      "published": "Tue, 17 Nov 2026 21:15:12 +0000"
+    },
+    {
+      "title": "„Ég fór ekki í pólitík til þess að hafa það huggulegt og rólegt“",
+      "summary": "Þorgerður Katrín Gunnarsdóttir, formaður Viðreisnar og utanríkisráðherra, kveðst ekki hafa farið í pólitík til þess að hafa það huggulegt og rólegt. Það hefur blásið um Viðreisn, einn stjórnarflokkanna, síðustu vikur. Tveir þingmenn hafa kvatt þingflokkinn og annar þeirra gengið í Sjálfstæðisflokkinn. Þeir hafa báðir gagnrýnt flokksforystuna. Þorgerður segir að þrátt fyrir þetta standi ríkisstjórnin sterkum fótum. Hún var gestur í Kastljósi kvöldsins. „Ríkisstjórnin er að vanda sig, hún stendur ",
+      "link": "https://www.ruv.is/frettir/innlent/2026-11-17-eg-for-ekki-i-politik-til-thess-ad-hafa-thad-huggulegt-og-rolegt-493079/",
+      "published": "Tue, 17 Nov 2026 21:09:49 +0000"
+    }
+  ],
+  "local_notices": [
+    {
+      "title": "Tendrun jólatrjáa í Norðurþingi 2026",
+      "posted": "2026-11-16",
+      "category": "Fréttir",
+      "link": "https://www.nordurthing.is/is/frettir/tendrun-jolatrjaa-i-nordurthingi-2",
+      "text": "Mynd: unsplash Upplýsingar um tendrun jólatrjáa í Norðurþingi 2026 Húsavík: Tendrað verður á ljósum á jólatrénu á Húsavík þann 27. nóvember Vegamótatorgi. Dagskrá hefst kl. 16:15 Magnús G. Gunnarsson flytur stutta hugvekju og Bergþór sveitarstjóri ávarpar gesti og tendrar ljósin. Hljómsveit frá Tónlistarskóla Húsavíkur flytur nokkur lög og leikur undir dansi í kringum jólatréð. Soroptimistakonur verða með heitt kakó og kleinur til sölu. Enginn posi á staðnum. _____ The program begins at 16:15 Magnús G. Gunnarsson will share a short Advent reflection and Mayor Bergþór will address guests and switch on the Christmas tree lights. A band from Húsavík Music School will perform and provide music for dancing around the Christmas tree. Members of the Soroptimist Club will sell hot cocoa and traditional Icelandic doughnuts (kleinur). They only accept cash. Raufarhöfn: Tendrað verður á ljósum á jó"
+    },
+    {
+      "title": "Norðurþing 20 ára - Tónar milli staða",
+      "posted": "2026-11-16",
+      "category": "Fréttir",
+      "link": "https://www.nordurthing.is/is/frettir/nordurthing-20-ara-tonar-milli-stada",
+      "text": "Í tilefni 20 ára afmæli Norðurþings verða haldnir þrennir tónleikar á mismunandi stöðum í sveitarfélaginu, Kópaskeri, Raufarhöfn og Húsavík. Tónleikarnir bera heitið Tónar milli staða og byrja allir klukkan 19:00 og er reiknað með að þeir taki um 60-90 mínutur sem hefst á stuttu ávarpi frá fulltrúa Norðurþings. Hljómsveitina skipa þeir Ágúst Þór, Hafsteinn Hjálmarsson, Gunnar Illugi, Borgar frá Brúum og Ísak Már. Flutt verða meðal annars lög við texta Jónasar Friðriks Guðnasonar sem og önnur tónlist og textar eftir listafólk úr sveitarfélaginu. - Raufarhöfn 24. nóvember - Hnitbjörg - Tónleikarnir hefjast klukkan 19:00. - Kvenfélag Raufarhafnar selja dýrindis súpu og brauð fyrir tónleika milli 18:00-19:00. Verð 2.000,- á mann. - Til að hægt sé að áætla magn er fólk beðið um að bóka hjá kvenfélaginu fyrir 23. nóvember á belfridur@gmail.com - Hlekkur á viburð HÉR - Kópasker 25. nóvember - S"
+    },
+    {
+      "title": "Þjónustustefna Norðurþings",
+      "posted": "2026-11-13",
+      "category": "Tilkynningar",
+      "link": "https://www.nordurthing.is/is/frettir/thjonustustefna-nordurthings-1",
+      "text": "Þjónustustefna sveitarfélagsins er sett á grunni 130. gr. sveitarstjórnarlaga nr. 138/2011. Í júní 2021 var lögfest ákvæði í fyrrnefndum sveitarstjórnarlögum að frumkvæði Byggðastofnunar sem kveður á um að sveitarstjórn skuli móta stefnu sem sveitarfélagið hyggst halda uppi í byggðum og byggðarlögum fjarri stærstu byggðarkjörnum. Við gerð og mótun stefnunnar skal sveitarstjórn hafa samráð við íbúa sveitarfélagsins. Á 529. fundi byggðarráðs þann 6. október 2026 var eftirfarandi bókað: Byggðarráð heldur áfram vinnu sinni við þjónustustefnu Norðurþings samhliða fjárhagsáætlunargerð. Ráðið vísar þjónustustefnu einnig til umfjöllunar í skipulags- og framkvæmdaráði og fjölskylduráði. Byggðarráð stefnir að rafrænu samráði við íbúa við gerð stefnunnar. Hér liggur núverandi þjónustustefna fyrir íbúa sveitarfélagsins til samráðs. Ef íbúar hafa athugasemdir eða ábendingar er hægt að skila þeim til "
+    },
+    {
+      "title": "Heitavatnslaust í Skálabrekku",
+      "posted": "2026-11-12",
+      "category": "Tilkynningar",
+      "link": "https://www.nordurthing.is/is/frettir/heitavatnslaust-i-skalabrekku",
+      "text": "Heitavatnslaust verður í Skálabrekku í dag frá kl. 13:00 til 14:00 vegna tengingar á nýrri stofnlögn. Við biðjunst velvirðingar á þeim óþægindum sem þetta kann að valda Starfsfólk Orkuveitu Húsavíkur."
+    },
+    {
+      "title": "168. fundur sveitarstjórnar Norðurþings",
+      "posted": "2026-11-10",
+      "category": "Tilkynningar",
+      "link": "https://www.nordurthing.is/is/frettir/168-fundur-sveitarstjornar-nordurthings",
+      "text": "Fyrirhugaður er 168. fundur sveitarstjórnar Norðurþings, fimmtudaginn 12. nóvember nk. kl. 13:00 í Sjóminjasafninu á Húsavík. Hlekkur á streymi HÉR Dagskrá: Almenn mál 1. Áætlanir vegna ársins 2027-2030 - 202609122 2. Álagning gjalda 2027 - 202611005 3. Gjaldskrár Norðurþings 2027 - 202610013 4. Framkvæmdaáætlun 2027-2031 - 202609025 5. Fjárhags- og framkvæmdaáætlun Hafnasjóðs Norðurþings 2027 - 202610134 6. Gjaldskrá hafna Norðurþings 2027 - 202610133 7. Þjónustustefna Norðurþings - 202305116 8. Viðauki - kostnaður vegna umferðaröryggisáætlunar - 202610063 9. Loftbrú - breytt fyrirkomulag - 202611033 10. Endurskoðun reglna lista- og menningarsjóð Norðurþings 2026 - 202610031 11. Umsókn um lóð á iðnaðarsvæðinu á Bakka - 202610165 Fundargerðir 12. Fjölskylduráð - 250 - 2610007F 13. Fjölskylduráð - 251 - 2610014F 14. Skipulags- og framkvæmdaráð - 245 - 2609017F 15. Skipulags- og framkvæmda"
+    }
+  ],
+  "events": [
+    {
+      "source": "Visit North Iceland",
+      "title": "Jólamarkaður í Félagsheimilinu Fellsborg",
+      "dates": "21. nóv",
+      "category": "Matarviðburðir og markaðir",
+      "area": "skagastrond-sveitarfelagid-skagastrond-northwestern-region-545",
+      "link": "https://www.northiceland.is/is/ferdaupplysingar/vidburdir/jolamarkadur-i-felagsheimilinu-fellsborg"
+    },
+    {
+      "source": "Visit North Iceland",
+      "title": "Jólailmur í Hofi",
+      "dates": "22. nóv",
+      "category": "Matarviðburðir og markaðir",
+      "area": "akureyrarbaer",
+      "link": "https://www.northiceland.is/is/ferdaupplysingar/vidburdir/jolailmur-i-hofi"
+    },
+    {
+      "source": "Visit North Iceland",
+      "title": "Jólaglögg",
+      "dates": "27. nóv - 4. des",
+      "category": "Bæjarhátíðir",
+      "area": "akureyrarbaer",
+      "link": "https://www.northiceland.is/is/ferdaupplysingar/vidburdir/jolaglogg"
+    },
+    {
+      "source": "Visit North Iceland",
+      "title": "Jólabærinn minn – Aðventugleði í Safnahúsinu á Húsavík",
+      "dates": "27.-28. nóv",
+      "category": "Matarviðburðir og markaðir",
+      "area": "husavik-nordurthing-640",
+      "link": "https://www.northiceland.is/is/ferdaupplysingar/vidburdir/jolabaerinn-minn-adventugledi-i-safnahusinu-a-husavik"
+    },
+    {
+      "source": "Visit North Iceland",
+      "title": "Aðventuævintýri á Akureyri",
+      "dates": "29. nóv - 23. des",
+      "category": "Matarviðburðir og markaðir",
+      "area": "akureyrarbaer",
+      "link": "https://www.northiceland.is/is/ferdaupplysingar/vidburdir/adventuaevintyri-a-akureyri-1"
+    },
+    {
+      "source": "Visit North Iceland",
+      "title": "Jólaglögg",
+      "dates": "27. nóv - 4. des",
+      "category": "Bæjarhátíðir",
+      "area": "akureyrarbaer",
+      "link": "https://www.northiceland.is/is/ferdaupplysingar/vidburdir/jolaglogg"
+    },
+    {
+      "source": "Visit North Iceland",
+      "title": "Aðventuævintýri á Akureyri",
+      "dates": "29. nóv - 23. des",
+      "category": "Matarviðburðir og markaðir",
+      "area": "akureyrarbaer",
+      "link": "https://www.northiceland.is/is/ferdaupplysingar/vidburdir/adventuaevintyri-a-akureyri-1"
+    },
+    {
+      "source": "Visit North Iceland",
+      "title": "Jólasveinarnir í Dimmuborgum",
+      "dates": "1.-23. des",
+      "category": "Menning",
+      "area": "",
+      "link": "https://www.northiceland.is/is/ferdaupplysingar/vidburdir/jolasveinarnir-i-dimmuborgum-1"
+    },
+    {
+      "source": "Visit North Iceland",
+      "title": "Jólamarkaður í Skjólbrekku",
+      "dates": "5.- 6. des",
+      "category": "Matarviðburðir og markaðir",
+      "area": "",
+      "link": "https://www.northiceland.is/is/ferdaupplysingar/vidburdir/jolamarkadur-i-skjolbrekku-1"
+    },
+    {
+      "source": "Visit North Iceland",
+      "title": "Jólamarkaður í Bifröst á Króknum",
+      "dates": "5.- 6. des",
+      "category": "Matarviðburðir og markaðir",
+      "area": "saudarkrokur-skagafjordur-northwestern-region-550",
+      "link": "https://www.northiceland.is/is/ferdaupplysingar/vidburdir/jolamarkadur-i-bifrost-a-kroknum"
+    },
+    {
+      "source": "Visit North Iceland",
+      "title": "Jólabað jólasveinanna í Dimmuborgum",
+      "dates": "5. des",
+      "category": "Börn",
+      "area": "",
+      "link": "https://www.northiceland.is/is/ferdaupplysingar/vidburdir/jolabad-jolasveinanna-i-dimmuborgum"
+    },
+    {
+      "source": "Visit North Iceland",
+      "title": "Ásgeir Trausti ferðast um landið á aðventunni",
+      "dates": "5.- 9. des",
+      "category": "Menning",
+      "area": "husavik-nordurthing-640",
+      "link": "https://www.northiceland.is/is/ferdaupplysingar/vidburdir/asgeir-trausti-ferdast-um-landid-a-adventunni"
+    },
+    {
+      "source": "Visit North Iceland",
+      "title": "Stefnumót við fortíðina",
+      "dates": "1. jan - 31. maí",
+      "category": "Menning",
+      "area": "",
+      "link": "https://www.northiceland.is/is/ferdaupplysingar/vidburdir/stefnumot-vid-fortidina"
+    },
+    {
+      "source": "Visit North Iceland",
+      "title": "Stefnumót við fortíðina",
+      "dates": "1. jan - 31. maí",
+      "category": "Menning",
+      "area": "",
+      "link": "https://www.northiceland.is/is/ferdaupplysingar/vidburdir/stefnumot-vid-fortidina"
+    },
+    {
+      "source": "Visit North Iceland",
+      "title": "Vetrarhátíð við Mývatn",
+      "dates": "26. feb - 7. mar",
+      "category": "Menning",
+      "area": "",
+      "link": "https://www.northiceland.is/is/ferdaupplysingar/vidburdir/myvatn-winter-festival"
+    },
+    {
+      "source": "Visit North Iceland",
+      "title": "Stefnumót við fortíðina",
+      "dates": "1. jan - 31. maí",
+      "category": "Menning",
+      "area": "",
+      "link": "https://www.northiceland.is/is/ferdaupplysingar/vidburdir/stefnumot-vid-fortidina"
+    },
+    {
+      "source": "Visit North Iceland",
+      "title": "Vetrarhátíð við Mývatn",
+      "dates": "26. feb - 7. mar",
+      "category": "Menning",
+      "area": "",
+      "link": "https://www.northiceland.is/is/ferdaupplysingar/vidburdir/myvatn-winter-festival"
+    },
+    {
+      "source": "Visit North Iceland",
+      "title": "Stefnumót við fortíðina",
+      "dates": "1. jan - 31. maí",
+      "category": "Menning",
+      "area": "",
+      "link": "https://www.northiceland.is/is/ferdaupplysingar/vidburdir/stefnumot-vid-fortidina"
+    },
+    {
+      "source": "Visit North Iceland",
+      "title": "Stefnumót við fortíðina",
+      "dates": "1. jan - 31. maí",
+      "category": "Menning",
+      "area": "",
+      "link": "https://www.northiceland.is/is/ferdaupplysingar/vidburdir/stefnumot-vid-fortidina"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Under Occupation",
+      "dates": "June 6 - December 31",
+      "time": "11:00-17:00",
+      "venue": "Minjasafnið á Akureyri",
+      "description": "The war years in Akureyri through the eyes of soldiers and locals",
+      "categories": [],
+      "link": "https://www.visitakureyri.is/en/whats-on/i-hers-hondum"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Story time every Thursday at 4:30pm",
+      "dates": "November 19",
+      "time": "16:30-18:00",
+      "venue": "Amtsbókasafnið",
+      "description": "Pajamas storytime and craftEndilega komið í náttfötum! Sögustund og föndur fimmt",
+      "categories": [
+        "For the kids",
+        "No charge",
+        "Festivals"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/sogustundir-alla-fimmtudaga-klukkan-1745"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Celebrating George Michael",
+      "dates": "November 20",
+      "time": "20:00-22:00",
+      "venue": "Menningarhúsið Hof",
+      "description": "Enjoy the music of George Michael, performed by an outstanding singer and a fantastic band featuring Wham!’s original bass player.",
+      "categories": [
+        "Concert"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/mak-celebrating-george-michael-1"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Skálmöld",
+      "dates": "November 20",
+      "time": "21:00-23:30",
+      "venue": "Græni Hatturinn",
+      "description": "Skálmöld perform Baldur in its entirety.",
+      "categories": [
+        "Festivals",
+        "Concert"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/skalmold-8"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "The Christmas tree on Town Square",
+      "dates": "November 21",
+      "time": "16:00-17:00",
+      "venue": "Ráðhústorg, Akureyri",
+      "description": "On Saturday, 21 November at 4 pm, the Christmas lights on the tree at Akureyri Town Square (Ráðhústorg) will be switched on.",
+      "categories": [
+        "For the kids",
+        "No charge",
+        "Festivals",
+        "Concert"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/jolatred-a-radhustorgi-1"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Let’s Take a Step",
+      "dates": "November 22",
+      "time": "10:00-11:00",
+      "venue": "Ferðafélag Akureyrar",
+      "description": "Exercise, fresh air, and good company – everyone is welcome!",
+      "categories": [
+        "Daytrips",
+        "Sport",
+        "No charge"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/tokum-skrefid-9-202512071001-202611221000"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Christmas Market",
+      "dates": "November 22",
+      "time": "14:00-17:00",
+      "venue": "Ráðhústorg, Akureyri",
+      "description": "The program Sunday, 22 November.",
+      "categories": [
+        "For the kids",
+        "No charge",
+        "Festivals"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/jolatorg-akureyrar-7"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Story time every Thursday at 4:30pm",
+      "dates": "November 26",
+      "time": "16:30-18:00",
+      "venue": "Amtsbókasafnið",
+      "description": "Storytime and craft",
+      "categories": [
+        "For the kids",
+        "No charge",
+        "Festivals"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/sogustundir-alla-fimmtudaga-klukkan-1748"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Salsa & bachata social",
+      "dates": "November 26",
+      "time": "20:00-22:30",
+      "venue": "Vamos",
+      "description": "Free admission and everyone welcome!",
+      "categories": [
+        "Dance",
+        "No charge",
+        "Festivals"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/salsa-og-bachata-danskvold-3"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Jólaglögg",
+      "dates": "November 27 - December 5",
+      "time": "18:30-21:00",
+      "venue": "Samkomuhúsið",
+      "description": "Umskiptingar are back with their hilarious Christmas show. In icelandic",
+      "categories": [
+        "Theater"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/mak-jolaglogg-3"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "North Atlantic Brass Quintett in Akureyri Church",
+      "dates": "November 27",
+      "time": "20:00-21:30",
+      "venue": "Akureyrarkirkja",
+      "description": "A concert in Akureyri Church with diverse program",
+      "categories": [
+        "Concert"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/malmblasarakvintett-i-akureyrarkirkju"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Baggalútur",
+      "dates": "November 27",
+      "time": "",
+      "venue": "Menningarhúsið Hof",
+      "description": "Baggalútur’s Christmas concerts are an essential part of the festive season.",
+      "categories": [
+        "Concert"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/mak-baggalutur-3"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Family Christmas crafting",
+      "dates": "November 28",
+      "time": "13:00-15:00",
+      "venue": "Amtsbókasafnið",
+      "description": "Let’s watch a Christmas movie, decorate gift bags, and color Christmas pictures.",
+      "categories": [
+        "For the kids",
+        "No charge",
+        "Festivals"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/fjolskyldujolasamvera"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Christmas Market",
+      "dates": "November 28",
+      "time": "14:00-18:00",
+      "venue": "Ráðhústorg, Akureyri",
+      "description": "The program Saturday, 28th November.",
+      "categories": [
+        "For the kids",
+        "No charge",
+        "Festivals"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/jolatorg-akureyrar-15"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Akureyri Male Choir at the Akureyri Christmas Market (Ráðhústorg)",
+      "dates": "November 28",
+      "time": "16:30-17:00",
+      "venue": "Ráðhústorg",
+      "description": "Akureyri Male Choir Geysir at the Akureyri Christmas Market (Ráðhústorg)",
+      "categories": [
+        "Akureyrarvaka 2026"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/karlakor-akureyrar-geysir-syngur-a-jolatorginu"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "At a Red Light",
+      "dates": "November 28 - December 6",
+      "time": "20:00-22:00",
+      "venue": "Menningarhúsið Hof",
+      "description": "Kristín Þóra Haraldsdóttir is heading north with her hugely popular comedy show. In icelandic.",
+      "categories": [
+        "Theater"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/mak-a-raudu-ljosi-1"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "ISSI – FRÁ AK TIL Ö",
+      "dates": "November 28",
+      "time": "21:00-23:30",
+      "venue": "Græni Hatturinn",
+      "description": "On 29 November, ISSI celebrates five years since the release of his first single, ISSI DEPOSIT",
+      "categories": [
+        "Festivals",
+        "Concert"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/issi-fra-ak-til-o"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Let’s Take a Step",
+      "dates": "November 29",
+      "time": "10:00-11:00",
+      "venue": "Ferðafélag Akureyrar",
+      "description": "Exercise, fresh air, and good company – everyone is welcome!",
+      "categories": [
+        "Daytrips",
+        "Sport",
+        "No charge"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/tokum-skrefid-9-202512071001-202611291000"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Elf – DSA Christmas Celebration Show",
+      "dates": "November 29",
+      "time": "12:00-14:00",
+      "venue": "Menningarhúsið Hof",
+      "description": "This year, the students of DSA invite you on a magical Christmas journey filled with dance, joy and festive fun",
+      "categories": [
+        "Concert",
+        "For the kids"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/mak-elf-hatidarsyning-dsa-1"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Christmas Market",
+      "dates": "November 29",
+      "time": "14:00-17:00",
+      "venue": "Ráðhústorg, Akureyri",
+      "description": "The program Sunday, 29th November.",
+      "categories": [
+        "For the kids",
+        "No charge",
+        "Festivals"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/jolatorg-akureyrar-8"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Ennio Morricone in memoriam",
+      "dates": "November 29",
+      "time": "20:00-21:00",
+      "venue": "Menningarhúsið Hof",
+      "description": "98th birthday anniversary concert",
+      "categories": [
+        "Movie",
+        "Concert"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/ennio-morricone-in-memoriam"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "What Significance Does Sovereignty Day Hold for Icelanders, and How Do We Understand the Idea of Sovereignty?",
+      "dates": "November 30",
+      "time": "14:00-15:00",
+      "venue": "Háskólinn á Akureyri",
+      "description": "Open House sessions are always held on Mondays at 2:00 PM in room N102, Sólborg,",
+      "categories": [
+        "No charge"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/hvada-thydingu-hefur-fullveldisdagurinn-i-hugum-islendinga-og-hvernig-umgongumst-vid-hugtakid-fullveldi"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Story time every Thursday at 4:30pm",
+      "dates": "December 3",
+      "time": "16:30-18:00",
+      "venue": "Amtsbókasafnið",
+      "description": "Sögustund og föndur",
+      "categories": [
+        "For the kids",
+        "No charge",
+        "Festivals"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/sogustundir-alla-fimmtudaga-klukkan-1746"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Silent Book Club",
+      "dates": "December 3",
+      "time": "19:00-22:00",
+      "venue": "Amtsbókasafnið á Akureyri",
+      "description": "Do you feel like taking some time for yourself to read and enjoy some peace and",
+      "categories": [
+        "No charge"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/lestrarfridur-3"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Lunchtime Poetry Reading at Eymundsson",
+      "dates": "December 4",
+      "time": "12:00-13:00",
+      "venue": "Penninn Eymundsson",
+      "description": "Three poets from the south of Iceland are visiting Akureyri to read from their newly published works",
+      "categories": [
+        "Lectures",
+        "No charge",
+        "Festivals"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/hadegislestur-i-eymundsson"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Skoppa and Skritla´s Christmas party!",
+      "dates": "December 4 - December 5",
+      "time": "15:00-16:00",
+      "venue": "Menningarhúsið Hof",
+      "description": "The hit family show returns and now at Hof, Akureyri´s cultural center!",
+      "categories": [
+        "Dance",
+        "For the kids",
+        "Theater",
+        "Festivals",
+        "Concert"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/jolaparty-skoppu-og-skritlu"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Christmas Market",
+      "dates": "December 5",
+      "time": "14:00-18:00",
+      "venue": "Ráðhústorg, Akureyri",
+      "description": "The program Saturday, 5th December.",
+      "categories": [
+        "For the kids",
+        "No charge",
+        "Festivals"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/jolatorg-akureyrar-14"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "A trio of poets from the south",
+      "dates": "December 5",
+      "time": "15:30-16:30",
+      "venue": "Skáld Hótel Akureyri",
+      "description": "Three poets will be travelling north to read from their newly published works",
+      "categories": [
+        "Lectures",
+        "No charge",
+        "Festivals"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/skaldatrio-ad-sunnan"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Bubbi - Þorláksmessutónleikar",
+      "dates": "December 5",
+      "time": "20:30-22:30",
+      "venue": "Menningarhúsið Hof",
+      "description": "Bubbi Morthens’ Þorláksmessa concert series is one of Iceland’s longest-running Christmas traditions",
+      "categories": [
+        "Concert"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/mak-bubbi-thorlaksmessutonleikar-4"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Let’s Take a Step",
+      "dates": "December 6",
+      "time": "10:00-11:00",
+      "venue": "Ferðafélag Akureyrar",
+      "description": "Exercise, fresh air, and good company – everyone is welcome!",
+      "categories": [
+        "Daytrips",
+        "Sport",
+        "No charge"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/tokum-skrefid-9-202512071001-202612061000"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Art and Poetry at Ketilkaffi",
+      "dates": "December 6",
+      "time": "12:00-13:00",
+      "venue": "Ketilkaffi",
+      "description": "A lunchtime poetry gathering on Sunday. Readings from a selection of newly published poetry books.",
+      "categories": [
+        "Lectures",
+        "No charge",
+        "Festivals"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/list-og-ljod-a-ketilkaffi"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Christmas Market",
+      "dates": "December 6",
+      "time": "14:00-17:00",
+      "venue": "Ráðhústorg, Akureyri",
+      "description": "The program Sunday, 6th December.",
+      "categories": [
+        "For the kids",
+        "No charge",
+        "Festivals"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/jolatorg-akureyrar-9"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Story time every Thursday at 4:30pm",
+      "dates": "December 10",
+      "time": "16:30-18:00",
+      "venue": "Amtsbókasafnið",
+      "description": "Christmas storytime and craft",
+      "categories": [
+        "For the kids",
+        "No charge",
+        "Festivals"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/sogustundir-alla-fimmtudaga-klukkan-1747"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Best books",
+      "dates": "December 11",
+      "time": "17:00-18:30",
+      "venue": "Amtsbókasafnið á Akureyri",
+      "description": "Looking for your next great read?",
+      "categories": [
+        "No charge"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/bestu-baekurnar-3"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Vitringarnir 3 - 2026",
+      "dates": "December 11 - December 13",
+      "time": "19:00-21:00",
+      "venue": "Menningarhúsið Hof",
+      "description": "Vitringarnir 3 are coming to town this December, bringing their trademark outrageous Christmas comedy",
+      "categories": [
+        "Concert"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/mak-vitringarnir-3-2027"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Christmas Social",
+      "dates": "December 11",
+      "time": "20:30-23:30",
+      "venue": "Vamos",
+      "description": "Free admission and everyone welcome!",
+      "categories": [
+        "Dance",
+        "No charge",
+        "Festivals"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/salsa-og-bachata-danskvold-4"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Christmas Market",
+      "dates": "December 12",
+      "time": "14:00-18:00",
+      "venue": "Ráðhústorg, Akureyri",
+      "description": "The program Saturday, 12th December.",
+      "categories": [
+        "For the kids",
+        "No charge",
+        "Festivals"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/jolatorg-akureyrar-13"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Let’s Take a Step",
+      "dates": "December 13",
+      "time": "10:00-11:00",
+      "venue": "Ferðafélag Akureyrar",
+      "description": "Exercise, fresh air, and good company – everyone is welcome!",
+      "categories": [
+        "Daytrips",
+        "Sport",
+        "No charge"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/tokum-skrefid-9-202512071001-202612131000"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Christmas Market",
+      "dates": "December 13",
+      "time": "14:00-17:00",
+      "venue": "Ráðhústorg, Akureyri",
+      "description": "The program Sunday, 13th December.",
+      "categories": [
+        "For the kids",
+        "No charge",
+        "Festivals"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/jolatorg-akureyrar-10"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Improving Health Literacy – Where Can I Turn for Help?",
+      "dates": "December 14",
+      "time": "14:00-15:00",
+      "venue": "Háskólinn á Akureyri",
+      "description": "Healthcare professionals explain how our healthcare services work together.",
+      "categories": [
+        "No charge"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/aukid-heilsulaesi-hvert-leita-eg"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Christmas Market",
+      "dates": "December 19",
+      "time": "14:00-18:00",
+      "venue": "Ráðhústorg, Akureyri",
+      "description": "The program Saturday, 19th December.",
+      "categories": [
+        "For the kids",
+        "No charge",
+        "Festivals"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/jolatorg-akureyrar-12"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Ari Eldjárn: Áramótaskop 2026",
+      "dates": "December 19",
+      "time": "21:00-22:30",
+      "venue": "Menningarhúsið Hof",
+      "description": "Ari Eldjárn invites you to bid farewell to the year with his unforgettable stand-up show. NB in icelandic",
+      "categories": [
+        "Concert"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/mak-ari-eldjarn-2"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Let’s Take a Step",
+      "dates": "December 20",
+      "time": "10:00-11:00",
+      "venue": "Ferðafélag Akureyrar",
+      "description": "Exercise, fresh air, and good company – everyone is welcome!",
+      "categories": [
+        "Daytrips",
+        "Sport",
+        "No charge"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/tokum-skrefid-9-202512071001-202612201000"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Christmas Market",
+      "dates": "December 20",
+      "time": "14:00-17:00",
+      "venue": "Ráðhústorg, Akureyri",
+      "description": "The program Sunday, 20th December.",
+      "categories": [
+        "For the kids",
+        "No charge",
+        "Festivals"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/jolatorg-akureyrar-11"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Killer Queen - Tribute concert.",
+      "dates": "December 26",
+      "time": "21:00-23:30",
+      "venue": "Græni Hatturinn",
+      "description": "Killer Queen takes the stage at Græni Hatturinn, performing the greatest and most popular hits of the legendary rock band Queen!",
+      "categories": [
+        "Festivals",
+        "Concert"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/killer-queen-12"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Let’s Take a Step",
+      "dates": "December 27",
+      "time": "10:00-11:00",
+      "venue": "Ferðafélag Akureyrar",
+      "description": "Exercise, fresh air, and good company – everyone is welcome!",
+      "categories": [
+        "Daytrips",
+        "Sport",
+        "No charge"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/tokum-skrefid-9-202512071001-202612271000"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Bríet",
+      "dates": "December 27",
+      "time": "21:00-23:30",
+      "venue": "Græni Hatturinn",
+      "description": "Bríet is coming to Græni Hatturinn with her fantastic band",
+      "categories": [
+        "Festivals",
+        "Concert"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/briet-6"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Una Torfa",
+      "dates": "December 28",
+      "time": "21:00-23:30",
+      "venue": "Græni Hatturinn",
+      "description": "Una Torfa is heading north to Græni Hatturinn after the Christmas festivities",
+      "categories": [
+        "Festivals",
+        "Concert"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/una-torfa-3"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Ljótu hálfvitarnir",
+      "dates": "January 8",
+      "time": "21:00-23:30",
+      "venue": "Græni Hatturinn",
+      "description": "The year doesn't truly begin until Ljótu Hálfvitarnir have played at Græni Hatturinn!",
+      "categories": [
+        "Festivals",
+        "Concert"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/ljotu-halfvitarnir-33"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Ljótu hálfvitarnir",
+      "dates": "January 9",
+      "time": "21:00-23:30",
+      "venue": "Græni Hatturinn",
+      "description": "The year doesn't truly begin until Ljótu Hálfvitarnir have played at Græni Hatturinn!",
+      "categories": [
+        "Festivals",
+        "Concert"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/ljotu-halfvitarnir-34"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Í tunglsljósi á ís",
+      "dates": "January 10",
+      "time": "16:00-18:00",
+      "venue": "Menningarhúsið Hof",
+      "description": "New Year’s Concert by the North Iceland Symphony Orchestra & Akureyri School of Music",
+      "categories": [
+        "Concert"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/mak-i-tunglsljosi-a-is-1"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "120th Anniversary of Samkomuhúsið",
+      "dates": "January 20 - February 6",
+      "time": "20:00-22:00",
+      "venue": "Samkomuhúsið",
+      "description": "120th Anniversary of Samkomuhúsið",
+      "categories": [
+        "Concert",
+        "Theater"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/mak-120-ara-afmaeli-samkomuhussins-1"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Pernille Haaland - Nordic AF",
+      "dates": "January 30",
+      "time": "20:00",
+      "venue": "Menningarhúsið Hof",
+      "description": "Award winning comedian Pernille Haaland (HBO Max, Netflix, Discovery, NRK, TV2)",
+      "categories": [
+        "Festivals"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/mak-nordic-1"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "A Country Night in Nashville",
+      "dates": "February 13",
+      "time": "20:00-22:00",
+      "venue": "Menningarhúsið Hof",
+      "description": "Dominic Halpin is an exceptionally charismatic singer who comes to Hof with his talented band",
+      "categories": [
+        "Concert"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/mak-a-country-night-in-nashville-1"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Daníel Bjarnason conducts Brahms",
+      "dates": "February 21",
+      "time": "16:00-18:00",
+      "venue": "Menningarhúsið Hof",
+      "description": "Daníel Bjarnason conducts the North Iceland Symphony Orchestra in performances of two of Johannes Brahms’ most beloved works",
+      "categories": [
+        "Concert"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/mak-daniel-bjarnason-stjornar-brahms-1"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "Gæðablóð",
+      "dates": "April 29 - April 30",
+      "time": "20:00-22:00",
+      "venue": "Menningarhúsið Hof",
+      "description": "“I want tourists to see me and ask: ‘Where is Hallgrímskirkja?’” In icelandic",
+      "categories": [
+        "Concert"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/mak-gaedablod-1"
+    },
+    {
+      "source": "Visit Akureyri",
+      "title": "BaKaBa – Spring Quartet Fun",
+      "dates": "May 9",
+      "time": "16:00-18:00",
+      "venue": "Menningarhúsið Hof",
+      "description": "The string quartet of the North Iceland Symphony Orchestra takes on a spectacular and lively spring programme",
+      "categories": [
+        "Concert"
+      ],
+      "link": "https://www.visitakureyri.is/en/whats-on/mak-bakaba-kvartettfjor-ad-vori-1"
+    }
+  ],
+  "problems": []
+}

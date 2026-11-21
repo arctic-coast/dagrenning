@@ -1,0 +1,378 @@
+{
+  "title": "Hált á fimmtudegi",
+  "segments": [
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Góðan daginn frá Húsavík. Í dag er fimmtudagur, nítjándi nóvember. Klukkan er um hálf sjö.",
+      "translation": "Good morning from Húsavík. Today is Thursday, the nineteenth of November. It is about half past six."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Veðrið í dag.",
+      "translation": "The weather today."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Snemma í morgun snjóar aðeins. Svo verður alskýjað.",
+      "translation": "Early this morning it is snowing a little. Then it will be overcast."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Hitinn í dag er mínus tvær til mínus þrjár gráður. Í kvöld kólnar, niður í mínus fjórar gráður.",
+      "translation": "The temperature today is minus two to minus three degrees. This evening it gets colder, down to minus four degrees."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Það er hægur vindur úr suðsuðaustri.",
+      "translation": "There is a light wind from the south-southeast."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Sólin kemur upp klukkan tólf mínútur yfir tíu og sest klukkan tuttugu og fjórar mínútur í fjögur.",
+      "translation": "The sun rises at twelve minutes past ten and sets at twenty-four minutes to four."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fréttir dagsins.",
+      "translation": "Today's news."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Seðlabankinn breytir ekki stýrivöxtum. Þeir eru áfram átta prósent. Bankinn segir að verðbólga sé enn of mikil.",
+      "translation": "The Central Bank is not changing its policy interest rate. It stays at eight percent. The bank says inflation is still too high."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Stjarnan vann ÍBV í bikarkeppni kvenna í handbolta. Leikurinn endaði fjörutíu og þrjú gegn fjörutíu. Lið KA og Þórs frá Akureyri fór líka áfram.",
+      "translation": "Stjarnan beat ÍBV in the women's handball cup. The game ended forty-three to forty. The KA and Þór team from Akureyri also went through."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimm orð dagsins.",
+      "translation": "Five words of the day."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fyrsta orðið er karlkynsorð.",
+      "translation": "The first word is a masculine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "handbolti",
+      "translation": "handball"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Handball.",
+      "translation": "Handball."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Ég horfi á handbolta í kvöld.",
+      "translation": "I'm watching handball tonight."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "I'm watching handball tonight.",
+      "translation": "I'm watching handball tonight."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Annað orðið er hvorugkynsorð.",
+      "translation": "The second word is a neuter noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "lið",
+      "translation": "team"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Team.",
+      "translation": "Team."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Liðið vann leikinn.",
+      "translation": "The team won the game."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "The team won the game.",
+      "translation": "The team won the game."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Þriðja orðið er kvenkynsorð.",
+      "translation": "The third word is a feminine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "verðbólga",
+      "translation": "inflation"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Inflation.",
+      "translation": "Inflation."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Verðbólga er of mikil.",
+      "translation": "Inflation is too high."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Inflation is too high.",
+      "translation": "Inflation is too high."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fjórða orðið er sögn.",
+      "translation": "The fourth word is a verb."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "að breyta",
+      "translation": "to change"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "To change.",
+      "translation": "To change."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Ég vil breyta þessu.",
+      "translation": "I want to change this."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "I want to change this.",
+      "translation": "I want to change this."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimmta orðið er karlkynsorð.",
+      "translation": "The fifth word is a masculine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "hiti",
+      "translation": "temperature, heat"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Temperature, or heat.",
+      "translation": "Temperature, or heat."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Hitinn er mínus tvær gráður.",
+      "translation": "The temperature is minus two degrees."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "The temperature is minus two degrees.",
+      "translation": "The temperature is minus two degrees."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Setning dagsins.",
+      "translation": "Sentence of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Það er hált úti í dag, farðu varlega.",
+      "translation": "It's slippery outside today, be careful."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "It's slippery outside today, be careful.",
+      "translation": "It's slippery outside today, be careful."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Það er hált úti í dag, farðu varlega.",
+      "translation": "It's slippery outside today, be careful."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Orðasambönd dagsins.",
+      "translation": "Phrases of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Það er hált.",
+      "translation": "It's slippery."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "It's slippery.",
+      "translation": "It's slippery."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "úti",
+      "translation": "outside"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Outside.",
+      "translation": "Outside."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "farðu varlega",
+      "translation": "be careful"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Be careful.",
+      "translation": "Be careful."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Eigðu góðan fimmtudag! Bless bless.",
+      "translation": "Have a good Thursday! Bye bye."
+    }
+  ],
+  "words": [
+    {
+      "icelandic": "handbolti",
+      "english": "handball"
+    },
+    {
+      "icelandic": "lið",
+      "english": "team"
+    },
+    {
+      "icelandic": "verðbólga",
+      "english": "inflation"
+    },
+    {
+      "icelandic": "að breyta",
+      "english": "to change"
+    },
+    {
+      "icelandic": "hiti",
+      "english": "temperature, heat"
+    }
+  ],
+  "sentence": {
+    "icelandic": "Það er hált úti í dag, farðu varlega.",
+    "english": "It's slippery outside today, be careful."
+  },
+  "phrases": [
+    {
+      "icelandic": "Það er hált.",
+      "english": "It's slippery."
+    },
+    {
+      "icelandic": "úti",
+      "english": "outside"
+    },
+    {
+      "icelandic": "farðu varlega",
+      "english": "be careful"
+    }
+  ],
+  "news_links": [
+    "https://www.ruv.is/frettir/innlent/2026-11-18-telur-tvaer-sidustu-akvardanir-sedlabankans-vera-mistok-493227/",
+    "https://www.ruv.is/frettir/ithrottir/2026-11-18-stjarnan-vann-eftir-framlengingu-493220/"
+  ]
+}

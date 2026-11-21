@@ -1,0 +1,393 @@
+{
+  "title": "Ljós og samningar á laugardegi",
+  "segments": [
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Góðan daginn frá Húsavík! Í dag er laugardagur, tuttugasti og fyrsti nóvember. Klukkan er um hálf sjö.",
+      "translation": "Good morning from Húsavík! Today is Saturday, the twenty-first of November. It is about half past six."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Veðrið í dag.",
+      "translation": "The weather today."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í morgun er alskýjað og mínus tvær gráður. Það er suðaustanátt, fjórir til sex metrar á sekúndu.",
+      "translation": "This morning it is overcast and minus two degrees. There is a south-easterly wind, four to six metres per second."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í dag verður frost, ein til tvær gráður. Um hádegi verður léttskýjað, en svo verður aftur alskýjað. Vindurinn eykst.",
+      "translation": "Today there will be frost, one to two degrees below zero. Around midday it will be partly clear, but then it will be overcast again. The wind picks up."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í kvöld hlýnar. Seint í kvöld kemur slydda og svo rigning.",
+      "translation": "This evening it gets warmer. Late this evening there will be sleet and then rain."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Sólarupprás er klukkan tuttugu mínútur yfir tíu. Sólsetur er um hálf fjögur.",
+      "translation": "Sunrise is at twenty past ten. Sunset is at about half past three."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Frá Norðurþingi.",
+      "translation": "From Norðurþing."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Norðurþing og fyrirtækið EyrieDC hafa skrifað undir samning. Fyrirtækið ætlar að byggja gagnaver á Bakka við Húsavík. Samningurinn er til fimmtíu ára.",
+      "translation": "Norðurþing and the company EyrieDC have signed a contract. The company plans to build a data centre at Bakki near Húsavík. The contract is for fifty years."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Viðburðir.",
+      "translation": "Events."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Hljómsveitin Baggalútur heldur jólatónleika í Hofi á Akureyri. Tónleikarnir eru föstudaginn tuttugasta og sjöunda nóvember.",
+      "translation": "The band Baggalútur is holding a Christmas concert at Hof in Akureyri. The concert is on Friday the twenty-seventh of November."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Og í dag, klukkan fjögur, verða ljósin tendruð á jólatrénu á Ráðhústorgi á Akureyri. Það er ókeypis.",
+      "translation": "And today, at four o'clock, the lights will be switched on on the Christmas tree at Ráðhústorg in Akureyri. It is free."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimm orð dagsins.",
+      "translation": "Five words of the day."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fyrsta orðið er karlkynsorð.",
+      "translation": "The first word is a masculine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "samningur",
+      "translation": "contract"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "A contract, an agreement.",
+      "translation": "A contract, an agreement."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Þau skrifuðu undir nýjan samning.",
+      "translation": "They signed a new contract."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "They signed a new contract.",
+      "translation": "They signed a new contract."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Annað orðið er sögn.",
+      "translation": "The second word is a verb."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "að byggja",
+      "translation": "to build"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "To build.",
+      "translation": "To build."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Fyrirtækið ætlar að byggja hús.",
+      "translation": "The company plans to build a house."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "The company plans to build a house.",
+      "translation": "The company plans to build a house."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Þriðja orðið er hvorugkynsorð.",
+      "translation": "The third word is a neuter noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "ljós",
+      "translation": "light"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "A light.",
+      "translation": "A light."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Ljósin á jólatrénu eru falleg.",
+      "translation": "The lights on the Christmas tree are beautiful."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "The lights on the Christmas tree are beautiful.",
+      "translation": "The lights on the Christmas tree are beautiful."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fjórða orðið er sögn.",
+      "translation": "The fourth word is a verb."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "að hlýna",
+      "translation": "to get warmer"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "To get warmer.",
+      "translation": "To get warmer."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Það hlýnar í kvöld.",
+      "translation": "It gets warmer this evening."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "It gets warmer this evening.",
+      "translation": "It gets warmer this evening."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimmta orðið er kvenkynsorð.",
+      "translation": "The fifth word is a feminine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "helgi",
+      "translation": "weekend"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "A weekend.",
+      "translation": "A weekend."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Góða helgi!",
+      "translation": "Have a good weekend!"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Have a good weekend!",
+      "translation": "Have a good weekend!"
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Setning dagsins.",
+      "translation": "Sentence of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Ætlar þú að gera eitthvað skemmtilegt um helgina?",
+      "translation": "Are you going to do something fun this weekend?"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Are you going to do something fun this weekend?",
+      "translation": "Are you going to do something fun this weekend?"
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Ætlar þú að gera eitthvað skemmtilegt um helgina?",
+      "translation": "Are you going to do something fun this weekend?"
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Orðasambönd dagsins.",
+      "translation": "Phrases of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "ætlar þú að",
+      "translation": "are you going to"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Are you going to.",
+      "translation": "Are you going to."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "eitthvað skemmtilegt",
+      "translation": "something fun"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Something fun.",
+      "translation": "Something fun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "um helgina",
+      "translation": "this weekend"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "This weekend.",
+      "translation": "This weekend."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Eigðu góðan laugardag! Bless bless.",
+      "translation": "Have a good Saturday! Bye bye."
+    }
+  ],
+  "words": [
+    {
+      "icelandic": "samningur",
+      "english": "contract, agreement"
+    },
+    {
+      "icelandic": "að byggja",
+      "english": "to build"
+    },
+    {
+      "icelandic": "ljós",
+      "english": "light"
+    },
+    {
+      "icelandic": "að hlýna",
+      "english": "to get warmer"
+    },
+    {
+      "icelandic": "helgi",
+      "english": "weekend"
+    }
+  ],
+  "sentence": {
+    "icelandic": "Ætlar þú að gera eitthvað skemmtilegt um helgina?",
+    "english": "Are you going to do something fun this weekend?"
+  },
+  "phrases": [
+    {
+      "icelandic": "ætlar þú að",
+      "english": "are you going to"
+    },
+    {
+      "icelandic": "eitthvað skemmtilegt",
+      "english": "something fun"
+    },
+    {
+      "icelandic": "um helgina",
+      "english": "this weekend"
+    }
+  ],
+  "news_links": [
+    "https://www.nordurthing.is/is/frettir/samningar-undirritadir-vegna-fyrirhugads-gagnavers-a-bakka",
+    "https://www.visitakureyri.is/en/whats-on/mak-baggalutur-3",
+    "https://www.visitakureyri.is/en/whats-on/jolatred-a-radhustorgi-1"
+  ]
+}
