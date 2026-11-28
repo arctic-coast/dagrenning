@@ -1,0 +1,386 @@
+{
+  "title": "Tónar, verðlaun og kalt miðvikudagur",
+  "segments": [
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Góðan daginn frá Húsavík. Í dag er miðvikudagurinn átjándi nóvember. Klukkan er rúmlega hálf sjö.",
+      "translation": "Good morning from Húsavík. Today is Wednesday, the eighteenth of November. It is just after half past six."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Veðrið í dag.",
+      "translation": "The weather today."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í morgun er alskýjað og kalt. Hitinn er mínus fjórar gráður. Vindurinn er hægur, úr suðri.",
+      "translation": "This morning it is overcast and cold. The temperature is minus four degrees. The wind is light, from the south."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í dag verður líka alskýjað. Hitinn verður mínus þrjár til mínus fjórar gráður. Það verður nánast logn og engin úrkoma. Í kvöld hlýnar aðeins, upp í mínus eina gráðu.",
+      "translation": "Today it will also be overcast. The temperature will be minus three to minus four degrees. It will be almost calm, with no precipitation. This evening it gets a little warmer, up to minus one degree."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Sólarupprás er klukkan átta mínútur yfir tíu. Sólsetur er klukkan tuttugu og eina mínútu í fjögur.",
+      "translation": "Sunrise is at eight minutes past ten. Sunset is at twenty-one minutes to four."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Frá Norðurþingi.",
+      "translation": "From Norðurþing."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Norðurþing er tuttugu ára. Þess vegna verða þrennir tónleikar, á Kópaskeri, á Raufarhöfn og á Húsavík. Tónleikarnir byrja klukkan sjö um kvöldið. Fyrstu tónleikarnir eru á Raufarhöfn þriðjudaginn tuttugasta og fjórða nóvember, og svo á Kópaskeri miðvikudaginn tuttugasta og fimmta nóvember.",
+      "translation": "Norðurþing is twenty years old. So there will be three concerts, in Kópasker, in Raufarhöfn and in Húsavík. The concerts start at seven in the evening. The first concert is in Raufarhöfn on Tuesday the twenty-fourth of November, and then in Kópasker on Wednesday the twenty-fifth of November."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fréttir dagsins.",
+      "translation": "Today's news."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Anna Þorvaldsdóttir tónskáld fékk virt verðlaun í London. Verðlaunin heita Ivors. Hún fékk þau fyrir sellóverkið Before We Fall. Þetta er í annað sinn sem hún fær þau.",
+      "translation": "The composer Anna Þorvaldsdóttir received a prestigious award in London. The award is called the Ivors. She got it for the cello work Before We Fall. This is the second time she has received it."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Körfuboltaliðið Tindastóll vann leik í Króatíu í gærkvöldi. Liðið vann með tveimur stigum. Tindastóll hefur unnið alla fimm leiki sína í Evrópu.",
+      "translation": "The basketball team Tindastóll won a game in Croatia last night. The team won by two points. Tindastóll has won all five of its games in Europe."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimm orð dagsins.",
+      "translation": "Five words of the day."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fyrsta orðið er kvenkynsorð.",
+      "translation": "The first word is a feminine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "hljómsveit",
+      "translation": "band"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Band.",
+      "translation": "Band."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Hljómsveitin spilar vel.",
+      "translation": "The band plays well."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "The band plays well.",
+      "translation": "The band plays well."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Annað orðið er hvorugkynsorð.",
+      "translation": "The second word is a neuter noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "afmæli",
+      "translation": "birthday, anniversary"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Birthday, or anniversary.",
+      "translation": "Birthday, or anniversary."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Ég á afmæli í dag.",
+      "translation": "It's my birthday today."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "It's my birthday today.",
+      "translation": "It's my birthday today."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Þriðja orðið er líka hvorugkynsorð. Það er alltaf í fleirtölu.",
+      "translation": "The third word is also a neuter noun. It is always plural."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "verðlaun",
+      "translation": "award, prize"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Award, or prize.",
+      "translation": "Award, or prize."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Hún fékk verðlaun í London.",
+      "translation": "She got an award in London."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "She got an award in London.",
+      "translation": "She got an award in London."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fjórða orðið er karlkynsorð.",
+      "translation": "The fourth word is a masculine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "körfubolti",
+      "translation": "basketball"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Basketball.",
+      "translation": "Basketball."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Ég spila körfubolta á laugardögum.",
+      "translation": "I play basketball on Saturdays."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "I play basketball on Saturdays.",
+      "translation": "I play basketball on Saturdays."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimmta orðið er sögn.",
+      "translation": "The fifth word is a verb."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "að fá",
+      "translation": "to get"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "To get, or to receive.",
+      "translation": "To get, or to receive."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Má ég fá kaffi?",
+      "translation": "May I have some coffee?"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "May I have some coffee?",
+      "translation": "May I have some coffee?"
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Setning dagsins.",
+      "translation": "Sentence of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Það er kalt úti, ég ætla að fara í úlpu.",
+      "translation": "It's cold outside, I'm going to put on a coat."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "It's cold outside, I'm going to put on a coat.",
+      "translation": "It's cold outside, I'm going to put on a coat."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Það er kalt úti, ég ætla að fara í úlpu.",
+      "translation": "It's cold outside, I'm going to put on a coat."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Orðasambönd dagsins.",
+      "translation": "Phrases of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Það er kalt úti.",
+      "translation": "It's cold outside."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "It's cold outside.",
+      "translation": "It's cold outside."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "ég ætla að",
+      "translation": "I'm going to"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "I'm going to.",
+      "translation": "I'm going to."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "að fara í úlpu",
+      "translation": "to put on a coat"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "To put on a coat.",
+      "translation": "To put on a coat."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Eigðu góðan miðvikudag! Bless bless.",
+      "translation": "Have a good Wednesday! Bye bye."
+    }
+  ],
+  "words": [
+    {
+      "icelandic": "hljómsveit",
+      "english": "band"
+    },
+    {
+      "icelandic": "afmæli",
+      "english": "birthday, anniversary"
+    },
+    {
+      "icelandic": "verðlaun",
+      "english": "award, prize"
+    },
+    {
+      "icelandic": "körfubolti",
+      "english": "basketball"
+    },
+    {
+      "icelandic": "að fá",
+      "english": "to get, to receive"
+    }
+  ],
+  "sentence": {
+    "icelandic": "Það er kalt úti, ég ætla að fara í úlpu.",
+    "english": "It's cold outside, I'm going to put on a coat."
+  },
+  "phrases": [
+    {
+      "icelandic": "Það er kalt úti",
+      "english": "It's cold outside"
+    },
+    {
+      "icelandic": "ég ætla að",
+      "english": "I'm going to"
+    },
+    {
+      "icelandic": "að fara í úlpu",
+      "english": "to put on a coat"
+    }
+  ],
+  "news_links": [
+    "https://www.nordurthing.is/is/frettir/nordurthing-20-ara-tonar-milli-stada",
+    "https://www.ruv.is/frettir/menning-og-daegurmal/2026-11-18-hlytur-hin-virtu-ivors-tonskaldaverdlaun-i-annad-sinn-493116/",
+    "https://www.ruv.is/frettir/ithrottir/2026-11-17-tindastoll-a-flugi-i-evropu-sigur-i-kroatiu-493099/"
+  ]
+}

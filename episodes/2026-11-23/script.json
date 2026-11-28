@@ -1,0 +1,394 @@
+{
+  "title": "Jólamarkaður og hvassviðri í kvöld",
+  "segments": [
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Góðan daginn frá Húsavík.",
+      "translation": "Good morning from Húsavík."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í dag er mánudagurinn tuttugasti og þriðji nóvember. Klukkan er rúmlega hálf sjö.",
+      "translation": "Today is Monday the twenty-third of November. It is just after half past six."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Veðrið í dag.",
+      "translation": "The weather today."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í morgun er alskýjað. Hitinn er fimm til sex gráður. Það er suðaustanátt, níu til tólf metrar á sekúndu.",
+      "translation": "This morning it is overcast. The temperature is five to six degrees. There is a southeast wind, nine to twelve metres per second."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í dag er hitinn þrjár til fimm gráður. Það er skýjað en það rignir ekki. Síðdegis lægir vindinn. Í kvöld hvessir aftur, allt að þrettán metrar á sekúndu.",
+      "translation": "During the day the temperature is three to five degrees. It is cloudy but it does not rain. In the afternoon the wind dies down. This evening it gets windy again, up to thirteen metres per second."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Sólarupprás er klukkan tuttugu og sjö mínútur yfir tíu. Sólsetur er klukkan tuttugu og þrjár mínútur yfir þrjú.",
+      "translation": "Sunrise is at twenty-seven minutes past ten. Sunset is at twenty-three minutes past three."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Viðburðir.",
+      "translation": "Events."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Á laugardaginn, tuttugasta og áttunda nóvember, er jólamarkaður á Ráðhústorgi á Akureyri. Hann er opinn frá klukkan tvö til sex. Karlakórinn Geysir syngur þar klukkan hálf fimm. Aðgangur er ókeypis.",
+      "translation": "On Saturday, the twenty-eighth of November, there is a Christmas market on Ráðhústorg square in Akureyri. It is open from two to six. The male choir Geysir sings there at half past four. Admission is free."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Kristín Þóra Haraldsdóttir kemur norður með vinsæla gamansýningu. Sýningin heitir Á rauðu ljósi. Hún er í Hofi á Akureyri frá laugardeginum tuttugasta og áttunda nóvember, klukkan átta um kvöldið.",
+      "translation": "Kristín Þóra Haraldsdóttir is coming north with a popular comedy show. The show is called At a Red Light. It is at Hof in Akureyri from Saturday the twenty-eighth of November, at eight in the evening."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fréttir dagsins.",
+      "translation": "Today's news."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Þór og KA kepptu í handbolta á Akureyri í gærkvöldi. Þór var yfir í hálfleik. En KA vann leikinn.",
+      "translation": "Þór and KA played handball in Akureyri last night. Þór was ahead at half time. But KA won the game."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimm orð dagsins.",
+      "translation": "Five words of the day."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fyrsta orðið er sögn.",
+      "translation": "The first word is a verb."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "að hvessa",
+      "translation": "to get windy"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "To get windy.",
+      "translation": "To get windy."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Í kvöld hvessir aftur.",
+      "translation": "This evening it gets windy again."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "This evening it gets windy again.",
+      "translation": "This evening it gets windy again."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Annað orðið er hvorugkynsorð.",
+      "translation": "The second word is a neuter noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "kvöld",
+      "translation": "evening"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Evening.",
+      "translation": "Evening."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Ég er heima í kvöld.",
+      "translation": "I am at home this evening."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "I am at home this evening.",
+      "translation": "I am at home this evening."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Þriðja orðið er kvenkynsorð.",
+      "translation": "The third word is a feminine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "sýning",
+      "translation": "show"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "A show.",
+      "translation": "A show."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Sýningin byrjar klukkan átta.",
+      "translation": "The show starts at eight o'clock."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "The show starts at eight o'clock.",
+      "translation": "The show starts at eight o'clock."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fjórða orðið er karlkynsorð.",
+      "translation": "The fourth word is a masculine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "kór",
+      "translation": "choir"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "A choir.",
+      "translation": "A choir."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Kórinn syngur á markaðnum.",
+      "translation": "The choir sings at the market."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "The choir sings at the market.",
+      "translation": "The choir sings at the market."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimmta orðið er sögn.",
+      "translation": "The fifth word is a verb."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "að syngja",
+      "translation": "to sing"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "To sing.",
+      "translation": "To sing."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Mér finnst gaman að syngja.",
+      "translation": "I enjoy singing."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "I enjoy singing.",
+      "translation": "I enjoy singing."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Setning dagsins.",
+      "translation": "The sentence of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Viltu koma með mér á jólamarkaðinn á laugardaginn?",
+      "translation": "Do you want to come with me to the Christmas market on Saturday?"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Do you want to come with me to the Christmas market on Saturday?",
+      "translation": "Do you want to come with me to the Christmas market on Saturday?"
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Viltu koma með mér á jólamarkaðinn á laugardaginn?",
+      "translation": "Do you want to come with me to the Christmas market on Saturday?"
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Orðasambönd dagsins.",
+      "translation": "Phrases of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Viltu koma",
+      "translation": "Do you want to come"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Do you want to come.",
+      "translation": "Do you want to come."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "með mér",
+      "translation": "with me"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "With me.",
+      "translation": "With me."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "á laugardaginn",
+      "translation": "on Saturday"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "On Saturday.",
+      "translation": "On Saturday."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Eigðu góðan mánudag! Bless bless.",
+      "translation": "Have a good Monday! Bye bye."
+    }
+  ],
+  "words": [
+    {
+      "icelandic": "að hvessa",
+      "english": "to get windy"
+    },
+    {
+      "icelandic": "kvöld",
+      "english": "evening"
+    },
+    {
+      "icelandic": "sýning",
+      "english": "show"
+    },
+    {
+      "icelandic": "kór",
+      "english": "choir"
+    },
+    {
+      "icelandic": "að syngja",
+      "english": "to sing"
+    }
+  ],
+  "sentence": {
+    "icelandic": "Viltu koma með mér á jólamarkaðinn á laugardaginn?",
+    "english": "Do you want to come with me to the Christmas market on Saturday?"
+  },
+  "phrases": [
+    {
+      "icelandic": "Viltu koma",
+      "english": "Do you want to come"
+    },
+    {
+      "icelandic": "með mér",
+      "english": "with me"
+    },
+    {
+      "icelandic": "á laugardaginn",
+      "english": "on Saturday"
+    }
+  ],
+  "news_links": [
+    "https://www.visitakureyri.is/en/whats-on/jolatorg-akureyrar-15",
+    "https://www.visitakureyri.is/en/whats-on/karlakor-akureyrar-geysir-syngur-a-jolatorginu",
+    "https://www.visitakureyri.is/en/whats-on/mak-a-raudu-ljosi-1",
+    "https://www.ruv.is/frettir/ithrottir/2026-11-22-ka-hafdi-betur-i-grannaslagnum-493515/"
+  ]
+}

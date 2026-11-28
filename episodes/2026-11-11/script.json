@@ -1,0 +1,393 @@
+{
+  "title": "Kalt og skýjað á miðvikudegi",
+  "segments": [
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Góðan daginn frá Húsavík.",
+      "translation": "Good day from Húsavík."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í dag er miðvikudagurinn ellefti nóvember. Klukkan er um það bil tuttugu mínútur í eitt.",
+      "translation": "Today is Wednesday the eleventh of November. It is about twenty to one."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Veðrið í dag.",
+      "translation": "Today's weather."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í morgun var alskýjað og núll gráður. Það var norðlæg átt, tíu metrar á sekúndu.",
+      "translation": "This morning it was overcast and zero degrees. There was a northerly wind, ten metres per second."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í dag er hitinn í kringum núll gráður. Það er alskýjað allan daginn. Vindurinn minnkar síðdegis.",
+      "translation": "Today the temperature is around zero degrees. It is overcast all day. The wind eases in the afternoon."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Um klukkan fimm fer hitinn niður í mínus eina gráðu. Seint í kvöld léttir til.",
+      "translation": "Around five o'clock the temperature drops to minus one degree. Late this evening it clears up."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Sólin kom upp klukkan nítján mínútur í tíu. Hún sest klukkan þrjár mínútur yfir fjögur.",
+      "translation": "The sun rose at nineteen minutes to ten. It sets at three minutes past four."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fréttir dagsins.",
+      "translation": "Today's news."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Dagný Brynjarsdóttir er hætt í fótbolta. Hún skoraði þrjátíu og átta mörk fyrir landsliðið. Hún er þrjátíu og fimm ára.",
+      "translation": "Dagný Brynjarsdóttir has retired from football. She scored thirty-eight goals for the national team. She is thirty-five years old."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Ísland spilar við Írland í körfubolta í kvöld. Leikurinn er í Írlandi og byrjar klukkan sjö. Hann er sýndur á RÚV tvö.",
+      "translation": "Iceland plays Ireland in basketball tonight. The game is in Ireland and starts at seven. It is shown on RÚV 2."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Eldur kviknaði í bíl á Selfossi í morgun. Bíllinn var fyrir utan leikskóla. Enginn slasaðist.",
+      "translation": "A fire started in a car in Selfoss this morning. The car was outside a kindergarten. Nobody was hurt."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimm orð dagsins.",
+      "translation": "Five words of the day."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fyrsta orðið er kvenkynsorð.",
+      "translation": "The first word is a feminine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": true,
+      "text": "sól",
+      "translation": "sun"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Sun.",
+      "translation": "Sun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Sólin sest snemma í nóvember.",
+      "translation": "The sun sets early in November."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "The sun sets early in November.",
+      "translation": "The sun sets early in November."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Annað orðið er karlkynsorð.",
+      "translation": "The second word is a masculine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": true,
+      "text": "eldur",
+      "translation": "fire"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fire.",
+      "translation": "Fire."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Eldurinn er heitur.",
+      "translation": "The fire is hot."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "The fire is hot.",
+      "translation": "The fire is hot."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Þriðja orðið er hvorugkynsorð.",
+      "translation": "The third word is a neuter noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": true,
+      "text": "mark",
+      "translation": "goal"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Goal.",
+      "translation": "Goal."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Hún skoraði fallegt mark.",
+      "translation": "She scored a beautiful goal."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "She scored a beautiful goal.",
+      "translation": "She scored a beautiful goal."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fjórða orðið er karlkynsorð.",
+      "translation": "The fourth word is a masculine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": true,
+      "text": "leikskóli",
+      "translation": "kindergarten"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Kindergarten.",
+      "translation": "Kindergarten."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Barnið er í leikskóla.",
+      "translation": "The child is at kindergarten."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "The child is at kindergarten.",
+      "translation": "The child is at kindergarten."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimmta orðið er sögn.",
+      "translation": "The fifth word is a verb."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": true,
+      "text": "að spila",
+      "translation": "to play"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "To play.",
+      "translation": "To play."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Ég spila fótbolta á laugardögum.",
+      "translation": "I play football on Saturdays."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "I play football on Saturdays.",
+      "translation": "I play football on Saturdays."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Setning dagsins.",
+      "translation": "Sentence of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Það er kalt úti, ég ætla að fara í úlpuna.",
+      "translation": "It's cold outside, I'm going to put on my coat."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "It's cold outside, I'm going to put on my coat.",
+      "translation": "It's cold outside, I'm going to put on my coat."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": true,
+      "text": "Það er kalt úti, ég ætla að fara í úlpuna.",
+      "translation": "It's cold outside, I'm going to put on my coat."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Orðasambönd dagsins.",
+      "translation": "Phrases of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": true,
+      "text": "Það er kalt úti.",
+      "translation": "It's cold outside."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "It's cold outside.",
+      "translation": "It's cold outside."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": true,
+      "text": "ég ætla að",
+      "translation": "I'm going to"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "I'm going to.",
+      "translation": "I'm going to."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": true,
+      "text": "að fara í úlpuna",
+      "translation": "to put on the coat"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "To put on the coat.",
+      "translation": "To put on the coat."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Klæddu þig vel og eigðu góðan miðvikudag! Bless bless.",
+      "translation": "Dress warmly and have a good Wednesday! Bye bye."
+    }
+  ],
+  "words": [
+    {
+      "icelandic": "sól",
+      "english": "sun"
+    },
+    {
+      "icelandic": "eldur",
+      "english": "fire"
+    },
+    {
+      "icelandic": "mark",
+      "english": "goal"
+    },
+    {
+      "icelandic": "leikskóli",
+      "english": "kindergarten"
+    },
+    {
+      "icelandic": "að spila",
+      "english": "to play"
+    }
+  ],
+  "sentence": {
+    "icelandic": "Það er kalt úti, ég ætla að fara í úlpuna.",
+    "english": "It's cold outside, I'm going to put on my coat."
+  },
+  "phrases": [
+    {
+      "icelandic": "Það er kalt úti",
+      "english": "It's cold outside"
+    },
+    {
+      "icelandic": "ég ætla að",
+      "english": "I'm going to"
+    },
+    {
+      "icelandic": "að fara í úlpuna",
+      "english": "to put on the coat"
+    }
+  ],
+  "news_links": [
+    "https://www.ruv.is/frettir/ithrottir/2026-11-11-dagny-leggur-skona-a-hilluna-ur-850-manna-bae-i-milljonaborgir-492357/",
+    "https://www.ruv.is/frettir/ithrottir/2026-11-11-i-dag-island-saekir-ira-heim-492359/",
+    "https://www.ruv.is/frettir/innlent/2026-11-11-eldur-kviknadi-i-bil-fyrir-utan-leikskola-492361/"
+  ]
+}

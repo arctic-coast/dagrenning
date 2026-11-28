@@ -1,0 +1,400 @@
+{
+  "title": "Hvasst eftir hádegi",
+  "segments": [
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Góðan daginn frá Húsavík!",
+      "translation": "Good morning from Húsavík!"
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í dag er miðvikudagurinn tuttugasti og fimmti nóvember. Klukkan er rúmlega hálf sjö.",
+      "translation": "Today is Wednesday the twenty-fifth of November. It is just after half past six."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Veðrið í dag.",
+      "translation": "The weather today."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í morgun er skýjað og hægur vindur. Hitinn er um eina gráðu.",
+      "translation": "This morning it is cloudy with a light wind. The temperature is about one degree."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í dag verður alskýjað en þurrt. Hitinn verður tvær til sex gráður.",
+      "translation": "Today it will be overcast but dry. The temperature will be two to six degrees."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Eftir hádegi hvessir af suðaustri, tólf til þrettán metrar á sekúndu. Í kvöld léttir aðeins til.",
+      "translation": "In the afternoon it gets windy from the southeast, twelve to thirteen metres per second. In the evening it clears a little."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Sólin kemur upp klukkan fimm mínútur yfir hálf ellefu og sest klukkan sextán mínútur yfir þrjú.",
+      "translation": "The sun rises at twenty-five to eleven and sets at sixteen minutes past three."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Viðburðir.",
+      "translation": "Events."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Aðventuævintýri á Akureyri hefst á sunnudaginn, tuttugasta og níunda nóvember. Hátíðin stendur til tuttugasta og þriðja desember.",
+      "translation": "The Advent Adventure in Akureyri starts on Sunday, the twenty-ninth of November. The festival lasts until the twenty-third of December."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Sama dag eru tónleikar í Hofi klukkan átta um kvöldið. Tónleikarnir eru til minningar um Ennio Morricone.",
+      "translation": "The same day there is a concert at Hof at eight in the evening. The concert is in memory of Ennio Morricone."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fréttir dagsins.",
+      "translation": "Today's news."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Kvennalandsliðið í fótbolta spilar við Portúgal fimmta desember. Leikurinn er á Laugardalsvelli. Kannski verður áhorfendametið slegið.",
+      "translation": "The women's national football team plays Portugal on the fifth of December. The game is at Laugardalsvöllur. Maybe the attendance record will be broken."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimm orð dagsins.",
+      "translation": "Five words of the day."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fyrsta orðið er hvorugkynsorð.",
+      "translation": "The first word is a neuter noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "hádegi",
+      "translation": "noon"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Noon.",
+      "translation": "Noon."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Það hvessir eftir hádegi.",
+      "translation": "It gets windy in the afternoon."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "It gets windy in the afternoon.",
+      "translation": "It gets windy in the afternoon."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Annað orðið er kvenkynsorð.",
+      "translation": "The second word is a feminine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "hátíð",
+      "translation": "festival"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "A festival, a celebration.",
+      "translation": "A festival, a celebration."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Hátíðin byrjar á sunnudaginn.",
+      "translation": "The festival starts on Sunday."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "The festival starts on Sunday.",
+      "translation": "The festival starts on Sunday."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Þriðja orðið er karlkynsorð.",
+      "translation": "The third word is a masculine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "áhorfandi",
+      "translation": "spectator"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "A spectator.",
+      "translation": "A spectator."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Margir áhorfendur koma á leikinn.",
+      "translation": "Many spectators come to the game."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Many spectators come to the game.",
+      "translation": "Many spectators come to the game."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fjórða orðið er hvorugkynsorð.",
+      "translation": "The fourth word is a neuter noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "met",
+      "translation": "record"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "A record.",
+      "translation": "A record."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Þetta er nýtt met.",
+      "translation": "This is a new record."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "This is a new record.",
+      "translation": "This is a new record."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimmta orðið er sögn.",
+      "translation": "The fifth word is a verb."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "að slá",
+      "translation": "to hit, to break (a record)"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "To hit, or to break a record.",
+      "translation": "To hit, or to break a record."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Liðið vill slá metið.",
+      "translation": "The team wants to break the record."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "The team wants to break the record.",
+      "translation": "The team wants to break the record."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Setning dagsins.",
+      "translation": "Sentence of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Getum við hist eftir hádegi?",
+      "translation": "Can we meet in the afternoon?"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Can we meet in the afternoon?",
+      "translation": "Can we meet in the afternoon?"
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Getum við hist eftir hádegi?",
+      "translation": "Can we meet in the afternoon?"
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Orðasambönd dagsins.",
+      "translation": "Phrases of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "getum við",
+      "translation": "can we"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Can we.",
+      "translation": "Can we."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "að hittast",
+      "translation": "to meet each other"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "To meet each other.",
+      "translation": "To meet each other."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "eftir hádegi",
+      "translation": "in the afternoon"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "In the afternoon.",
+      "translation": "In the afternoon."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Eigðu góðan miðvikudag! Bless bless.",
+      "translation": "Have a good Wednesday! Bye bye."
+    }
+  ],
+  "words": [
+    {
+      "icelandic": "hádegi",
+      "english": "noon"
+    },
+    {
+      "icelandic": "hátíð",
+      "english": "festival, celebration"
+    },
+    {
+      "icelandic": "áhorfandi",
+      "english": "spectator"
+    },
+    {
+      "icelandic": "met",
+      "english": "record"
+    },
+    {
+      "icelandic": "að slá",
+      "english": "to hit, to break (a record)"
+    }
+  ],
+  "sentence": {
+    "icelandic": "Getum við hist eftir hádegi?",
+    "english": "Can we meet in the afternoon?"
+  },
+  "phrases": [
+    {
+      "icelandic": "getum við",
+      "english": "can we"
+    },
+    {
+      "icelandic": "að hittast",
+      "english": "to meet each other"
+    },
+    {
+      "icelandic": "eftir hádegi",
+      "english": "in the afternoon"
+    }
+  ],
+  "news_links": [
+    "https://www.northiceland.is/is/ferdaupplysingar/vidburdir/adventuaevintyri-a-akureyri-1",
+    "https://www.visitakureyri.is/en/whats-on/ennio-morricone-in-memoriam",
+    "https://www.ruv.is/frettir/ithrottir/2026-11-25-verdur-ahorfendametid-slegid-gegn-portugal-493664/"
+  ]
+}

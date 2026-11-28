@@ -1,0 +1,407 @@
+{
+  "title": "Hvasst föstudagsveður",
+  "segments": [
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Góðan daginn frá Húsavík.",
+      "translation": "Good morning from Húsavík."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í dag er föstudagurinn þrettándi nóvember. Klukkan er rúmlega hálf sjö.",
+      "translation": "Today is Friday the thirteenth of November. It is just after half past six."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Veðrið í dag.",
+      "translation": "The weather today."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í morgun er skýjað og hiti um núll gráður. Það er vestanátt, átta til tólf metrar á sekúndu.",
+      "translation": "This morning it is cloudy and around zero degrees. There is a west wind, eight to twelve metres per second."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Um klukkan níu byrja snjóél og svo kemur snjókoma. Um hádegið breytist það í slyddu og litla rigningu.",
+      "translation": "Around nine o'clock snow showers begin, and then snow. Around noon it turns to sleet and light rain."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Hitinn er frá mínus einni gráðu upp í tvær gráður. Það verður hvasst í dag.",
+      "translation": "The temperature is from minus one degree up to two degrees. It will be windy today."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í kvöld kemur norðanátt með slyddu. Vindurinn fer upp í átján metra á sekúndu.",
+      "translation": "This evening a north wind comes with sleet. The wind goes up to eighteen metres per second."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Sólin kemur upp klukkan ellefu mínútur í tíu og sest klukkan fjórar mínútur í fjögur.",
+      "translation": "The sun rises at eleven minutes to ten and sets at four minutes to four."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Viðburðir.",
+      "translation": "Events."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Hljómsveitin Skálmöld spilar á Græna hattinum á Akureyri föstudaginn tuttugasta nóvember. Tónleikarnir byrja klukkan níu um kvöldið. Þeir spila alla plötuna Baldur.",
+      "translation": "The band Skálmöld plays at Græni Hatturinn in Akureyri on Friday the twentieth of November. The concert starts at nine in the evening. They play the whole album Baldur."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fréttir dagsins.",
+      "translation": "Today's news."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Skjálfti af stærðinni fjórir komma tveir varð í Bárðarbungu í gærkvöldi. Hann varð rétt fyrir klukkan tíu. Svona skjálftar eru ekki óalgengir þar.",
+      "translation": "An earthquake of magnitude four point two happened in Bárðarbunga last night. It happened just before ten o'clock. Earthquakes like this are not unusual there."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Tindastóll vann Lausanne frá Sviss í körfubolta í gærkvöldi. Leikurinn var á Sauðárkróki. Lokatölur voru sjötíu og níu gegn sextíu og níu.",
+      "translation": "Tindastóll beat Lausanne from Switzerland in basketball last night. The game was in Sauðárkrókur. The final score was seventy-nine to sixty-nine."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimm orð dagsins.",
+      "translation": "Five words of the day."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fyrsta orðið er hvorugkynsorð.",
+      "translation": "The first word is a neuter noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "snjóél",
+      "translation": "snow shower"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Snow shower.",
+      "translation": "Snow shower."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Það verða snjóél í morgun.",
+      "translation": "There will be snow showers this morning."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "There will be snow showers this morning.",
+      "translation": "There will be snow showers this morning."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Annað orðið er kvenkynsorð.",
+      "translation": "The second word is a feminine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "rigning",
+      "translation": "rain"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Rain.",
+      "translation": "Rain."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Það verður lítil rigning um hádegið.",
+      "translation": "There will be light rain around noon."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "There will be light rain around noon.",
+      "translation": "There will be light rain around noon."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Þriðja orðið er karlkynsorð.",
+      "translation": "The third word is a masculine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "skjálfti",
+      "translation": "earthquake, tremor"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Earthquake, or tremor.",
+      "translation": "Earthquake, or tremor."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Skjálftinn varð í gærkvöldi.",
+      "translation": "The earthquake happened last night."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "The earthquake happened last night.",
+      "translation": "The earthquake happened last night."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fjórða orðið er karlkynsorð í fleirtölu.",
+      "translation": "The fourth word is a masculine noun in the plural."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "tónleikar",
+      "translation": "concert"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Concert.",
+      "translation": "Concert."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Tónleikarnir byrja klukkan níu.",
+      "translation": "The concert starts at nine."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "The concert starts at nine.",
+      "translation": "The concert starts at nine."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimmta orðið er sögn.",
+      "translation": "The fifth word is a verb."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "að vinna",
+      "translation": "to win; to work"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "To win, and also to work.",
+      "translation": "To win, and also to work."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Tindastóll vann leikinn.",
+      "translation": "Tindastóll won the game."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Tindastóll won the game.",
+      "translation": "Tindastóll won the game."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Setning dagsins.",
+      "translation": "Sentence of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Það er mjög hvasst í dag, klæddu þig vel.",
+      "translation": "It's very windy today, dress warmly."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "It's very windy today, dress warmly.",
+      "translation": "It's very windy today, dress warmly."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Það er mjög hvasst í dag, klæddu þig vel.",
+      "translation": "It's very windy today, dress warmly."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Orðasambönd dagsins.",
+      "translation": "Phrases of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "mjög hvasst",
+      "translation": "very windy"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Very windy.",
+      "translation": "Very windy."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "í dag",
+      "translation": "today"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Today.",
+      "translation": "Today."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "klæddu þig vel",
+      "translation": "dress warmly"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Dress warmly.",
+      "translation": "Dress warmly."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Eigðu góðan föstudag! Bless bless.",
+      "translation": "Have a good Friday! Bye bye."
+    }
+  ],
+  "words": [
+    {
+      "icelandic": "snjóél",
+      "english": "snow shower"
+    },
+    {
+      "icelandic": "rigning",
+      "english": "rain"
+    },
+    {
+      "icelandic": "skjálfti",
+      "english": "earthquake, tremor"
+    },
+    {
+      "icelandic": "tónleikar",
+      "english": "concert"
+    },
+    {
+      "icelandic": "að vinna",
+      "english": "to win; to work"
+    }
+  ],
+  "sentence": {
+    "icelandic": "Það er mjög hvasst í dag, klæddu þig vel.",
+    "english": "It's very windy today, dress warmly."
+  },
+  "phrases": [
+    {
+      "icelandic": "mjög hvasst",
+      "english": "very windy"
+    },
+    {
+      "icelandic": "í dag",
+      "english": "today"
+    },
+    {
+      "icelandic": "klæddu þig vel",
+      "english": "dress warmly"
+    }
+  ],
+  "news_links": [
+    "https://www.visitakureyri.is/en/whats-on/skalmold-8",
+    "https://www.ruv.is/frettir/innlent/2026-11-12-skjalfti-af-staerdinni-42-i-bardarbungu-492572/",
+    "https://www.ruv.is/frettir/ithrottir/2026-11-12-tindastoll-afram-taplaus-i-evropukeppninni-492566/"
+  ]
+}

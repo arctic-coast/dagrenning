@@ -1,0 +1,386 @@
+{
+  "title": "Laugardagur í Húsavík",
+  "segments": [
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Góðan daginn frá Húsavík.",
+      "translation": "Good morning from Húsavík."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í dag er laugardagur, tuttugasti og áttundi nóvember. Klukkan er rúmlega hálf sjö.",
+      "translation": "Today is Saturday, the twenty-eighth of November. It is just after half past six."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Veðrið í dag.",
+      "translation": "The weather today."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í morgun er heiðskírt og hitinn er um núll gráður. Það er hægur vindur af suðaustri. Seinna í morgun verður alskýjað.",
+      "translation": "This morning the sky is clear and the temperature is around zero degrees. There is a light wind from the southeast. Later in the morning it will be overcast."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í dag verður hitinn frá einni upp í fimm gráður. Það rignir frá klukkan eitt til þrjú. Vindurinn eykst seinni partinn. Í kvöld verður hvasst, allt að sextán metrar á sekúndu.",
+      "translation": "Today the temperature will be from one up to five degrees. It will rain from one to three o'clock. The wind picks up in the afternoon. This evening it will be windy, up to sixteen metres per second."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Sólin kemur upp fjórtán mínútur í ellefu og sest sjö mínútur yfir þrjú.",
+      "translation": "The sun rises at fourteen minutes to eleven and sets at seven minutes past three."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Viðburðir.",
+      "translation": "Events."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í dag er jólamarkaður á Ráðhústorgi á Akureyri. Hann er opinn frá klukkan tvö til sex. Það er ókeypis.",
+      "translation": "Today there is a Christmas market at Ráðhústorg in Akureyri. It is open from two to six o'clock. It is free."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Tónlistarmaðurinn Ásgeir Trausti ferðast um landið á aðventunni. Ferðin er frá fimmta til níunda desember. Hann kemur líka í Norðurþing.",
+      "translation": "The musician Ásgeir Trausti is travelling around the country during Advent. The tour is from the fifth to the ninth of December. He is also coming to Norðurþing."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Laugardaginn fimmta desember syngur Bubbi Morthens í Hofi á Akureyri. Tónleikarnir byrja klukkan hálf níu um kvöldið.",
+      "translation": "On Saturday the fifth of December, Bubbi Morthens sings at Hof in Akureyri. The concert starts at half past eight in the evening."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimm orð dagsins.",
+      "translation": "Five words of the day."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fyrsta orðið er lýsingarorð.",
+      "translation": "The first word is an adjective."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "heiðskírt",
+      "translation": "clear (sky)"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Clear, with no clouds.",
+      "translation": "Clear, with no clouds."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Það er heiðskírt í morgun.",
+      "translation": "The sky is clear this morning."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "The sky is clear this morning.",
+      "translation": "The sky is clear this morning."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Annað orðið er sögn.",
+      "translation": "The second word is a verb."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "að rigna",
+      "translation": "to rain"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "To rain.",
+      "translation": "To rain."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Það byrjar að rigna eftir hádegi.",
+      "translation": "It starts to rain in the afternoon."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "It starts to rain in the afternoon.",
+      "translation": "It starts to rain in the afternoon."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Þriðja orðið er karlkynsorð.",
+      "translation": "The third word is a masculine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "tónlistarmaður",
+      "translation": "musician"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Musician.",
+      "translation": "Musician."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Ásgeir Trausti er vinsæll tónlistarmaður.",
+      "translation": "Ásgeir Trausti is a popular musician."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Ásgeir Trausti is a popular musician.",
+      "translation": "Ásgeir Trausti is a popular musician."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fjórða orðið er hvorugkynsorð. Það er alltaf í fleirtölu.",
+      "translation": "The fourth word is a neuter noun. It is always plural."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "jól",
+      "translation": "Christmas"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Christmas.",
+      "translation": "Christmas."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Jólin koma bráðum.",
+      "translation": "Christmas is coming soon."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Christmas is coming soon.",
+      "translation": "Christmas is coming soon."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimmta orðið er karlkynsorð.",
+      "translation": "The fifth word is a masculine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "laugardagur",
+      "translation": "Saturday"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Saturday.",
+      "translation": "Saturday."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Í dag er laugardagur.",
+      "translation": "Today is Saturday."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Today is Saturday.",
+      "translation": "Today is Saturday."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Setning dagsins.",
+      "translation": "Sentence of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Ég ætla að fara á jólamarkaðinn í dag.",
+      "translation": "I'm going to go to the Christmas market today."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "I'm going to go to the Christmas market today.",
+      "translation": "I'm going to go to the Christmas market today."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Ég ætla að fara á jólamarkaðinn í dag.",
+      "translation": "I'm going to go to the Christmas market today."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Orðasambönd dagsins.",
+      "translation": "Phrases of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "ég ætla að",
+      "translation": "I'm going to"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "I'm going to.",
+      "translation": "I'm going to."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "að fara á",
+      "translation": "to go to"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "To go to.",
+      "translation": "To go to."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "í dag",
+      "translation": "today"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Today.",
+      "translation": "Today."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Eigðu góðan laugardag! Bless bless.",
+      "translation": "Have a good Saturday! Bye bye."
+    }
+  ],
+  "words": [
+    {
+      "icelandic": "heiðskírt",
+      "english": "clear (sky)"
+    },
+    {
+      "icelandic": "að rigna",
+      "english": "to rain"
+    },
+    {
+      "icelandic": "tónlistarmaður",
+      "english": "musician"
+    },
+    {
+      "icelandic": "jól",
+      "english": "Christmas"
+    },
+    {
+      "icelandic": "laugardagur",
+      "english": "Saturday"
+    }
+  ],
+  "sentence": {
+    "icelandic": "Ég ætla að fara á jólamarkaðinn í dag.",
+    "english": "I'm going to go to the Christmas market today."
+  },
+  "phrases": [
+    {
+      "icelandic": "ég ætla að",
+      "english": "I'm going to"
+    },
+    {
+      "icelandic": "að fara á",
+      "english": "to go to"
+    },
+    {
+      "icelandic": "í dag",
+      "english": "today"
+    }
+  ],
+  "news_links": [
+    "https://www.visitakureyri.is/en/whats-on/jolatorg-akureyrar-15",
+    "https://www.northiceland.is/is/ferdaupplysingar/vidburdir/asgeir-trausti-ferdast-um-landid-a-adventunni",
+    "https://www.visitakureyri.is/en/whats-on/mak-bubbi-thorlaksmessutonleikar-4"
+  ]
+}

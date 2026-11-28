@@ -1,0 +1,386 @@
+{
+  "title": "Heiðskír og kaldur mánudagur",
+  "segments": [
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Góðan daginn frá Húsavík!",
+      "translation": "Good morning from Húsavík!"
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í dag er mánudagurinn sextándi nóvember. Klukkan er rúmlega hálf sjö.",
+      "translation": "Today is Monday the sixteenth of November. It is just after half past six."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Veðrið í dag.",
+      "translation": "The weather today."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í morgun er heiðskírt og mínus sex gráður. Vindurinn er hægur, fjórir metrar á sekúndu úr suðaustri.",
+      "translation": "This morning it is clear and minus six degrees. The wind is light, four metres per second from the southeast."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í dag verður bjart og kalt. Hitinn verður frá mínus fimm niður í mínus sjö gráður. Í kvöld verður skýjað.",
+      "translation": "Today will be bright and cold. The temperature will be from minus five down to minus seven degrees. This evening it will be cloudy."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Sólin kemur upp klukkan tíu og sest klukkan fjórtán mínútur í fjögur.",
+      "translation": "The sun rises at ten o'clock and sets at fourteen minutes to four."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Viðburðir.",
+      "translation": "Events."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Föstudaginn tuttugasta nóvember eru tónleikar í Hofi á Akureyri. Þar er flutt tónlist eftir George Michael. Tónleikarnir byrja klukkan átta um kvöldið.",
+      "translation": "On Friday the twentieth of November there is a concert at Hof in Akureyri. Music by George Michael is performed there. The concert starts at eight in the evening."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fréttir dagsins.",
+      "translation": "Today's news."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Ísland spilar við Lúxemborg í fótbolta í dag, á Laugardalsvelli. Með sigri eða jafntefli fer Ísland upp í B-deild. Þetta gæti verið síðasti landsleikur Arons Einars Gunnarssonar.",
+      "translation": "Iceland plays Luxembourg in football today, at Laugardalsvöllur. With a win or a draw, Iceland goes up to League B. This could be Aron Einar Gunnarsson's last international match."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimm orð dagsins.",
+      "translation": "Five words of the day."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fyrsta orðið er karlkynsorð.",
+      "translation": "The first word is a masculine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "kuldi",
+      "translation": "cold"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Cold, coldness.",
+      "translation": "Cold, coldness."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Það er mikill kuldi í dag.",
+      "translation": "It is very cold today."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "It is very cold today.",
+      "translation": "It is very cold today."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Annað orðið er hvorugkynsorð.",
+      "translation": "The second word is a neuter noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "sólsetur",
+      "translation": "sunset"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Sunset.",
+      "translation": "Sunset."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Sólsetrið er snemma í nóvember.",
+      "translation": "Sunset is early in November."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Sunset is early in November.",
+      "translation": "Sunset is early in November."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Þriðja orðið er karlkynsorð.",
+      "translation": "The third word is a masculine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "landsleikur",
+      "translation": "international match"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "International match.",
+      "translation": "International match."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Ísland spilar landsleik í dag.",
+      "translation": "Iceland plays an international match today."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Iceland plays an international match today.",
+      "translation": "Iceland plays an international match today."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fjórða orðið er karlkynsorð.",
+      "translation": "The fourth word is a masculine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "söngvari",
+      "translation": "singer"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Singer.",
+      "translation": "Singer."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Söngvarinn syngur í Hofi.",
+      "translation": "The singer sings at Hof."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "The singer sings at Hof.",
+      "translation": "The singer sings at Hof."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimmta orðið er sögn.",
+      "translation": "The fifth word is a verb."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "að klæða sig",
+      "translation": "to get dressed"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "To get dressed.",
+      "translation": "To get dressed."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Klæddu þig vel í dag.",
+      "translation": "Dress warmly today."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Dress warmly today.",
+      "translation": "Dress warmly today."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Setning dagsins.",
+      "translation": "Sentence of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Ég þarf að skafa bílinn áður en ég fer í vinnuna.",
+      "translation": "I need to scrape the car before I go to work."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "I need to scrape the car before I go to work.",
+      "translation": "I need to scrape the car before I go to work."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Ég þarf að skafa bílinn áður en ég fer í vinnuna.",
+      "translation": "I need to scrape the car before I go to work."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Orðasambönd dagsins.",
+      "translation": "Phrases of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "að skafa bílinn",
+      "translation": "to scrape the car"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "To scrape the car.",
+      "translation": "To scrape the car."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "áður en",
+      "translation": "before"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Before.",
+      "translation": "Before."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "ég fer í vinnuna",
+      "translation": "I go to work"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "I go to work.",
+      "translation": "I go to work."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Klæddu þig vel og eigðu góðan mánudag! Bless bless.",
+      "translation": "Dress warmly and have a good Monday! Bye bye."
+    }
+  ],
+  "words": [
+    {
+      "icelandic": "kuldi",
+      "english": "cold, coldness"
+    },
+    {
+      "icelandic": "sólsetur",
+      "english": "sunset"
+    },
+    {
+      "icelandic": "landsleikur",
+      "english": "international match"
+    },
+    {
+      "icelandic": "söngvari",
+      "english": "singer"
+    },
+    {
+      "icelandic": "að klæða sig",
+      "english": "to get dressed"
+    }
+  ],
+  "sentence": {
+    "icelandic": "Ég þarf að skafa bílinn áður en ég fer í vinnuna.",
+    "english": "I need to scrape the car before I go to work."
+  },
+  "phrases": [
+    {
+      "icelandic": "að skafa bílinn",
+      "english": "to scrape the car"
+    },
+    {
+      "icelandic": "áður en",
+      "english": "before"
+    },
+    {
+      "icelandic": "ég fer í vinnuna",
+      "english": "I go to work"
+    }
+  ],
+  "news_links": [
+    "https://www.visitakureyri.is/en/whats-on/mak-celebrating-george-michael-1",
+    "https://www.ruv.is/frettir/ithrottir/2026-11-15-minutu-thogn-fyrir-leik-og-leikmenn-bera-sorgarbond-492858/",
+    "https://www.ruv.is/frettir/ithrottir/2026-11-16-aron-getur-jafnad-leikjametid-thad-eru-miklar-tilfinningar-492852/"
+  ]
+}

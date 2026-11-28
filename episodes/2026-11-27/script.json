@@ -1,0 +1,368 @@
+{
+  "title": "Föstudagur í Húsavík",
+  "segments": [
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Góðan daginn frá Húsavík. Í dag er föstudagurinn tuttugasti og sjöundi nóvember. Klukkan er rúmlega hálf sjö.",
+      "translation": "Good morning from Húsavík. Today is Friday the twenty-seventh of November. It is just after half past six."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Veðrið í dag.",
+      "translation": "The weather today."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í morgun er skýjað og hitinn er fimm til sex gráður. Það er hvasst af suðaustri, þrettán til fjórtán metrar á sekúndu.",
+      "translation": "This morning it is cloudy and the temperature is five to six degrees. It is windy from the south-east, thirteen to fourteen metres per second."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í dag er alskýjað og hitinn fimm til sex gráður. Eftir hádegi minnkar vindurinn, sjö til átta metrar á sekúndu. Í kvöld léttir til og kólnar niður í þrjár gráður. Engin úrkoma er í spánni.",
+      "translation": "Today it is overcast and five to six degrees. In the afternoon the wind drops to seven to eight metres per second. In the evening it clears up and cools down to three degrees. No rain or snow is forecast."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Sólin kemur upp átján mínútur í ellefu og sest tíu mínútur yfir þrjú.",
+      "translation": "The sun rises at eighteen minutes to eleven and sets at ten past three."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Frá Norðurþingi.",
+      "translation": "From Norðurþing."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Á miðvikudag varð sjóslys. Þrír skipverjar af Jökli þé há fórust. Norðurþing vottar fjölskyldum þeirra innilega samúð og þakkar öllum sem hjálpuðu við björgunina.",
+      "translation": "On Wednesday there was an accident at sea. Three crew members of Jökull ÞH died. Norðurþing offers their families its deepest sympathy and thanks everyone who helped with the rescue."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Minnum á að Miðgarður er lokaður við Stóragarð í dag. Það er líka þrenging á Garðarsbraut við Hjarðarhól. Lokunin var lengd vegna veðurs.",
+      "translation": "A reminder that Miðgarður is closed at Stóragarður today. The road is also narrowed on Garðarsbraut at Hjarðarhóll. The closure was extended because of the weather."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Viðburðir.",
+      "translation": "Events."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Aðventugleði hefst í dag í Safnahúsinu á Húsavík. Hún heitir Jólabærinn minn og er í dag og á morgun.",
+      "translation": "An Advent celebration starts today at Safnahúsið in Húsavík. It is called My Christmas Town and is on today and tomorrow."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimm orð dagsins.",
+      "translation": "Five words of the day."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fyrsta orðið er karlkynsorð.",
+      "translation": "The first word is a masculine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "morgunn",
+      "translation": "morning"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Morning.",
+      "translation": "Morning."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Morguninn er dimmur og hvass.",
+      "translation": "The morning is dark and windy."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "The morning is dark and windy.",
+      "translation": "The morning is dark and windy."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Annað orðið er kvenkynsorð.",
+      "translation": "The second word is a feminine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "gata",
+      "translation": "street"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Street.",
+      "translation": "Street."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Gatan er lokuð í dag.",
+      "translation": "The street is closed today."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "The street is closed today.",
+      "translation": "The street is closed today."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Þriðja orðið er sögn.",
+      "translation": "The third word is a verb."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "að loka",
+      "translation": "to close"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "To close.",
+      "translation": "To close."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Við lokum klukkan fimm.",
+      "translation": "We close at five o'clock."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "We close at five o'clock.",
+      "translation": "We close at five o'clock."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fjórða orðið er hvorugkynsorð.",
+      "translation": "The fourth word is a neuter noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "safn",
+      "translation": "museum"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Museum.",
+      "translation": "Museum."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Safnið er opið í dag.",
+      "translation": "The museum is open today."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "The museum is open today.",
+      "translation": "The museum is open today."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimmta orðið er kvenkynsorð.",
+      "translation": "The fifth word is a feminine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "samúð",
+      "translation": "sympathy"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Sympathy.",
+      "translation": "Sympathy."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Ég votta þér samúð mína.",
+      "translation": "I offer you my condolences."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "I offer you my condolences.",
+      "translation": "I offer you my condolences."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Setning dagsins.",
+      "translation": "Sentence of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Veistu hvort safnið er opið í dag?",
+      "translation": "Do you know if the museum is open today?"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Do you know if the museum is open today?",
+      "translation": "Do you know if the museum is open today?"
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Veistu hvort safnið er opið í dag?",
+      "translation": "Do you know if the museum is open today?"
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Orðasambönd dagsins.",
+      "translation": "Phrases of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Veistu hvort",
+      "translation": "Do you know if"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Do you know if.",
+      "translation": "Do you know if."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "opið í dag",
+      "translation": "open today"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Open today.",
+      "translation": "Open today."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Eigðu góðan og rólegan föstudag. Bless bless.",
+      "translation": "Have a good and peaceful Friday. Bye bye."
+    }
+  ],
+  "words": [
+    {
+      "icelandic": "morgunn",
+      "english": "morning"
+    },
+    {
+      "icelandic": "gata",
+      "english": "street"
+    },
+    {
+      "icelandic": "að loka",
+      "english": "to close"
+    },
+    {
+      "icelandic": "safn",
+      "english": "museum"
+    },
+    {
+      "icelandic": "samúð",
+      "english": "sympathy"
+    }
+  ],
+  "sentence": {
+    "icelandic": "Veistu hvort safnið er opið í dag?",
+    "english": "Do you know if the museum is open today?"
+  },
+  "phrases": [
+    {
+      "icelandic": "Veistu hvort",
+      "english": "Do you know if"
+    },
+    {
+      "icelandic": "opið í dag",
+      "english": "open today"
+    }
+  ],
+  "news_links": [
+    "https://www.nordurthing.is/is/frettir/kvedja",
+    "https://www.nordurthing.is/is/frettir/lokad-fyrir-umferd-vid-midgard-og-threnging-vegar-a-gardarsbraut",
+    "https://www.northiceland.is/is/ferdaupplysingar/vidburdir/jolabaerinn-minn-adventugledi-i-safnahusinu-a-husavik"
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "title": "Hlýr og skýjaður sunnudagur",
+  "segments": [
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Góðan daginn og velkomin í Dagrenningu frá Húsavík.",
+      "translation": "Good morning and welcome to Dagrenning from Húsavík."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í dag er sunnudagurinn tuttugasti og annar nóvember.",
+      "translation": "Today is Sunday, the twenty-second of November."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Klukkan er rúmlega hálf sjö.",
+      "translation": "It is just after half past six."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Veðrið í dag.",
+      "translation": "The weather today."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í morgun er alskýjað og frekar hlýtt. Hitinn er fimm til sex gráður. Það er suðaustanátt, níu til tíu metrar á sekúndu.",
+      "translation": "This morning it is overcast and fairly mild. The temperature is five to six degrees. There is a southeasterly wind, nine to ten metres per second."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í dag verður líka alskýjað. Hitinn verður fimm til sjö gráður. Vindurinn verður níu til tólf metrar á sekúndu.",
+      "translation": "Today it will also be overcast. The temperature will be five to seven degrees. The wind will be nine to twelve metres per second."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Sólin kemur upp tuttugu og þrjár mínútur yfir tíu og sest tuttugu og sex mínútur yfir þrjú.",
+      "translation": "The sun rises at twenty-three minutes past ten and sets at twenty-six minutes past three."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Viðburðir.",
+      "translation": "Events."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í dag er jólamarkaður á Ráðhústorgi á Akureyri. Hann er opinn frá klukkan tvö til fimm. Aðgangur er ókeypis.",
+      "translation": "Today there is a Christmas market on Ráðhústorg square in Akureyri. It is open from two to five o'clock. Admission is free."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Á laugardaginn, tuttugasta og áttunda nóvember, heldur Issi tónleika á Græna hattinum á Akureyri. Tónleikarnir byrja klukkan níu um kvöldið. Hann fagnar því að fimm ár eru síðan fyrsta lagið hans kom út.",
+      "translation": "On Saturday, the twenty-eighth of November, ISSI gives a concert at Græni Hatturinn in Akureyri. The concert starts at nine in the evening. He is celebrating five years since his first song came out."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fréttir dagsins.",
+      "translation": "Today's news."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Matvælastofnun varar við hveiti frá dönsku fyrirtæki. Hveitið er selt undir nöfnunum Kornax, First Price og Euroshopper. Fólk þarf samt ekki að hafa áhyggjur.",
+      "translation": "The Icelandic Food and Veterinary Authority warns about flour from a Danish company. The flour is sold under the names Kornax, First Price and Euroshopper. But people do not need to worry."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimm orð dagsins.",
+      "translation": "Five words of the day."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fyrsta orðið er kvenkynsorð.",
+      "translation": "The first word is a feminine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "suðaustanátt",
+      "translation": "southeasterly wind"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Southeasterly wind.",
+      "translation": "Southeasterly wind."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Í dag er suðaustanátt.",
+      "translation": "Today there is a southeasterly wind."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Today there is a southeasterly wind.",
+      "translation": "Today there is a southeasterly wind."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Annað orðið er hvorugkynsorð.",
+      "translation": "The second word is a neuter noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "hveiti",
+      "translation": "flour"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Flour.",
+      "translation": "Flour."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Ég kaupi hveiti í búðinni.",
+      "translation": "I buy flour in the shop."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "I buy flour in the shop.",
+      "translation": "I buy flour in the shop."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Þriðja orðið er hvorugkynsorð.",
+      "translation": "The third word is a neuter noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "torg",
+      "translation": "square"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Square, as in a town square.",
+      "translation": "Square, as in a town square."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Markaðurinn er á torginu.",
+      "translation": "The market is on the square."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "The market is on the square.",
+      "translation": "The market is on the square."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fjórða orðið er hvorugkynsorð.",
+      "translation": "The fourth word is a neuter noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "myrkur",
+      "translation": "darkness"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Darkness.",
+      "translation": "Darkness."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Á morgnana er myrkur á Húsavík.",
+      "translation": "In the mornings it is dark in Húsavík."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "In the mornings it is dark in Húsavík.",
+      "translation": "In the mornings it is dark in Húsavík."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimmta orðið er sögn.",
+      "translation": "The fifth word is a verb."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "að skila",
+      "translation": "to return"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "To return, to give back.",
+      "translation": "To return, to give back."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Ég skila hveitinu í búðina.",
+      "translation": "I return the flour to the shop."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "I return the flour to the shop.",
+      "translation": "I return the flour to the shop."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Setning dagsins.",
+      "translation": "Sentence of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Hvað kostar þetta og get ég borgað með korti?",
+      "translation": "How much does this cost, and can I pay by card?"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "How much does this cost, and can I pay by card?",
+      "translation": "How much does this cost, and can I pay by card?"
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Hvað kostar þetta og get ég borgað með korti?",
+      "translation": "How much does this cost, and can I pay by card?"
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Orðasambönd dagsins.",
+      "translation": "Phrases of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Hvað kostar þetta?",
+      "translation": "How much does this cost?"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "How much does this cost?",
+      "translation": "How much does this cost?"
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "get ég borgað",
+      "translation": "can I pay"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Can I pay.",
+      "translation": "Can I pay."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "með korti",
+      "translation": "by card"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "By card.",
+      "translation": "By card."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Eigðu góðan sunnudag! Bless bless.",
+      "translation": "Have a good Sunday! Bye bye."
+    }
+  ],
+  "words": [
+    {
+      "icelandic": "suðaustanátt",
+      "english": "southeasterly wind"
+    },
+    {
+      "icelandic": "hveiti",
+      "english": "flour"
+    },
+    {
+      "icelandic": "torg",
+      "english": "square (town square)"
+    },
+    {
+      "icelandic": "myrkur",
+      "english": "darkness"
+    },
+    {
+      "icelandic": "að skila",
+      "english": "to return, to give back"
+    }
+  ],
+  "sentence": {
+    "icelandic": "Hvað kostar þetta og get ég borgað með korti?",
+    "english": "How much does this cost, and can I pay by card?"
+  },
+  "phrases": [
+    {
+      "icelandic": "Hvað kostar þetta?",
+      "english": "How much does this cost?"
+    },
+    {
+      "icelandic": "get ég borgað",
+      "english": "can I pay"
+    },
+    {
+      "icelandic": "með korti",
+      "english": "by card"
+    }
+  ],
+  "news_links": [
+    "https://www.visitakureyri.is/en/whats-on/jolatorg-akureyrar-7",
+    "https://www.visitakureyri.is/en/whats-on/issi-fra-ak-til-o",
+    "https://www.ruv.is/frettir/innlent/2026-11-21-folk-tharf-ekki-ad-hafa-ahyggjur-thott-myglueitur-hafi-maelst-yfir-morkum-493482/"
+  ]
+}

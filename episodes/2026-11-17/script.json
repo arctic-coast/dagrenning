@@ -1,0 +1,393 @@
+{
+  "title": "Frost og jólaljós",
+  "segments": [
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Góðan daginn frá Húsavík. Í dag er þriðjudagurinn sautjándi nóvember. Klukkan er rúmlega hálf sjö.",
+      "translation": "Good morning from Húsavík. Today is Tuesday the seventeenth of November. It is just after half past six."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Veðrið í dag.",
+      "translation": "The weather today."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í morgun er alskýjað. Hitinn er mínus fjórar gráður. Vindurinn er af suðaustri, fjórir til sex metrar á sekúndu.",
+      "translation": "This morning it is overcast. The temperature is minus four degrees. The wind is from the southeast, four to six metres per second."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í dag verður líka alskýjað. Hitinn verður mínus fjórar gráður allan daginn. Það á ekki að snjóa.",
+      "translation": "Today it will also be overcast. The temperature will be minus four degrees all day. It is not supposed to snow."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Sólin kemur upp klukkan fjórar mínútur yfir tíu. Hún sest klukkan sautján mínútur í fjögur.",
+      "translation": "The sun rises at four minutes past ten. It sets at seventeen minutes to four."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Frá Norðurþingi.",
+      "translation": "From Norðurþing."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Föstudaginn tuttugasta og sjöunda nóvember verður kveikt á jólatrénu á Húsavík. Það verður á Vegamótatorgi. Dagskráin hefst klukkan korter yfir fjögur. Það verður heitt kakó og kleinur til sölu. Enginn posi er á staðnum, svo taktu með þér peninga.",
+      "translation": "On Friday the twenty-seventh of November the lights on the Christmas tree in Húsavík will be switched on. It will be at Vegamótatorg. The programme starts at a quarter past four. Hot cocoa and kleinur will be for sale. There is no card reader there, so bring cash."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Viðburðir.",
+      "translation": "Events."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Sunnudaginn tuttugasta og annan nóvember er Jólailmur í Hofi á Akureyri. Þar verður matur og markaður.",
+      "translation": "On Sunday the twenty-second of November there is Jólailmur, Christmas Scent, at Hof in Akureyri. There will be food and a market."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fréttir dagsins.",
+      "translation": "Today's news."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Ísland vann Lúxemborg þrjú núll í fótbolta í gærkvöldi. Þetta var síðasti landsleikur Arons Einars Gunnarssonar. Hann spilaði hundrað og þrettán landsleiki.",
+      "translation": "Iceland beat Luxembourg three nil in football last night. It was Aron Einar Gunnarsson's last international match. He played one hundred and thirteen international matches."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimm orð dagsins.",
+      "translation": "Five words of the day."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fyrsta orðið er kvenkynsorð.",
+      "translation": "The first word is a feminine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "gráða",
+      "translation": "degree"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Degree.",
+      "translation": "Degree."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Hitinn er mínus fjórar gráður.",
+      "translation": "The temperature is minus four degrees."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "The temperature is minus four degrees.",
+      "translation": "The temperature is minus four degrees."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Annað orðið er karlkynsorð.",
+      "translation": "The second word is a masculine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "posi",
+      "translation": "card reader"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Card reader, for paying by card.",
+      "translation": "Card reader, for paying by card."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Er posi hérna?",
+      "translation": "Is there a card reader here?"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Is there a card reader here?",
+      "translation": "Is there a card reader here?"
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Þriðja orðið er hvorugkynsorð.",
+      "translation": "The third word is a neuter noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "ský",
+      "translation": "cloud"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Cloud.",
+      "translation": "Cloud."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Það eru mörg ský á himninum.",
+      "translation": "There are many clouds in the sky."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "There are many clouds in the sky.",
+      "translation": "There are many clouds in the sky."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fjórða orðið er sögn.",
+      "translation": "The fourth word is a verb."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "að hefjast",
+      "translation": "to begin"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "To begin, to start.",
+      "translation": "To begin, to start."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Dagskráin hefst klukkan fjögur.",
+      "translation": "The programme begins at four o'clock."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "The programme begins at four o'clock.",
+      "translation": "The programme begins at four o'clock."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimmta orðið er kvenkynsorð.",
+      "translation": "The fifth word is a feminine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "kleina",
+      "translation": "kleina, Icelandic doughnut"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "A traditional Icelandic doughnut.",
+      "translation": "A traditional Icelandic doughnut."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Mig langar í kleinu.",
+      "translation": "I would like a doughnut."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "I would like a doughnut.",
+      "translation": "I would like a doughnut."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Setning dagsins.",
+      "translation": "Sentence of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Afsakið, get ég borgað með korti?",
+      "translation": "Excuse me, can I pay by card?"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Excuse me, can I pay by card?",
+      "translation": "Excuse me, can I pay by card?"
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Afsakið, get ég borgað með korti?",
+      "translation": "Excuse me, can I pay by card?"
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Orðasambönd dagsins.",
+      "translation": "Phrases of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Afsakið",
+      "translation": "Excuse me"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Excuse me.",
+      "translation": "Excuse me."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "get ég borgað",
+      "translation": "can I pay"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Can I pay.",
+      "translation": "Can I pay."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "með korti",
+      "translation": "by card"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "By card.",
+      "translation": "By card."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Klæddu þig vel í frostinu. Eigðu góðan þriðjudag! Bless bless.",
+      "translation": "Dress warmly in the frost. Have a good Tuesday! Bye bye."
+    }
+  ],
+  "words": [
+    {
+      "icelandic": "gráða",
+      "english": "degree"
+    },
+    {
+      "icelandic": "posi",
+      "english": "card reader"
+    },
+    {
+      "icelandic": "ský",
+      "english": "cloud"
+    },
+    {
+      "icelandic": "að hefjast",
+      "english": "to begin"
+    },
+    {
+      "icelandic": "kleina",
+      "english": "traditional Icelandic doughnut"
+    }
+  ],
+  "sentence": {
+    "icelandic": "Afsakið, get ég borgað með korti?",
+    "english": "Excuse me, can I pay by card?"
+  },
+  "phrases": [
+    {
+      "icelandic": "Afsakið",
+      "english": "Excuse me"
+    },
+    {
+      "icelandic": "get ég borgað",
+      "english": "can I pay"
+    },
+    {
+      "icelandic": "með korti",
+      "english": "by card"
+    }
+  ],
+  "news_links": [
+    "https://www.nordurthing.is/is/frettir/tendrun-jolatrjaa-i-nordurthingi-2",
+    "https://www.northiceland.is/is/ferdaupplysingar/vidburdir/jolailmur-i-hofi",
+    "https://www.ruv.is/frettir/ithrottir/2026-11-16-held-ad-min-verdi-minnst-fyrir-thad-ad-leggja-allt-i-solurnar-fyrir-landid-mitt-492972/"
+  ]
+}

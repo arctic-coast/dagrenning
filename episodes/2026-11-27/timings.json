@@ -1,0 +1,2199 @@
+{
+ "duration": 162.22,
+ "segments": [
+  {
+   "index": 0,
+   "lang": "is",
+   "text": "Góðan daginn frá Húsavík. Í dag er föstudagurinn tuttugasti og sjöundi nóvember. Klukkan er rúmlega hálf sjö.",
+   "translation": "Good morning from Húsavík. Today is Friday the twenty-seventh of November. It is just after half past six.",
+   "start": 0.0,
+   "end": 8.124,
+   "words": [
+    {
+     "text": "Góðan",
+     "at": 0,
+     "start": 0.0,
+     "end": 0.32
+    },
+    {
+     "text": "daginn",
+     "at": 6,
+     "start": 0.4,
+     "end": 0.72
+    },
+    {
+     "text": "frá",
+     "at": 13,
+     "start": 0.8,
+     "end": 0.96
+    },
+    {
+     "text": "Húsavík",
+     "at": 17,
+     "start": 1.0,
+     "end": 2.0
+    },
+    {
+     "text": "Í",
+     "at": 26,
+     "start": 2.08,
+     "end": 2.16
+    },
+    {
+     "text": "dag",
+     "at": 28,
+     "start": 2.24,
+     "end": 2.56
+    },
+    {
+     "text": "er",
+     "at": 32,
+     "start": 2.64,
+     "end": 2.72
+    },
+    {
+     "text": "föstudagurinn",
+     "at": 35,
+     "start": 2.8,
+     "end": 3.6
+    },
+    {
+     "text": "tuttugasti",
+     "at": 49,
+     "start": 3.68,
+     "end": 4.24
+    },
+    {
+     "text": "og",
+     "at": 60,
+     "start": 4.32,
+     "end": 4.4
+    },
+    {
+     "text": "sjöundi",
+     "at": 63,
+     "start": 4.44,
+     "end": 4.8
+    },
+    {
+     "text": "nóvember",
+     "at": 71,
+     "start": 4.88,
+     "end": 5.92
+    },
+    {
+     "text": "Klukkan",
+     "at": 81,
+     "start": 5.96,
+     "end": 6.4
+    },
+    {
+     "text": "er",
+     "at": 89,
+     "start": 6.48,
+     "end": 6.56
+    },
+    {
+     "text": "rúmlega",
+     "at": 92,
+     "start": 6.64,
+     "end": 7.04
+    },
+    {
+     "text": "hálf",
+     "at": 100,
+     "start": 7.12,
+     "end": 7.36
+    },
+    {
+     "text": "sjö",
+     "at": 105,
+     "start": 7.52,
+     "end": 8.08
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "lang": "is",
+   "text": "Veðrið í dag.",
+   "translation": "The weather today.",
+   "start": 8.411,
+   "end": 10.057,
+   "words": [
+    {
+     "text": "Veðrið",
+     "at": 0,
+     "start": 8.411,
+     "end": 8.891
+    },
+    {
+     "text": "í",
+     "at": 7,
+     "start": 8.931,
+     "end": 8.971
+    },
+    {
+     "text": "dag",
+     "at": 9,
+     "start": 9.051,
+     "end": 10.011
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "lang": "is",
+   "text": "Í morgun er skýjað og hitinn er fimm til sex gráður. Það er hvasst af suðaustri, þrettán til fjórtán metrar á sekúndu.",
+   "translation": "This morning it is cloudy and the temperature is five to six degrees. It is windy from the south-east, thirteen to fourteen metres per second.",
+   "start": 10.344,
+   "end": 19.984,
+   "words": [
+    {
+     "text": "Í",
+     "at": 0,
+     "start": 10.344,
+     "end": 10.424
+    },
+    {
+     "text": "morgun",
+     "at": 2,
+     "start": 10.504,
+     "end": 10.904
+    },
+    {
+     "text": "er",
+     "at": 9,
+     "start": 10.984,
+     "end": 11.064
+    },
+    {
+     "text": "skýjað",
+     "at": 12,
+     "start": 11.144,
+     "end": 11.864
+    },
+    {
+     "text": "og",
+     "at": 19,
+     "start": 11.944,
+     "end": 12.024
+    },
+    {
+     "text": "hitinn",
+     "at": 22,
+     "start": 12.104,
+     "end": 12.424
+    },
+    {
+     "text": "er",
+     "at": 29,
+     "start": 12.504,
+     "end": 12.664
+    },
+    {
+     "text": "fimm",
+     "at": 32,
+     "start": 12.704,
+     "end": 12.984
+    },
+    {
+     "text": "til",
+     "at": 37,
+     "start": 13.104,
+     "end": 13.224
+    },
+    {
+     "text": "sex",
+     "at": 41,
+     "start": 13.384,
+     "end": 13.544
+    },
+    {
+     "text": "gráður",
+     "at": 45,
+     "start": 13.624,
+     "end": 14.684
+    },
+    {
+     "text": "Það",
+     "at": 53,
+     "start": 14.704,
+     "end": 14.784
+    },
+    {
+     "text": "er",
+     "at": 57,
+     "start": 14.824,
+     "end": 14.904
+    },
+    {
+     "text": "hvasst",
+     "at": 60,
+     "start": 14.984,
+     "end": 15.384
+    },
+    {
+     "text": "af",
+     "at": 67,
+     "start": 15.464,
+     "end": 15.624
+    },
+    {
+     "text": "suðaustri",
+     "at": 70,
+     "start": 15.704,
+     "end": 16.824
+    },
+    {
+     "text": "þrettán",
+     "at": 81,
+     "start": 16.904,
+     "end": 17.304
+    },
+    {
+     "text": "til",
+     "at": 89,
+     "start": 17.384,
+     "end": 17.544
+    },
+    {
+     "text": "fjórtán",
+     "at": 93,
+     "start": 17.624,
+     "end": 18.024
+    },
+    {
+     "text": "metrar",
+     "at": 101,
+     "start": 18.104,
+     "end": 18.504
+    },
+    {
+     "text": "á",
+     "at": 108,
+     "start": 18.584,
+     "end": 18.664
+    },
+    {
+     "text": "sekúndu",
+     "at": 110,
+     "start": 18.744,
+     "end": 20.024
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "lang": "is",
+   "text": "Í dag er alskýjað og hitinn fimm til sex gráður. Eftir hádegi minnkar vindurinn, sjö til átta metrar á sekúndu. Í kvöld léttir til og kólnar niður í þrjár gráður. Engin úrkoma er í spánni.",
+   "translation": "Today it is overcast and five to six degrees. In the afternoon the wind drops to seven to eight metres per second. In the evening it clears up and cools down to three degrees. No rain or snow is forecast.",
+   "start": 20.271,
+   "end": 35.657,
+   "words": [
+    {
+     "text": "Í",
+     "at": 0,
+     "start": 20.271,
+     "end": 20.351
+    },
+    {
+     "text": "dag",
+     "at": 2,
+     "start": 20.431,
+     "end": 20.751
+    },
+    {
+     "text": "er",
+     "at": 6,
+     "start": 20.831,
+     "end": 20.991
+    },
+    {
+     "text": "alskýjað",
+     "at": 9,
+     "start": 21.151,
+     "end": 21.791
+    },
+    {
+     "text": "og",
+     "at": 18,
+     "start": 21.871,
+     "end": 21.951
+    },
+    {
+     "text": "hitinn",
+     "at": 21,
+     "start": 22.111,
+     "end": 22.511
+    },
+    {
+     "text": "fimm",
+     "at": 28,
+     "start": 22.591,
+     "end": 22.831
+    },
+    {
+     "text": "til",
+     "at": 33,
+     "start": 22.951,
+     "end": 23.071
+    },
+    {
+     "text": "sex",
+     "at": 37,
+     "start": 23.231,
+     "end": 23.391
+    },
+    {
+     "text": "gráður",
+     "at": 41,
+     "start": 23.471,
+     "end": 24.471
+    },
+    {
+     "text": "Eftir",
+     "at": 49,
+     "start": 24.511,
+     "end": 24.831
+    },
+    {
+     "text": "hádegi",
+     "at": 55,
+     "start": 24.871,
+     "end": 25.391
+    },
+    {
+     "text": "minnkar",
+     "at": 62,
+     "start": 25.471,
+     "end": 25.871
+    },
+    {
+     "text": "vindurinn",
+     "at": 70,
+     "start": 25.911,
+     "end": 26.711
+    },
+    {
+     "text": "sjö",
+     "at": 81,
+     "start": 26.751,
+     "end": 26.991
+    },
+    {
+     "text": "til",
+     "at": 85,
+     "start": 27.071,
+     "end": 27.231
+    },
+    {
+     "text": "átta",
+     "at": 89,
+     "start": 27.311,
+     "end": 27.551
+    },
+    {
+     "text": "metrar",
+     "at": 94,
+     "start": 27.631,
+     "end": 27.951
+    },
+    {
+     "text": "á",
+     "at": 101,
+     "start": 28.031,
+     "end": 28.111
+    },
+    {
+     "text": "sekúndu",
+     "at": 103,
+     "start": 28.231,
+     "end": 29.391
+    },
+    {
+     "text": "Í",
+     "at": 112,
+     "start": 29.471,
+     "end": 29.551
+    },
+    {
+     "text": "kvöld",
+     "at": 114,
+     "start": 29.631,
+     "end": 29.951
+    },
+    {
+     "text": "léttir",
+     "at": 120,
+     "start": 30.031,
+     "end": 30.431
+    },
+    {
+     "text": "til",
+     "at": 127,
+     "start": 30.631,
+     "end": 30.831
+    },
+    {
+     "text": "og",
+     "at": 131,
+     "start": 30.911,
+     "end": 30.991
+    },
+    {
+     "text": "kólnar",
+     "at": 134,
+     "start": 31.071,
+     "end": 31.471
+    },
+    {
+     "text": "niður",
+     "at": 141,
+     "start": 31.551,
+     "end": 31.871
+    },
+    {
+     "text": "í",
+     "at": 147,
+     "start": 32.031,
+     "end": 32.058
+    },
+    {
+     "text": "þrjár",
+     "at": 149,
+     "start": 32.084,
+     "end": 32.431
+    },
+    {
+     "text": "gráður",
+     "at": 155,
+     "start": 32.511,
+     "end": 33.351
+    },
+    {
+     "text": "Engin",
+     "at": 163,
+     "start": 33.391,
+     "end": 33.791
+    },
+    {
+     "text": "úrkoma",
+     "at": 169,
+     "start": 33.871,
+     "end": 34.271
+    },
+    {
+     "text": "er",
+     "at": 176,
+     "start": 34.351,
+     "end": 34.431
+    },
+    {
+     "text": "í",
+     "at": 179,
+     "start": 34.511,
+     "end": 34.551
+    },
+    {
+     "text": "spánni",
+     "at": 181,
+     "start": 34.591,
+     "end": 35.711
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "lang": "is",
+   "text": "Sólin kemur upp átján mínútur í ellefu og sest tíu mínútur yfir þrjú.",
+   "translation": "The sun rises at eighteen minutes to eleven and sets at ten past three.",
+   "start": 35.944,
+   "end": 41.744,
+   "words": [
+    {
+     "text": "Sólin",
+     "at": 0,
+     "start": 35.944,
+     "end": 36.424
+    },
+    {
+     "text": "kemur",
+     "at": 6,
+     "start": 36.504,
+     "end": 36.744
+    },
+    {
+     "text": "upp",
+     "at": 12,
+     "start": 36.824,
+     "end": 37.144
+    },
+    {
+     "text": "átján",
+     "at": 16,
+     "start": 37.304,
+     "end": 37.544
+    },
+    {
+     "text": "mínútur",
+     "at": 22,
+     "start": 37.624,
+     "end": 38.024
+    },
+    {
+     "text": "í",
+     "at": 30,
+     "start": 38.064,
+     "end": 38.104
+    },
+    {
+     "text": "ellefu",
+     "at": 32,
+     "start": 38.184,
+     "end": 38.664
+    },
+    {
+     "text": "og",
+     "at": 39,
+     "start": 38.904,
+     "end": 39.064
+    },
+    {
+     "text": "sest",
+     "at": 42,
+     "start": 39.184,
+     "end": 39.544
+    },
+    {
+     "text": "tíu",
+     "at": 47,
+     "start": 39.624,
+     "end": 39.864
+    },
+    {
+     "text": "mínútur",
+     "at": 51,
+     "start": 39.944,
+     "end": 40.424
+    },
+    {
+     "text": "yfir",
+     "at": 59,
+     "start": 40.504,
+     "end": 40.744
+    },
+    {
+     "text": "þrjú",
+     "at": 64,
+     "start": 40.824,
+     "end": 41.704
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "lang": "is",
+   "text": "Frá Norðurþingi.",
+   "translation": "From Norðurþing.",
+   "start": 42.031,
+   "end": 43.912,
+   "words": [
+    {
+     "text": "Frá",
+     "at": 0,
+     "start": 42.031,
+     "end": 42.271
+    },
+    {
+     "text": "Norðurþingi",
+     "at": 4,
+     "start": 42.351,
+     "end": 43.871
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "lang": "is",
+   "text": "Á miðvikudag varð sjóslys. Þrír skipverjar af Jökli þé há fórust. Norðurþing vottar fjölskyldum þeirra innilega samúð og þakkar öllum sem hjálpuðu við björgunina.",
+   "translation": "On Wednesday there was an accident at sea. Three crew members of Jökull ÞH died. Norðurþing offers their families its deepest sympathy and thanks everyone who helped with the rescue.",
+   "start": 44.199,
+   "end": 57.6,
+   "words": [
+    {
+     "text": "Á",
+     "at": 0,
+     "start": 44.199,
+     "end": 44.359
+    },
+    {
+     "text": "miðvikudag",
+     "at": 2,
+     "start": 44.439,
+     "end": 45.239
+    },
+    {
+     "text": "varð",
+     "at": 13,
+     "start": 45.319,
+     "end": 45.559
+    },
+    {
+     "text": "sjóslys",
+     "at": 18,
+     "start": 45.639,
+     "end": 46.959
+    },
+    {
+     "text": "Þrír",
+     "at": 27,
+     "start": 46.999,
+     "end": 47.399
+    },
+    {
+     "text": "skipverjar",
+     "at": 32,
+     "start": 47.479,
+     "end": 48.119
+    },
+    {
+     "text": "af",
+     "at": 43,
+     "start": 48.199,
+     "end": 48.359
+    },
+    {
+     "text": "Jökli",
+     "at": 46,
+     "start": 48.399,
+     "end": 48.839
+    },
+    {
+     "text": "þé",
+     "at": 52,
+     "start": 48.919,
+     "end": 49.079
+    },
+    {
+     "text": "há",
+     "at": 55,
+     "start": 49.119,
+     "end": 49.319
+    },
+    {
+     "text": "fórust",
+     "at": 58,
+     "start": 49.399,
+     "end": 50.639
+    },
+    {
+     "text": "Norðurþing",
+     "at": 66,
+     "start": 50.679,
+     "end": 51.399
+    },
+    {
+     "text": "vottar",
+     "at": 77,
+     "start": 51.479,
+     "end": 51.879
+    },
+    {
+     "text": "fjölskyldum",
+     "at": 84,
+     "start": 51.919,
+     "end": 52.439
+    },
+    {
+     "text": "þeirra",
+     "at": 96,
+     "start": 52.519,
+     "end": 52.919
+    },
+    {
+     "text": "innilega",
+     "at": 103,
+     "start": 52.999,
+     "end": 53.559
+    },
+    {
+     "text": "samúð",
+     "at": 112,
+     "start": 53.639,
+     "end": 54.359
+    },
+    {
+     "text": "og",
+     "at": 118,
+     "start": 54.439,
+     "end": 54.519
+    },
+    {
+     "text": "þakkar",
+     "at": 121,
+     "start": 54.559,
+     "end": 54.919
+    },
+    {
+     "text": "öllum",
+     "at": 128,
+     "start": 54.999,
+     "end": 55.399
+    },
+    {
+     "text": "sem",
+     "at": 134,
+     "start": 55.479,
+     "end": 55.639
+    },
+    {
+     "text": "hjálpuðu",
+     "at": 138,
+     "start": 55.679,
+     "end": 56.119
+    },
+    {
+     "text": "við",
+     "at": 147,
+     "start": 56.199,
+     "end": 56.306
+    },
+    {
+     "text": "björgunina",
+     "at": 151,
+     "start": 56.332,
+     "end": 57.639
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "lang": "is",
+   "text": "Minnum á að Miðgarður er lokaður við Stóragarð í dag. Það er líka þrenging á Garðarsbraut við Hjarðarhól. Lokunin var lengd vegna veðurs.",
+   "translation": "A reminder that Miðgarður is closed at Stóragarður today. The road is also narrowed on Garðarsbraut at Hjarðarhóll. The closure was extended because of the weather.",
+   "start": 57.887,
+   "end": 68.963,
+   "words": [
+    {
+     "text": "Minnum",
+     "at": 0,
+     "start": 57.887,
+     "end": 58.287
+    },
+    {
+     "text": "á",
+     "at": 7,
+     "start": 58.527,
+     "end": 58.687
+    },
+    {
+     "text": "að",
+     "at": 9,
+     "start": 58.767,
+     "end": 58.887
+    },
+    {
+     "text": "Miðgarður",
+     "at": 12,
+     "start": 58.927,
+     "end": 59.647
+    },
+    {
+     "text": "er",
+     "at": 22,
+     "start": 59.727,
+     "end": 59.807
+    },
+    {
+     "text": "lokaður",
+     "at": 25,
+     "start": 59.887,
+     "end": 60.447
+    },
+    {
+     "text": "við",
+     "at": 33,
+     "start": 60.527,
+     "end": 60.687
+    },
+    {
+     "text": "Stóragarð",
+     "at": 37,
+     "start": 60.767,
+     "end": 61.327
+    },
+    {
+     "text": "í",
+     "at": 47,
+     "start": 61.407,
+     "end": 61.447
+    },
+    {
+     "text": "dag",
+     "at": 49,
+     "start": 61.487,
+     "end": 62.467
+    },
+    {
+     "text": "Það",
+     "at": 54,
+     "start": 62.487,
+     "end": 62.567
+    },
+    {
+     "text": "er",
+     "at": 58,
+     "start": 62.607,
+     "end": 62.687
+    },
+    {
+     "text": "líka",
+     "at": 61,
+     "start": 62.767,
+     "end": 63.087
+    },
+    {
+     "text": "þrenging",
+     "at": 66,
+     "start": 63.127,
+     "end": 63.647
+    },
+    {
+     "text": "á",
+     "at": 75,
+     "start": 63.807,
+     "end": 63.847
+    },
+    {
+     "text": "Garðarsbraut",
+     "at": 77,
+     "start": 63.887,
+     "end": 64.607
+    },
+    {
+     "text": "við",
+     "at": 90,
+     "start": 64.687,
+     "end": 64.807
+    },
+    {
+     "text": "Hjarðarhól",
+     "at": 94,
+     "start": 64.847,
+     "end": 66.087
+    },
+    {
+     "text": "Lokunin",
+     "at": 106,
+     "start": 66.127,
+     "end": 66.687
+    },
+    {
+     "text": "var",
+     "at": 114,
+     "start": 66.807,
+     "end": 66.927
+    },
+    {
+     "text": "lengd",
+     "at": 118,
+     "start": 66.967,
+     "end": 67.327
+    },
+    {
+     "text": "vegna",
+     "at": 124,
+     "start": 67.407,
+     "end": 67.647
+    },
+    {
+     "text": "veðurs",
+     "at": 130,
+     "start": 67.727,
+     "end": 69.007
+    }
+   ]
+  },
+  {
+   "index": 8,
+   "lang": "is",
+   "text": "Viðburðir.",
+   "translation": "Events.",
+   "start": 69.251,
+   "end": 70.896,
+   "words": [
+    {
+     "text": "Viðburðir",
+     "at": 0,
+     "start": 69.251,
+     "end": 70.851
+    }
+   ]
+  },
+  {
+   "index": 9,
+   "lang": "is",
+   "text": "Aðventugleði hefst í dag í Safnahúsinu á Húsavík. Hún heitir Jólabærinn minn og er í dag og á morgun.",
+   "translation": "An Advent celebration starts today at Safnahúsið in Húsavík. It is called My Christmas Town and is on today and tomorrow.",
+   "start": 71.184,
+   "end": 79.621,
+   "words": [
+    {
+     "text": "Aðventugleði",
+     "at": 0,
+     "start": 71.184,
+     "end": 72.144
+    },
+    {
+     "text": "hefst",
+     "at": 13,
+     "start": 72.224,
+     "end": 72.464
+    },
+    {
+     "text": "í",
+     "at": 19,
+     "start": 72.544,
+     "end": 72.624
+    },
+    {
+     "text": "dag",
+     "at": 21,
+     "start": 72.824,
+     "end": 73.024
+    },
+    {
+     "text": "í",
+     "at": 25,
+     "start": 73.184,
+     "end": 73.211
+    },
+    {
+     "text": "Safnahúsinu",
+     "at": 27,
+     "start": 73.237,
+     "end": 74.064
+    },
+    {
+     "text": "á",
+     "at": 39,
+     "start": 74.224,
+     "end": 74.251
+    },
+    {
+     "text": "Húsavík",
+     "at": 41,
+     "start": 74.277,
+     "end": 75.384
+    },
+    {
+     "text": "Hún",
+     "at": 50,
+     "start": 75.424,
+     "end": 75.584
+    },
+    {
+     "text": "heitir",
+     "at": 54,
+     "start": 75.704,
+     "end": 75.984
+    },
+    {
+     "text": "Jólabærinn",
+     "at": 61,
+     "start": 76.024,
+     "end": 76.704
+    },
+    {
+     "text": "minn",
+     "at": 72,
+     "start": 76.944,
+     "end": 77.211
+    },
+    {
+     "text": "og",
+     "at": 77,
+     "start": 77.237,
+     "end": 77.264
+    },
+    {
+     "text": "er",
+     "at": 80,
+     "start": 77.344,
+     "end": 77.424
+    },
+    {
+     "text": "í",
+     "at": 83,
+     "start": 77.584,
+     "end": 77.744
+    },
+    {
+     "text": "dag",
+     "at": 85,
+     "start": 77.904,
+     "end": 78.064
+    },
+    {
+     "text": "og",
+     "at": 89,
+     "start": 78.144,
+     "end": 78.224
+    },
+    {
+     "text": "á",
+     "at": 92,
+     "start": 78.384,
+     "end": 78.411
+    },
+    {
+     "text": "morgun",
+     "at": 94,
+     "start": 78.437,
+     "end": 79.664
+    }
+   ]
+  },
+  {
+   "index": 10,
+   "lang": "is",
+   "text": "Fimm orð dagsins.",
+   "translation": "Five words of the day.",
+   "start": 79.909,
+   "end": 82.024,
+   "words": [
+    {
+     "text": "Fimm",
+     "at": 0,
+     "start": 79.909,
+     "end": 80.309
+    },
+    {
+     "text": "orð",
+     "at": 5,
+     "start": 80.469,
+     "end": 80.789
+    },
+    {
+     "text": "dagsins",
+     "at": 9,
+     "start": 80.829,
+     "end": 81.989
+    }
+   ]
+  },
+  {
+   "index": 11,
+   "lang": "is",
+   "text": "Fyrsta orðið er karlkynsorð.",
+   "translation": "The first word is a masculine noun.",
+   "start": 82.312,
+   "end": 85.159,
+   "words": [
+    {
+     "text": "Fyrsta",
+     "at": 0,
+     "start": 82.312,
+     "end": 82.792
+    },
+    {
+     "text": "orðið",
+     "at": 7,
+     "start": 82.872,
+     "end": 83.352
+    },
+    {
+     "text": "er",
+     "at": 13,
+     "start": 83.472,
+     "end": 83.592
+    },
+    {
+     "text": "karlkynsorð",
+     "at": 16,
+     "start": 83.712,
+     "end": 85.112
+    }
+   ]
+  },
+  {
+   "index": 12,
+   "lang": "is",
+   "text": "morgunn",
+   "translation": "morning",
+   "start": 85.447,
+   "end": 86.439,
+   "words": [
+    {
+     "text": "morgunn",
+     "at": 0,
+     "start": 85.447,
+     "end": 86.487
+    }
+   ]
+  },
+  {
+   "index": 13,
+   "lang": "en",
+   "text": "Morning.",
+   "translation": "Morning.",
+   "start": 86.883,
+   "end": 87.719,
+   "words": [
+    {
+     "text": "Morning",
+     "at": 0,
+     "start": 86.883,
+     "end": 87.763
+    }
+   ]
+  },
+  {
+   "index": 14,
+   "lang": "is",
+   "text": "Morguninn er dimmur og hvass.",
+   "translation": "The morning is dark and windy.",
+   "start": 88.163,
+   "end": 90.932,
+   "words": [
+    {
+     "text": "Morguninn",
+     "at": 0,
+     "start": 88.163,
+     "end": 88.883
+    },
+    {
+     "text": "er",
+     "at": 10,
+     "start": 89.003,
+     "end": 89.123
+    },
+    {
+     "text": "dimmur",
+     "at": 13,
+     "start": 89.203,
+     "end": 89.763
+    },
+    {
+     "text": "og",
+     "at": 20,
+     "start": 89.843,
+     "end": 90.003
+    },
+    {
+     "text": "hvass",
+     "at": 23,
+     "start": 90.083,
+     "end": 90.963
+    }
+   ]
+  },
+  {
+   "index": 15,
+   "lang": "en",
+   "text": "The morning is dark and windy.",
+   "translation": "The morning is dark and windy.",
+   "start": 91.376,
+   "end": 93.962,
+   "words": [
+    {
+     "text": "The",
+     "at": 0,
+     "start": 91.376,
+     "end": 91.536
+    },
+    {
+     "text": "morning",
+     "at": 4,
+     "start": 91.616,
+     "end": 91.936
+    },
+    {
+     "text": "is",
+     "at": 12,
+     "start": 92.016,
+     "end": 92.256
+    },
+    {
+     "text": "dark",
+     "at": 15,
+     "start": 92.336,
+     "end": 92.736
+    },
+    {
+     "text": "and",
+     "at": 20,
+     "start": 92.896,
+     "end": 93.056
+    },
+    {
+     "text": "windy",
+     "at": 24,
+     "start": 93.136,
+     "end": 94.016
+    }
+   ]
+  },
+  {
+   "index": 16,
+   "lang": "is",
+   "text": "Annað orðið er kvenkynsorð.",
+   "translation": "The second word is a feminine noun.",
+   "start": 94.407,
+   "end": 96.993,
+   "words": [
+    {
+     "text": "Annað",
+     "at": 0,
+     "start": 94.407,
+     "end": 94.807
+    },
+    {
+     "text": "orðið",
+     "at": 6,
+     "start": 94.887,
+     "end": 95.367
+    },
+    {
+     "text": "er",
+     "at": 12,
+     "start": 95.447,
+     "end": 95.607
+    },
+    {
+     "text": "kvenkynsorð",
+     "at": 15,
+     "start": 95.687,
+     "end": 96.967
+    }
+   ]
+  },
+  {
+   "index": 17,
+   "lang": "is",
+   "text": "gata",
+   "translation": "street",
+   "start": 97.28,
+   "end": 98.116,
+   "words": [
+    {
+     "text": "gata",
+     "at": 0,
+     "start": 97.28,
+     "end": 98.16
+    }
+   ]
+  },
+  {
+   "index": 18,
+   "lang": "en",
+   "text": "Street.",
+   "translation": "Street.",
+   "start": 98.56,
+   "end": 99.553,
+   "words": [
+    {
+     "text": "Street",
+     "at": 0,
+     "start": 98.56,
+     "end": 99.52
+    }
+   ]
+  },
+  {
+   "index": 19,
+   "lang": "is",
+   "text": "Gatan er lokuð í dag.",
+   "translation": "The street is closed today.",
+   "start": 99.997,
+   "end": 102.034,
+   "words": [
+    {
+     "text": "Gatan",
+     "at": 0,
+     "start": 99.997,
+     "end": 100.557
+    },
+    {
+     "text": "er",
+     "at": 6,
+     "start": 100.637,
+     "end": 100.717
+    },
+    {
+     "text": "lokuð",
+     "at": 9,
+     "start": 100.797,
+     "end": 101.277
+    },
+    {
+     "text": "í",
+     "at": 15,
+     "start": 101.357,
+     "end": 101.437
+    },
+    {
+     "text": "dag",
+     "at": 17,
+     "start": 101.637,
+     "end": 102.077
+    }
+   ]
+  },
+  {
+   "index": 20,
+   "lang": "en",
+   "text": "The street is closed today.",
+   "translation": "The street is closed today.",
+   "start": 102.478,
+   "end": 104.281,
+   "words": [
+    {
+     "text": "The",
+     "at": 0,
+     "start": 102.478,
+     "end": 102.638
+    },
+    {
+     "text": "street",
+     "at": 4,
+     "start": 102.798,
+     "end": 102.958
+    },
+    {
+     "text": "is",
+     "at": 11,
+     "start": 103.038,
+     "end": 103.118
+    },
+    {
+     "text": "closed",
+     "at": 14,
+     "start": 103.198,
+     "end": 103.518
+    },
+    {
+     "text": "today",
+     "at": 21,
+     "start": 103.758,
+     "end": 104.318
+    }
+   ]
+  },
+  {
+   "index": 21,
+   "lang": "is",
+   "text": "Þriðja orðið er sögn.",
+   "translation": "The third word is a verb.",
+   "start": 104.725,
+   "end": 106.998,
+   "words": [
+    {
+     "text": "Þriðja",
+     "at": 0,
+     "start": 104.725,
+     "end": 105.205
+    },
+    {
+     "text": "orðið",
+     "at": 7,
+     "start": 105.285,
+     "end": 105.765
+    },
+    {
+     "text": "er",
+     "at": 13,
+     "start": 105.845,
+     "end": 106.005
+    },
+    {
+     "text": "sögn",
+     "at": 16,
+     "start": 106.245,
+     "end": 106.965
+    }
+   ]
+  },
+  {
+   "index": 22,
+   "lang": "is",
+   "text": "að loka",
+   "translation": "to close",
+   "start": 107.285,
+   "end": 108.434,
+   "words": [
+    {
+     "text": "að",
+     "at": 0,
+     "start": 107.285,
+     "end": 107.525
+    },
+    {
+     "text": "loka",
+     "at": 3,
+     "start": 107.605,
+     "end": 108.405
+    }
+   ]
+  },
+  {
+   "index": 23,
+   "lang": "en",
+   "text": "To close.",
+   "translation": "To close.",
+   "start": 108.878,
+   "end": 109.949,
+   "words": [
+    {
+     "text": "To",
+     "at": 0,
+     "start": 108.878,
+     "end": 109.038
+    },
+    {
+     "text": "close",
+     "at": 3,
+     "start": 109.118,
+     "end": 109.998
+    }
+   ]
+  },
+  {
+   "index": 24,
+   "lang": "is",
+   "text": "Við lokum klukkan fimm.",
+   "translation": "We close at five o'clock.",
+   "start": 110.393,
+   "end": 112.274,
+   "words": [
+    {
+     "text": "Við",
+     "at": 0,
+     "start": 110.393,
+     "end": 110.593
+    },
+    {
+     "text": "lokum",
+     "at": 4,
+     "start": 110.633,
+     "end": 111.113
+    },
+    {
+     "text": "klukkan",
+     "at": 10,
+     "start": 111.193,
+     "end": 111.513
+    },
+    {
+     "text": "fimm",
+     "at": 18,
+     "start": 111.673,
+     "end": 112.313
+    }
+   ]
+  },
+  {
+   "index": 25,
+   "lang": "en",
+   "text": "We close at five o'clock.",
+   "translation": "We close at five o'clock.",
+   "start": 112.718,
+   "end": 114.599,
+   "words": [
+    {
+     "text": "We",
+     "at": 0,
+     "start": 112.718,
+     "end": 112.878
+    },
+    {
+     "text": "close",
+     "at": 3,
+     "start": 112.958,
+     "end": 113.278
+    },
+    {
+     "text": "at",
+     "at": 9,
+     "start": 113.358,
+     "end": 113.518
+    },
+    {
+     "text": "five",
+     "at": 12,
+     "start": 113.598,
+     "end": 113.758
+    },
+    {
+     "text": "o'clock",
+     "at": 17,
+     "start": 113.838,
+     "end": 114.638
+    }
+   ]
+  },
+  {
+   "index": 26,
+   "lang": "is",
+   "text": "Fjórða orðið er hvorugkynsorð.",
+   "translation": "The fourth word is a neuter noun.",
+   "start": 115.043,
+   "end": 118.047,
+   "words": [
+    {
+     "text": "Fjórða",
+     "at": 0,
+     "start": 115.043,
+     "end": 115.523
+    },
+    {
+     "text": "orðið",
+     "at": 7,
+     "start": 115.603,
+     "end": 116.163
+    },
+    {
+     "text": "er",
+     "at": 13,
+     "start": 116.283,
+     "end": 116.403
+    },
+    {
+     "text": "hvorugkynsorð",
+     "at": 16,
+     "start": 116.563,
+     "end": 118.003
+    }
+   ]
+  },
+  {
+   "index": 27,
+   "lang": "is",
+   "text": "safn",
+   "translation": "museum",
+   "start": 118.335,
+   "end": 119.249,
+   "words": [
+    {
+     "text": "safn",
+     "at": 0,
+     "start": 118.335,
+     "end": 119.295
+    }
+   ]
+  },
+  {
+   "index": 28,
+   "lang": "en",
+   "text": "Museum.",
+   "translation": "Museum.",
+   "start": 119.693,
+   "end": 120.764,
+   "words": [
+    {
+     "text": "Museum",
+     "at": 0,
+     "start": 119.693,
+     "end": 120.813
+    }
+   ]
+  },
+  {
+   "index": 29,
+   "lang": "is",
+   "text": "Safnið er opið í dag.",
+   "translation": "The museum is open today.",
+   "start": 121.208,
+   "end": 123.246,
+   "words": [
+    {
+     "text": "Safnið",
+     "at": 0,
+     "start": 121.208,
+     "end": 121.848
+    },
+    {
+     "text": "er",
+     "at": 7,
+     "start": 121.968,
+     "end": 122.088
+    },
+    {
+     "text": "opið",
+     "at": 10,
+     "start": 122.248,
+     "end": 122.488
+    },
+    {
+     "text": "í",
+     "at": 15,
+     "start": 122.528,
+     "end": 122.568
+    },
+    {
+     "text": "dag",
+     "at": 17,
+     "start": 122.648,
+     "end": 123.288
+    }
+   ]
+  },
+  {
+   "index": 30,
+   "lang": "en",
+   "text": "The museum is open today.",
+   "translation": "The museum is open today.",
+   "start": 123.69,
+   "end": 125.806,
+   "words": [
+    {
+     "text": "The",
+     "at": 0,
+     "start": 123.69,
+     "end": 123.77
+    },
+    {
+     "text": "museum",
+     "at": 4,
+     "start": 123.85,
+     "end": 124.33
+    },
+    {
+     "text": "is",
+     "at": 11,
+     "start": 124.41,
+     "end": 124.57
+    },
+    {
+     "text": "open",
+     "at": 14,
+     "start": 124.65,
+     "end": 124.89
+    },
+    {
+     "text": "today",
+     "at": 19,
+     "start": 124.97,
+     "end": 125.77
+    }
+   ]
+  },
+  {
+   "index": 31,
+   "lang": "is",
+   "text": "Fimmta orðið er kvenkynsorð.",
+   "translation": "The fifth word is a feminine noun.",
+   "start": 126.25,
+   "end": 129.097,
+   "words": [
+    {
+     "text": "Fimmta",
+     "at": 0,
+     "start": 126.25,
+     "end": 126.73
+    },
+    {
+     "text": "orðið",
+     "at": 7,
+     "start": 126.81,
+     "end": 127.29
+    },
+    {
+     "text": "er",
+     "at": 13,
+     "start": 127.45,
+     "end": 127.61
+    },
+    {
+     "text": "kvenkynsorð",
+     "at": 16,
+     "start": 127.77,
+     "end": 129.05
+    }
+   ]
+  },
+  {
+   "index": 32,
+   "lang": "is",
+   "text": "samúð",
+   "translation": "sympathy",
+   "start": 129.384,
+   "end": 130.377,
+   "words": [
+    {
+     "text": "samúð",
+     "at": 0,
+     "start": 129.384,
+     "end": 130.424
+    }
+   ]
+  },
+  {
+   "index": 33,
+   "lang": "en",
+   "text": "Sympathy.",
+   "translation": "Sympathy.",
+   "start": 130.821,
+   "end": 131.892,
+   "words": [
+    {
+     "text": "Sympathy",
+     "at": 0,
+     "start": 130.821,
+     "end": 131.941
+    }
+   ]
+  },
+  {
+   "index": 34,
+   "lang": "is",
+   "text": "Ég votta þér samúð mína.",
+   "translation": "I offer you my condolences.",
+   "start": 132.336,
+   "end": 134.452,
+   "words": [
+    {
+     "text": "Ég",
+     "at": 0,
+     "start": 132.336,
+     "end": 132.496
+    },
+    {
+     "text": "votta",
+     "at": 3,
+     "start": 132.576,
+     "end": 132.976
+    },
+    {
+     "text": "þér",
+     "at": 9,
+     "start": 133.016,
+     "end": 133.216
+    },
+    {
+     "text": "samúð",
+     "at": 13,
+     "start": 133.296,
+     "end": 133.776
+    },
+    {
+     "text": "mína",
+     "at": 19,
+     "start": 133.816,
+     "end": 134.416
+    }
+   ]
+  },
+  {
+   "index": 35,
+   "lang": "en",
+   "text": "I offer you my condolences.",
+   "translation": "I offer you my condolences.",
+   "start": 134.896,
+   "end": 136.934,
+   "words": [
+    {
+     "text": "I",
+     "at": 0,
+     "start": 134.896,
+     "end": 135.056
+    },
+    {
+     "text": "offer",
+     "at": 2,
+     "start": 135.136,
+     "end": 135.376
+    },
+    {
+     "text": "you",
+     "at": 8,
+     "start": 135.456,
+     "end": 135.536
+    },
+    {
+     "text": "my",
+     "at": 12,
+     "start": 135.616,
+     "end": 135.696
+    },
+    {
+     "text": "condolences",
+     "at": 15,
+     "start": 135.776,
+     "end": 136.976
+    }
+   ]
+  },
+  {
+   "index": 36,
+   "lang": "is",
+   "text": "Setning dagsins.",
+   "translation": "Sentence of the day.",
+   "start": 137.378,
+   "end": 138.867,
+   "words": [
+    {
+     "text": "Setning",
+     "at": 0,
+     "start": 137.378,
+     "end": 137.858
+    },
+    {
+     "text": "dagsins",
+     "at": 8,
+     "start": 137.938,
+     "end": 138.818
+    }
+   ]
+  },
+  {
+   "index": 37,
+   "lang": "is",
+   "text": "Veistu hvort safnið er opið í dag?",
+   "translation": "Do you know if the museum is open today?",
+   "start": 139.154,
+   "end": 141.662,
+   "words": [
+    {
+     "text": "Veistu",
+     "at": 0,
+     "start": 139.154,
+     "end": 139.554
+    },
+    {
+     "text": "hvort",
+     "at": 7,
+     "start": 139.594,
+     "end": 139.794
+    },
+    {
+     "text": "safnið",
+     "at": 13,
+     "start": 139.874,
+     "end": 140.354
+    },
+    {
+     "text": "er",
+     "at": 20,
+     "start": 140.434,
+     "end": 140.514
+    },
+    {
+     "text": "opið",
+     "at": 23,
+     "start": 140.594,
+     "end": 140.914
+    },
+    {
+     "text": "í",
+     "at": 28,
+     "start": 140.954,
+     "end": 140.994
+    },
+    {
+     "text": "dag",
+     "at": 30,
+     "start": 141.074,
+     "end": 141.714
+    }
+   ]
+  },
+  {
+   "index": 38,
+   "lang": "en",
+   "text": "Do you know if the museum is open today?",
+   "translation": "Do you know if the museum is open today?",
+   "start": 142.106,
+   "end": 144.536,
+   "words": [
+    {
+     "text": "Do",
+     "at": 0,
+     "start": 142.106,
+     "end": 142.266
+    },
+    {
+     "text": "you",
+     "at": 3,
+     "start": 142.346,
+     "end": 142.426
+    },
+    {
+     "text": "know",
+     "at": 7,
+     "start": 142.506,
+     "end": 142.586
+    },
+    {
+     "text": "if",
+     "at": 12,
+     "start": 142.666,
+     "end": 142.746
+    },
+    {
+     "text": "the",
+     "at": 15,
+     "start": 142.826,
+     "end": 142.866
+    },
+    {
+     "text": "museum",
+     "at": 19,
+     "start": 142.906,
+     "end": 143.386
+    },
+    {
+     "text": "is",
+     "at": 26,
+     "start": 143.466,
+     "end": 143.546
+    },
+    {
+     "text": "open",
+     "at": 29,
+     "start": 143.626,
+     "end": 143.866
+    },
+    {
+     "text": "today",
+     "at": 34,
+     "start": 143.946,
+     "end": 144.586
+    }
+   ]
+  },
+  {
+   "index": 39,
+   "lang": "is",
+   "text": "Veistu hvort safnið er opið í dag?",
+   "translation": "Do you know if the museum is open today?",
+   "start": 144.98,
+   "end": 147.331,
+   "words": [
+    {
+     "text": "Veistu",
+     "at": 0,
+     "start": 144.98,
+     "end": 145.34
+    },
+    {
+     "text": "hvort",
+     "at": 7,
+     "start": 145.38,
+     "end": 145.62
+    },
+    {
+     "text": "safnið",
+     "at": 13,
+     "start": 145.7,
+     "end": 146.1
+    },
+    {
+     "text": "er",
+     "at": 20,
+     "start": 146.18,
+     "end": 146.26
+    },
+    {
+     "text": "opið",
+     "at": 23,
+     "start": 146.38,
+     "end": 146.58
+    },
+    {
+     "text": "í",
+     "at": 28,
+     "start": 146.62,
+     "end": 146.66
+    },
+    {
+     "text": "dag",
+     "at": 30,
+     "start": 146.74,
+     "end": 147.3
+    }
+   ]
+  },
+  {
+   "index": 40,
+   "lang": "is",
+   "text": "Orðasambönd dagsins.",
+   "translation": "Phrases of the day.",
+   "start": 147.618,
+   "end": 149.891,
+   "words": [
+    {
+     "text": "Orðasambönd",
+     "at": 0,
+     "start": 147.618,
+     "end": 148.498
+    },
+    {
+     "text": "dagsins",
+     "at": 12,
+     "start": 148.538,
+     "end": 149.858
+    }
+   ]
+  },
+  {
+   "index": 41,
+   "lang": "is",
+   "text": "Veistu hvort",
+   "translation": "Do you know if",
+   "start": 150.178,
+   "end": 151.589,
+   "words": [
+    {
+     "text": "Veistu",
+     "at": 0,
+     "start": 150.178,
+     "end": 150.658
+    },
+    {
+     "text": "hvort",
+     "at": 7,
+     "start": 150.738,
+     "end": 151.618
+    }
+   ]
+  },
+  {
+   "index": 42,
+   "lang": "en",
+   "text": "Do you know if.",
+   "translation": "Do you know if.",
+   "start": 152.033,
+   "end": 153.678,
+   "words": [
+    {
+     "text": "Do",
+     "at": 0,
+     "start": 152.033,
+     "end": 152.273
+    },
+    {
+     "text": "you",
+     "at": 3,
+     "start": 152.353,
+     "end": 152.433
+    },
+    {
+     "text": "know",
+     "at": 7,
+     "start": 152.513,
+     "end": 152.833
+    },
+    {
+     "text": "if",
+     "at": 12,
+     "start": 153.073,
+     "end": 153.713
+    }
+   ]
+  },
+  {
+   "index": 43,
+   "lang": "is",
+   "text": "opið í dag",
+   "translation": "open today",
+   "start": 154.122,
+   "end": 155.35,
+   "words": [
+    {
+     "text": "opið",
+     "at": 0,
+     "start": 154.122,
+     "end": 154.522
+    },
+    {
+     "text": "í",
+     "at": 5,
+     "start": 154.602,
+     "end": 154.682
+    },
+    {
+     "text": "dag",
+     "at": 7,
+     "start": 154.922,
+     "end": 155.402
+    }
+   ]
+  },
+  {
+   "index": 44,
+   "lang": "en",
+   "text": "Open today.",
+   "translation": "Open today.",
+   "start": 155.794,
+   "end": 156.865,
+   "words": [
+    {
+     "text": "Open",
+     "at": 0,
+     "start": 155.794,
+     "end": 156.114
+    },
+    {
+     "text": "today",
+     "at": 5,
+     "start": 156.354,
+     "end": 156.914
+    }
+   ]
+  },
+  {
+   "index": 45,
+   "lang": "is",
+   "text": "Eigðu góðan og rólegan föstudag. Bless bless.",
+   "translation": "Have a good and peaceful Friday. Bye bye.",
+   "start": 157.309,
+   "end": 161.176,
+   "words": [
+    {
+     "text": "Eigðu",
+     "at": 0,
+     "start": 157.309,
+     "end": 157.629
+    },
+    {
+     "text": "góðan",
+     "at": 6,
+     "start": 157.709,
+     "end": 158.269
+    },
+    {
+     "text": "og",
+     "at": 12,
+     "start": 158.349,
+     "end": 158.429
+    },
+    {
+     "text": "rólegan",
+     "at": 15,
+     "start": 158.509,
+     "end": 159.069
+    },
+    {
+     "text": "föstudag",
+     "at": 23,
+     "start": 159.149,
+     "end": 160.269
+    },
+    {
+     "text": "Bless",
+     "at": 33,
+     "start": 160.309,
+     "end": 160.509
+    },
+    {
+     "text": "bless",
+     "at": 39,
+     "start": 160.589,
+     "end": 161.229
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,393 @@
+{
+  "title": "Hvassviðri á fimmtudegi",
+  "segments": [
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Góðan daginn frá Húsavík.",
+      "translation": "Good morning from Húsavík."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í dag er fimmtudagurinn tuttugasti og sjötti nóvember. Klukkan er rúmlega hálf sjö.",
+      "translation": "Today is Thursday the twenty-sixth of November. It is just after half past six."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Veðrið í dag.",
+      "translation": "The weather today."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Núna er alskýjað og hitinn er sex gráður. Frá klukkan átta til tíu er lítils háttar rigning. Vindurinn er fimm til sjö metrar á sekúndu, úr suðaustri.",
+      "translation": "Right now it is overcast and the temperature is six degrees. From eight to ten o'clock there is light rain. The wind is five to seven metres per second, from the southeast."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Í dag verður hitinn fimm til sjö gráður og alskýjað. Það hvessir eftir hádegi. Í kvöld verður vindurinn allt að átján metrar á sekúndu. Um klukkan sex rignir aftur. Seint í kvöld léttir til.",
+      "translation": "Today the temperature will be five to seven degrees and overcast. The wind picks up after noon. This evening the wind will be up to eighteen metres per second. Around six o'clock it rains again. Late this evening it clears up."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Sólin kemur upp átta mínútur yfir hálf ellefu og sest þrettán mínútur yfir þrjú.",
+      "translation": "The sun rises at ten thirty-eight and sets at three thirteen."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Frá Norðurþingi.",
+      "translation": "From Norðurþing."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Miðgarður er lokaður fyrir umferð við Stóragarð. Garðarsbraut er líka þrengri við Hjarðarhól. Þetta stendur fram eftir degi í dag. Tilkynningin er frá Orkuveitu Húsavíkur og Rarik.",
+      "translation": "Miðgarður is closed to traffic at Stórigarður. Garðarsbraut is also narrowed at Hjarðarhóll. This lasts until later in the day today. The notice is from Húsavík Energy and Rarik."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fréttir dagsins.",
+      "translation": "Today's news."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Veðurstofan hefur gefið út gular viðvaranir um allt land. Það er hvassviðri eða stormur. Á Austfjörðum og Suðausturlandi er líka mikil rigning.",
+      "translation": "The Met Office has issued yellow warnings for the whole country. There are strong winds or a storm. In the Eastfjords and the southeast there is also heavy rain."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fiskiskipið Jökull frá Raufarhöfn sökk úti fyrir Austfjörðum í gær. Sautján voru í áhöfninni. Þyrla Landhelgisgæslunnar flutti þá til Egilsstaða. Ekki er vitað hvernig þeim líður.",
+      "translation": "The fishing boat Jökull from Raufarhöfn sank off the Eastfjords yesterday. There were seventeen in the crew. A Coast Guard helicopter took them to Egilsstaðir. It is not known how they are doing."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimm orð dagsins.",
+      "translation": "Five words of the day."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fyrsta orðið er kvenkynsorð.",
+      "translation": "The first word is a feminine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "umferð",
+      "translation": "traffic"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Traffic.",
+      "translation": "Traffic."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Það er lokað fyrir umferð við Miðgarð.",
+      "translation": "It is closed to traffic at Miðgarður."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "It is closed to traffic at Miðgarður.",
+      "translation": "It is closed to traffic at Miðgarður."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Annað orðið er hvorugkynsorð.",
+      "translation": "The second word is a neuter noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "hvassviðri",
+      "translation": "strong wind, gale"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Strong wind, a gale.",
+      "translation": "Strong wind, a gale."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Það verður hvassviðri í kvöld.",
+      "translation": "There will be strong winds this evening."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "There will be strong winds this evening.",
+      "translation": "There will be strong winds this evening."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Þriðja orðið er kvenkynsorð.",
+      "translation": "The third word is a feminine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "þyrla",
+      "translation": "helicopter"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Helicopter.",
+      "translation": "Helicopter."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Þyrlan flaug til Egilsstaða.",
+      "translation": "The helicopter flew to Egilsstaðir."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "The helicopter flew to Egilsstaðir.",
+      "translation": "The helicopter flew to Egilsstaðir."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fjórða orðið er kvenkynsorð.",
+      "translation": "The fourth word is a feminine noun."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "áhöfn",
+      "translation": "crew"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Crew.",
+      "translation": "Crew."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Í áhöfninni voru sautján manns.",
+      "translation": "There were seventeen people in the crew."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "There were seventeen people in the crew.",
+      "translation": "There were seventeen people in the crew."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Fimmta orðið er sögn.",
+      "translation": "The fifth word is a verb."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "að sökkva",
+      "translation": "to sink"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "To sink.",
+      "translation": "To sink."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Skipið sökk í gær.",
+      "translation": "The ship sank yesterday."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "The ship sank yesterday.",
+      "translation": "The ship sank yesterday."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Setning dagsins.",
+      "translation": "Sentence of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "Farðu varlega, það er hvasst úti.",
+      "translation": "Take care, it's windy outside."
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Take care, it's windy outside.",
+      "translation": "Take care, it's windy outside."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Farðu varlega, það er hvasst úti.",
+      "translation": "Take care, it's windy outside."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Orðasambönd dagsins.",
+      "translation": "Phrases of the day."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "farðu varlega",
+      "translation": "take care"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Take care, be careful.",
+      "translation": "Take care, be careful."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "það er hvasst",
+      "translation": "it's windy"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "It's windy.",
+      "translation": "It's windy."
+    },
+    {
+      "lang": "is",
+      "slow": true,
+      "pause_after": false,
+      "text": "úti",
+      "translation": "outside"
+    },
+    {
+      "lang": "en",
+      "slow": false,
+      "pause_after": false,
+      "text": "Outside.",
+      "translation": "Outside."
+    },
+    {
+      "lang": "is",
+      "slow": false,
+      "pause_after": false,
+      "text": "Farðu varlega í rokinu og eigðu góðan fimmtudag! Bless bless.",
+      "translation": "Take care in the wind and have a good Thursday! Bye bye."
+    }
+  ],
+  "words": [
+    {
+      "icelandic": "umferð",
+      "english": "traffic"
+    },
+    {
+      "icelandic": "hvassviðri",
+      "english": "strong wind, gale"
+    },
+    {
+      "icelandic": "þyrla",
+      "english": "helicopter"
+    },
+    {
+      "icelandic": "áhöfn",
+      "english": "crew"
+    },
+    {
+      "icelandic": "að sökkva",
+      "english": "to sink"
+    }
+  ],
+  "sentence": {
+    "icelandic": "Farðu varlega, það er hvasst úti.",
+    "english": "Take care, it's windy outside."
+  },
+  "phrases": [
+    {
+      "icelandic": "farðu varlega",
+      "english": "take care, be careful"
+    },
+    {
+      "icelandic": "það er hvasst",
+      "english": "it's windy"
+    },
+    {
+      "icelandic": "úti",
+      "english": "outside"
+    }
+  ],
+  "news_links": [
+    "https://www.nordurthing.is/is/frettir/lokad-fyrir-umferd-vid-midgard-og-threnging-vegar-a-gardarsbraut",
+    "https://www.ruv.is/frettir/innlent/2026-11-26-hvassvidri-eda-stormur-um-allt-land-493894/",
+    "https://www.ruv.is/frettir/innlent/2026-11-25-adgerdum-landhelgisgaeslunnar-vegna-skipsskada-lokid-493816/"
+  ]
+}
